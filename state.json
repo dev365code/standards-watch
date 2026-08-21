@@ -1,0 +1,122 @@
+{
+ "_events": [],
+ "aas-test-engines": {
+  "checked": "2026-08-21T07:21:36Z",
+  "seen": []
+ },
+ "basyx-python": {
+  "checked": "2026-08-21T07:21:36Z",
+  "seen": [
+   "131507958",
+   "190143295",
+   "214211718",
+   "223849495",
+   "267687024",
+   "311198448",
+   "354953479",
+   "68447754"
+  ]
+ },
+ "idta-templates": {
+  "checked": "2026-08-21T07:21:36Z",
+  "seen": [
+   "Artificial Intelligence Dataset",
+   "Artificial Intelligence Deployment",
+   "Artificial Intelligence Model Nameplate",
+   "Asset Interfaces Description",
+   "Asset Interfaces Mapping Configuration",
+   "Capability Description",
+   "Carbon Footprint",
+   "Contact Information",
+   "Control Component Instance",
+   "Control Component Type",
+   "Control Configuration and Parametrization for NC and CNC Machines",
+   "Creation and Classification of Materials",
+   "DEXPI",
+   "Data Model for Asset Location",
+   "Data Retention Policies",
+   "Digital Battery Passport",
+   "Digital Product Passport",
+   "Digital Quality Documents",
+   "Digital nameplate",
+   "Energy Flexibility Data Model",
+   "Factory Automation Data for Plant Planning",
+   "Functional Safety",
+   "Handover Documentation",
+   "Hierarchical Structures enabling Bills of Material",
+   "Inspection Documents of Steel Products",
+   "Intelligent Information  for Use",
+   "MTP",
+   "Maintenance Instructions",
+   "Material Data for Plastic Waste",
+   "OPC UA Server Datasheet",
+   "Plant Asset Management Specification Sheet",
+   "Plastic and Rubber Moulds",
+   "Predictive Maintenance",
+   "Process Parameters Instance",
+   "Process Parameters Type",
+   "Process Variables for Manufacturing Key Performance Indicators",
+   "Product Change Notifications",
+   "Production Calendar",
+   "Provision of 3D Models",
+   "Provision of Company Data",
+   "Provision of Simulation Models",
+   "Purchase Order",
+   "Quality Control for Machining",
+   "Reliability",
+   "Service Request Notification",
+   "Sizing of Power Drive Trains",
+   "Software Nameplate",
+   "Technical Data for Automated Guided Vehicles",
+   "Technical_Data",
+   "Time Series Data",
+   "Wireless Communication",
+   "Worskstation Worker Matching Data",
+   "sensor4.0"
+  ]
+ },
+ "iirds-models-issues": {
+  "checked": "2026-08-21T07:21:36Z",
+  "seen": []
+ },
+ "iirds-models-releases": {
+  "checked": "2026-08-21T07:21:36Z",
+  "seen": [
+   "129019841",
+   "54592848"
+  ]
+ },
+ "iirds-news": {
+  "checked": "2026-08-21T07:21:36Z",
+  "hash": "8158805c2399e8921aecea735ebe4d47a11f952ac19d25139ee036b9fd7140fe"
+ },
+ "iirds-spec-issues": {
+  "checked": "2026-08-21T07:21:36Z",
+  "seen": []
+ },
+ "iirds-spec-releases": {
+  "checked": "2026-08-21T07:21:36Z",
+  "seen": [
+   "129021069",
+   "260543540",
+   "55524726"
+  ]
+ },
+ "nlnet-calls": {
+  "checked": "2026-08-21T07:21:36Z",
+  "hash": "ac73c933a856fb290cedef1a8931c13f48bde69893c2cef38374cdb737b71beb"
+ },
+ "vdi2770-releases": {
+  "checked": "2026-08-21T07:21:36Z",
+  "seen": [
+   "137851639",
+   "57780092",
+   "57780104",
+   "58817039",
+   "63011735",
+   "74641079",
+   "82193143",
+   "92532133"
+  ]
+ }
+}

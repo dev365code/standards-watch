@@ -1,0 +1,15 @@
+{
+  "_comment": "What this tower watches. Data, not code: adding a source is a row, not a patch.",
+  "sources": [
+    {"key": "iirds-spec-releases",  "kind": "gh_releases", "repo": "iirds-consortium/specification", "label": "iiRDS specification releases"},
+    {"key": "iirds-models-releases","kind": "gh_releases", "repo": "iirds-consortium/models",        "label": "iiRDS models releases"},
+    {"key": "iirds-spec-issues",    "kind": "gh_issues",   "repo": "iirds-consortium/specification", "label": "iiRDS spec issue activity"},
+    {"key": "iirds-models-issues",  "kind": "gh_issues",   "repo": "iirds-consortium/models",        "label": "iiRDS models issue activity"},
+    {"key": "vdi2770-releases",     "kind": "gh_releases", "repo": "DigitalDataChainConsortium/vdi2770", "label": "VDI 2770 reference implementation releases"},
+    {"key": "idta-templates",       "kind": "gh_dir",      "repo": "admin-shell-io/submodel-templates", "path": "published", "label": "IDTA submodel templates (published)"},
+    {"key": "basyx-python",         "kind": "gh_releases", "repo": "eclipse-basyx/basyx-python-sdk",  "label": "BaSyx Python SDK releases"},
+    {"key": "aas-test-engines",     "kind": "gh_releases", "repo": "admin-shell-io/aas-test-engines", "label": "AAS test engines releases"},
+    {"key": "nlnet-calls",          "kind": "html",        "url": "https://nlnet.nl/propose/",        "label": "NLnet open calls page"},
+    {"key": "iirds-news",           "kind": "html",        "url": "https://www.iirds.org/news/",      "label": "iirds.org news page"}
+  ]
+}
