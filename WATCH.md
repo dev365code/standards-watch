@@ -11,13 +11,13 @@ Subscribe via [feed.xml](feed.xml) in any RSS reader.
 
 | source | kind | last checked |
 |---|---|---|
-| iiRDS specification releases | gh_releases | 2026-08-22T06:58 |
-| iiRDS models releases | gh_releases | 2026-08-22T06:58 |
-| iiRDS spec issue activity | gh_issues | 2026-08-22T06:58 |
-| iiRDS models issue activity | gh_issues | 2026-08-22T06:58 |
-| VDI 2770 reference implementation releases | gh_releases | 2026-08-22T06:58 |
-| IDTA submodel templates (published) | gh_dir | 2026-08-22T06:58 |
-| BaSyx Python SDK releases | gh_releases | 2026-08-22T06:58 |
-| AAS test engines releases | gh_releases | 2026-08-22T06:58 |
-| NLnet open calls page | html | 2026-08-22T06:58 |
-| iirds.org news page | html | 2026-08-22T06:58 |
+| iiRDS specification releases | gh_releases | 2026-08-23T06:59 |
+| iiRDS models releases | gh_releases | 2026-08-23T06:59 |
+| iiRDS spec issue activity | gh_issues | 2026-08-23T06:59 |
+| iiRDS models issue activity | gh_issues | 2026-08-23T06:59 |
+| VDI 2770 reference implementation releases | gh_releases | 2026-08-23T06:59 |
+| IDTA submodel templates (published) | gh_dir | 2026-08-23T06:59 |
+| BaSyx Python SDK releases | gh_releases | 2026-08-23T06:59 |
+| AAS test engines releases | gh_releases | 2026-08-23T06:59 |
+| NLnet open calls page | html | 2026-08-23T06:59 |
+| iirds.org news page | html | 2026-08-23T06:59 |
