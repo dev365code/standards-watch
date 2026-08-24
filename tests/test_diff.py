@@ -35,3 +35,24 @@ def test_hash_change_fires_once_then_settles():
     changed = diff_hash(state, "h2", "page", "u", TODAY)
     assert len(changed) == 1 and changed[0]["url"] == "u"
     assert diff_hash(state, "h2", "page", "u", TODAY) == []
+
+
+def test_a_source_that_first_saw_nothing_still_reports_its_first_arrival():
+    """An issue watcher's first look uses `since=now` and legitimately finds
+    nothing. Treating "found nothing" as "never looked" makes the next arrival
+    look like first sight, and the watcher swallows the one event it exists for.
+
+    Five sources were in that state when this was found, including every issue
+    watcher — the ones that tell us a standards body answered.
+    """
+    state = {}
+    assert diff_seen(state, [], "issues", "day1") == []          # first look: quiet
+    assert "seen" in state, "the first look must record that it happened"
+    events = diff_seen(state, [("i#38", "a reply arrived", "u")], "issues", "day2")
+    assert [e["title"] for e in events] == ["a reply arrived"]
+
+
+def test_a_genuine_first_sight_is_still_silent():
+    state = {}
+    assert diff_seen(state, [("a", "A", "u"), ("b", "B", "u")], "releases", "day1") == []
+    assert diff_seen(state, [("a", "A", "u"), ("c", "C", "u")], "releases", "day2") != []

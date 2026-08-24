@@ -17,6 +17,10 @@
    "68447754"
   ]
  },
+ "ddcc-news": {
+  "checked": "2026-08-24T00:53:43Z",
+  "hash": "fbe683105825b58543ecf26f8e7bd1678cad42e8a5ba2a56c2aed2483e062e50"
+ },
  "idta-templates": {
   "checked": "2026-08-23T06:59:15Z",
   "seen": [
@@ -75,6 +79,7 @@
    "sensor4.0"
   ]
  },
+ "idta-templates-issues": {},
  "iirds-models-issues": {
   "checked": "2026-08-23T06:59:15Z",
   "seen": []
@@ -87,7 +92,7 @@
   ]
  },
  "iirds-news": {
-  "checked": "2026-08-23T06:59:15Z",
+  "checked": "2026-08-24T00:53:43Z",
   "hash": "8158805c2399e8921aecea735ebe4d47a11f952ac19d25139ee036b9fd7140fe"
  },
  "iirds-spec-issues": {
@@ -103,9 +108,10 @@
   ]
  },
  "nlnet-calls": {
-  "checked": "2026-08-23T06:59:15Z",
+  "checked": "2026-08-24T00:53:43Z",
   "hash": "ac73c933a856fb290cedef1a8931c13f48bde69893c2cef38374cdb737b71beb"
  },
+ "vdi2770-issues": {},
  "vdi2770-releases": {
   "checked": "2026-08-23T06:59:15Z",
   "seen": [
@@ -118,5 +124,9 @@
    "82193143",
    "92532133"
   ]
+ },
+ "vdi2770-schema-file": {
+  "checked": "2026-08-24T00:53:43Z",
+  "hash": "f7a704fe4bba095eaa4e95be0b9853205412301ad09c4bcffb4c5f0f666cb805"
  }
 }

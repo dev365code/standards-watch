@@ -1,15 +1,90 @@
 {
-  "_comment": "What this tower watches. Data, not code: adding a source is a row, not a patch.",
-  "sources": [
-    {"key": "iirds-spec-releases",  "kind": "gh_releases", "repo": "iirds-consortium/specification", "label": "iiRDS specification releases"},
-    {"key": "iirds-models-releases","kind": "gh_releases", "repo": "iirds-consortium/models",        "label": "iiRDS models releases"},
-    {"key": "iirds-spec-issues",    "kind": "gh_issues",   "repo": "iirds-consortium/specification", "label": "iiRDS spec issue activity"},
-    {"key": "iirds-models-issues",  "kind": "gh_issues",   "repo": "iirds-consortium/models",        "label": "iiRDS models issue activity"},
-    {"key": "vdi2770-releases",     "kind": "gh_releases", "repo": "DigitalDataChainConsortium/vdi2770", "label": "VDI 2770 reference implementation releases"},
-    {"key": "idta-templates",       "kind": "gh_dir",      "repo": "admin-shell-io/submodel-templates", "path": "published", "label": "IDTA submodel templates (published)"},
-    {"key": "basyx-python",         "kind": "gh_releases", "repo": "eclipse-basyx/basyx-python-sdk",  "label": "BaSyx Python SDK releases"},
-    {"key": "aas-test-engines",     "kind": "gh_releases", "repo": "admin-shell-io/aas-test-engines", "label": "AAS test engines releases"},
-    {"key": "nlnet-calls",          "kind": "html",        "url": "https://nlnet.nl/propose/",        "label": "NLnet open calls page"},
-    {"key": "iirds-news",           "kind": "html",        "url": "https://www.iirds.org/news/",      "label": "iirds.org news page"}
-  ]
+ "_comment": "What this tower watches. Data, not code: adding a source is a row, not a patch.  Two of these watch issue threads we have posted into, because an answer arrives on the standards body's schedule and nobody is polling. The VDI entry hashes the schema FILE, not the page that links it: the page carries a per-request token and would fire on every run, which is how a feed teaches its reader to ignore it.",
+ "sources": [
+  {
+   "key": "iirds-spec-releases",
+   "kind": "gh_releases",
+   "repo": "iirds-consortium/specification",
+   "label": "iiRDS specification releases"
+  },
+  {
+   "key": "iirds-models-releases",
+   "kind": "gh_releases",
+   "repo": "iirds-consortium/models",
+   "label": "iiRDS models releases"
+  },
+  {
+   "key": "iirds-spec-issues",
+   "kind": "gh_issues",
+   "repo": "iirds-consortium/specification",
+   "label": "iiRDS spec issue activity"
+  },
+  {
+   "key": "iirds-models-issues",
+   "kind": "gh_issues",
+   "repo": "iirds-consortium/models",
+   "label": "iiRDS models issue activity"
+  },
+  {
+   "key": "vdi2770-releases",
+   "kind": "gh_releases",
+   "repo": "DigitalDataChainConsortium/vdi2770",
+   "label": "VDI 2770 reference implementation releases"
+  },
+  {
+   "key": "idta-templates",
+   "kind": "gh_dir",
+   "repo": "admin-shell-io/submodel-templates",
+   "path": "published",
+   "label": "IDTA submodel templates (published)"
+  },
+  {
+   "key": "basyx-python",
+   "kind": "gh_releases",
+   "repo": "eclipse-basyx/basyx-python-sdk",
+   "label": "BaSyx Python SDK releases"
+  },
+  {
+   "key": "aas-test-engines",
+   "kind": "gh_releases",
+   "repo": "admin-shell-io/aas-test-engines",
+   "label": "AAS test engines releases"
+  },
+  {
+   "key": "nlnet-calls",
+   "kind": "html",
+   "url": "https://nlnet.nl/propose/",
+   "label": "NLnet open calls page"
+  },
+  {
+   "key": "iirds-news",
+   "kind": "html",
+   "url": "https://www.iirds.org/news/",
+   "label": "iirds.org news page"
+  },
+  {
+   "key": "vdi2770-issues",
+   "kind": "gh_issues",
+   "repo": "DigitalDataChainConsortium/vdi2770",
+   "label": "VDI 2770 reference implementation issue activity"
+  },
+  {
+   "key": "idta-templates-issues",
+   "kind": "gh_issues",
+   "repo": "admin-shell-io/submodel-templates",
+   "label": "IDTA submodel template issue activity"
+  },
+  {
+   "key": "ddcc-news",
+   "kind": "html",
+   "url": "https://digitaldatachain.com/news/",
+   "label": "Digital Data Chain Consortium news"
+  },
+  {
+   "key": "vdi2770-schema-file",
+   "kind": "html",
+   "url": "https://www.vdi.de/fileadmin/pages/vdi_de/redakteure/richtlinien/dateien/vdi2770/VDI_2770_1_de_Deklaration_des_XML-Schemas_-_Declaration_of_the_XML_model.xsd",
+   "label": "VDI 2770 XML schema file (byte hash of the file itself, not its page)"
+  }
+ ]
 }

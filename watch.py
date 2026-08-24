@@ -76,7 +76,11 @@ def diff_seen(state: dict, fetched, label: str, today: str):
     'new' events on day one has taught its readers to ignore it by day two."""
     seen = set(state.get("seen", []))
     events = []
-    if seen:
+    # "have we looked before", not "did we find anything". An issue watcher's
+    # first look uses `since=now` and legitimately returns nothing, so testing
+    # the set for truthiness makes the *next* arrival look like first sight and
+    # swallows it — which is exactly the event the watcher exists for.
+    if "seen" in state:
         for item_id, title, url in fetched:
             if item_id not in seen:
                 events.append({"date": today, "source": label, "title": title, "url": url})
