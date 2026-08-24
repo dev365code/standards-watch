@@ -5,23 +5,23 @@ Subscribe via [feed.xml](feed.xml) in any RSS reader.
 
 ## Latest
 
-- (baseline established; events appear as the world moves)
+- **2026-08-24** · [page changed — worth a look](https://digitaldatachain.com/news/) · Digital Data Chain Consortium news
 
 ## Watched sources
 
 | source | kind | last checked |
 |---|---|---|
-| iiRDS specification releases | gh_releases | 2026-08-23T06:59 |
-| iiRDS models releases | gh_releases | 2026-08-23T06:59 |
-| iiRDS spec issue activity | gh_issues | 2026-08-23T06:59 |
-| iiRDS models issue activity | gh_issues | 2026-08-23T06:59 |
-| VDI 2770 reference implementation releases | gh_releases | 2026-08-23T06:59 |
-| IDTA submodel templates (published) | gh_dir | 2026-08-23T06:59 |
-| BaSyx Python SDK releases | gh_releases | 2026-08-23T06:59 |
-| AAS test engines releases | gh_releases | 2026-08-23T06:59 |
-| NLnet open calls page | html | 2026-08-24T00:53 |
-| iirds.org news page | html | 2026-08-24T00:53 |
-| VDI 2770 reference implementation issue activity | gh_issues | — |
-| IDTA submodel template issue activity | gh_issues | — |
-| Digital Data Chain Consortium news | html | 2026-08-24T00:53 |
-| VDI 2770 XML schema file (byte hash of the file itself, not its page) | html | 2026-08-24T00:53 |
+| iiRDS specification releases | gh_releases | 2026-08-24T07:19 |
+| iiRDS models releases | gh_releases | 2026-08-24T07:19 |
+| iiRDS spec issue activity | gh_issues | 2026-08-24T07:19 |
+| iiRDS models issue activity | gh_issues | 2026-08-24T07:19 |
+| VDI 2770 reference implementation releases | gh_releases | 2026-08-24T07:19 |
+| IDTA submodel templates (published) | gh_dir | 2026-08-24T07:19 |
+| BaSyx Python SDK releases | gh_releases | 2026-08-24T07:19 |
+| AAS test engines releases | gh_releases | 2026-08-24T07:19 |
+| NLnet open calls page | html | 2026-08-24T07:19 |
+| iirds.org news page | html | 2026-08-24T07:19 |
+| VDI 2770 reference implementation issue activity | gh_issues | 2026-08-24T07:19 |
+| IDTA submodel template issue activity | gh_issues | 2026-08-24T07:19 |
+| Digital Data Chain Consortium news | html | 2026-08-24T07:19 |
+| VDI 2770 XML schema file (byte hash of the file itself, not its page) | html | 2026-08-24T07:19 |
