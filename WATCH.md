@@ -5,23 +5,35 @@ Subscribe via [feed.xml](feed.xml) in any RSS reader.
 
 ## Latest
 
+- **2026-08-25** · [specification#25 example-40-Product-property-with-ECLASS-Classification wrong closing tag](https://github.com/iirds-consortium/specification/issues/25) · iiRDS spec issue activity
+- **2026-08-25** · [specification#26 example-08-Multi-language-PDF-document wrong format value](https://github.com/iirds-consortium/specification/issues/26) · iiRDS spec issue activity
+- **2026-08-25** · [specification#45 Give the Topic and the Fragment distinct IRIs](https://github.com/iirds-consortium/specification/pull/45) · iiRDS spec issue activity
+- **2026-08-25** · [specification#44 Keep the statusComment literals on one line](https://github.com/iirds-consortium/specification/pull/44) · iiRDS spec issue activity
+- **2026-08-25** · [specification#43 Drop the stray leading space from the nested-package IRI](https://github.com/iirds-consortium/specification/pull/43) · iiRDS spec issue activity
+- **2026-08-25** · [specification#42 Open the Topic element properly in the product-function example](https://github.com/iirds-consortium/specification/pull/42) · iiRDS spec issue activity
+- **2026-08-25** · [specification#31 iirds-core terms not covered in examples](https://github.com/iirds-consortium/specification/issues/31) · iiRDS spec issue activity
+- **2026-08-25** · [specification#41 Drop the stray XML declaration from the identity-type example](https://github.com/iirds-consortium/specification/pull/41) · iiRDS spec issue activity
+- **2026-08-25** · [specification#40 Fix "lifecylce" typo in the example title](https://github.com/iirds-consortium/specification/pull/40) · iiRDS spec issue activity
+- **2026-08-25** · [new template: Fire Protection on Railway Vehicles](https://github.com/admin-shell-io/submodel-templates/tree/main/published/Fire%20Protection%20on%20Railway%20Vehicles) · IDTA submodel templates (published)
+- **2026-08-25** · [submodel-templates#320 SMT Fire Protection on Railway Vehicles](https://github.com/admin-shell-io/submodel-templates/pull/320) · IDTA submodel template issue activity
+- **2026-08-25** · [page changed — worth a look](https://digitaldatachain.com/news/) · Digital Data Chain Consortium news
 - **2026-08-24** · [page changed — worth a look](https://digitaldatachain.com/news/) · Digital Data Chain Consortium news
 
 ## Watched sources
 
 | source | kind | last checked |
 |---|---|---|
-| iiRDS specification releases | gh_releases | 2026-08-24T07:19 |
-| iiRDS models releases | gh_releases | 2026-08-24T07:19 |
-| iiRDS spec issue activity | gh_issues | 2026-08-24T07:19 |
-| iiRDS models issue activity | gh_issues | 2026-08-24T07:19 |
-| VDI 2770 reference implementation releases | gh_releases | 2026-08-24T07:19 |
-| IDTA submodel templates (published) | gh_dir | 2026-08-24T07:19 |
-| BaSyx Python SDK releases | gh_releases | 2026-08-24T07:19 |
-| AAS test engines releases | gh_releases | 2026-08-24T07:19 |
-| NLnet open calls page | html | 2026-08-24T07:19 |
-| iirds.org news page | html | 2026-08-24T07:19 |
-| VDI 2770 reference implementation issue activity | gh_issues | 2026-08-24T07:19 |
-| IDTA submodel template issue activity | gh_issues | 2026-08-24T07:19 |
-| Digital Data Chain Consortium news | html | 2026-08-24T07:19 |
-| VDI 2770 XML schema file (byte hash of the file itself, not its page) | html | 2026-08-24T07:19 |
+| iiRDS specification releases | gh_releases | 2026-08-25T07:06 |
+| iiRDS models releases | gh_releases | 2026-08-25T07:06 |
+| iiRDS spec issue activity | gh_issues | 2026-08-25T07:06 |
+| iiRDS models issue activity | gh_issues | 2026-08-25T07:06 |
+| VDI 2770 reference implementation releases | gh_releases | 2026-08-25T07:06 |
+| IDTA submodel templates (published) | gh_dir | 2026-08-25T07:06 |
+| BaSyx Python SDK releases | gh_releases | 2026-08-25T07:06 |
+| AAS test engines releases | gh_releases | 2026-08-25T07:06 |
+| NLnet open calls page | html | 2026-08-25T07:06 |
+| iirds.org news page | html | 2026-08-25T07:06 |
+| VDI 2770 reference implementation issue activity | gh_issues | 2026-08-25T07:06 |
+| IDTA submodel template issue activity | gh_issues | 2026-08-25T07:06 |
+| Digital Data Chain Consortium news | html | 2026-08-25T07:06 |
+| VDI 2770 XML schema file (byte hash of the file itself, not its page) | html | 2026-08-25T07:06 |

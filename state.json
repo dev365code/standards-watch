@@ -1,6 +1,78 @@
 {
  "_events": [
   {
+   "date": "2026-08-25T07:06:57Z",
+   "source": "iiRDS spec issue activity",
+   "title": "specification#25 example-40-Product-property-with-ECLASS-Classification wrong closing tag",
+   "url": "https://github.com/iirds-consortium/specification/issues/25"
+  },
+  {
+   "date": "2026-08-25T07:06:57Z",
+   "source": "iiRDS spec issue activity",
+   "title": "specification#26 example-08-Multi-language-PDF-document wrong format value",
+   "url": "https://github.com/iirds-consortium/specification/issues/26"
+  },
+  {
+   "date": "2026-08-25T07:06:57Z",
+   "source": "iiRDS spec issue activity",
+   "title": "specification#45 Give the Topic and the Fragment distinct IRIs",
+   "url": "https://github.com/iirds-consortium/specification/pull/45"
+  },
+  {
+   "date": "2026-08-25T07:06:57Z",
+   "source": "iiRDS spec issue activity",
+   "title": "specification#44 Keep the statusComment literals on one line",
+   "url": "https://github.com/iirds-consortium/specification/pull/44"
+  },
+  {
+   "date": "2026-08-25T07:06:57Z",
+   "source": "iiRDS spec issue activity",
+   "title": "specification#43 Drop the stray leading space from the nested-package IRI",
+   "url": "https://github.com/iirds-consortium/specification/pull/43"
+  },
+  {
+   "date": "2026-08-25T07:06:57Z",
+   "source": "iiRDS spec issue activity",
+   "title": "specification#42 Open the Topic element properly in the product-function example",
+   "url": "https://github.com/iirds-consortium/specification/pull/42"
+  },
+  {
+   "date": "2026-08-25T07:06:57Z",
+   "source": "iiRDS spec issue activity",
+   "title": "specification#31 iirds-core terms not covered in examples",
+   "url": "https://github.com/iirds-consortium/specification/issues/31"
+  },
+  {
+   "date": "2026-08-25T07:06:57Z",
+   "source": "iiRDS spec issue activity",
+   "title": "specification#41 Drop the stray XML declaration from the identity-type example",
+   "url": "https://github.com/iirds-consortium/specification/pull/41"
+  },
+  {
+   "date": "2026-08-25T07:06:57Z",
+   "source": "iiRDS spec issue activity",
+   "title": "specification#40 Fix \"lifecylce\" typo in the example title",
+   "url": "https://github.com/iirds-consortium/specification/pull/40"
+  },
+  {
+   "date": "2026-08-25T07:06:57Z",
+   "source": "IDTA submodel templates (published)",
+   "title": "new template: Fire Protection on Railway Vehicles",
+   "url": "https://github.com/admin-shell-io/submodel-templates/tree/main/published/Fire%20Protection%20on%20Railway%20Vehicles"
+  },
+  {
+   "date": "2026-08-25T07:06:57Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#320 SMT Fire Protection on Railway Vehicles",
+   "url": "https://github.com/admin-shell-io/submodel-templates/pull/320"
+  },
+  {
+   "date": "2026-08-25T07:06:57Z",
+   "source": "Digital Data Chain Consortium news",
+   "title": "page changed \u2014 worth a look",
+   "url": "https://digitaldatachain.com/news/"
+  },
+  {
    "date": "2026-08-24T07:19:05Z",
    "source": "Digital Data Chain Consortium news",
    "title": "page changed \u2014 worth a look",
@@ -8,11 +80,11 @@
   }
  ],
  "aas-test-engines": {
-  "checked": "2026-08-24T07:19:05Z",
+  "checked": "2026-08-25T07:06:57Z",
   "seen": []
  },
  "basyx-python": {
-  "checked": "2026-08-24T07:19:05Z",
+  "checked": "2026-08-25T07:06:57Z",
   "seen": [
    "131507958",
    "190143295",
@@ -25,11 +97,11 @@
   ]
  },
  "ddcc-news": {
-  "checked": "2026-08-24T07:19:05Z",
-  "hash": "fa75e8cc923a8daad79e37f7a2d3abc69af0088268caa968474b2ce756c3e126"
+  "checked": "2026-08-25T07:06:57Z",
+  "hash": "ca9bb99b5ec731d994adf8c4a559aae6f1800095b7a58eae45aea6b4f6c14e3d"
  },
  "idta-templates": {
-  "checked": "2026-08-24T07:19:05Z",
+  "checked": "2026-08-25T07:06:57Z",
   "seen": [
    "Artificial Intelligence Dataset",
    "Artificial Intelligence Deployment",
@@ -52,6 +124,7 @@
    "Digital nameplate",
    "Energy Flexibility Data Model",
    "Factory Automation Data for Plant Planning",
+   "Fire Protection on Railway Vehicles",
    "Functional Safety",
    "Handover Documentation",
    "Hierarchical Structures enabling Bills of Material",
@@ -87,30 +160,42 @@
   ]
  },
  "idta-templates-issues": {
-  "checked": "2026-08-24T07:19:05Z",
-  "seen": []
+  "checked": "2026-08-25T07:06:57Z",
+  "seen": [
+   "admin-shell-io/submodel-templates#320@2026-08-24T13:34:22Z"
+  ]
  },
  "iirds-models-issues": {
-  "checked": "2026-08-24T07:19:05Z",
+  "checked": "2026-08-25T07:06:57Z",
   "seen": []
  },
  "iirds-models-releases": {
-  "checked": "2026-08-24T07:19:05Z",
+  "checked": "2026-08-25T07:06:57Z",
   "seen": [
    "129019841",
    "54592848"
   ]
  },
  "iirds-news": {
-  "checked": "2026-08-24T07:19:05Z",
+  "checked": "2026-08-25T07:06:57Z",
   "hash": "8158805c2399e8921aecea735ebe4d47a11f952ac19d25139ee036b9fd7140fe"
  },
  "iirds-spec-issues": {
-  "checked": "2026-08-24T07:19:05Z",
-  "seen": []
+  "checked": "2026-08-25T07:06:57Z",
+  "seen": [
+   "iirds-consortium/specification#25@2026-08-24T08:52:12Z",
+   "iirds-consortium/specification#26@2026-08-24T08:52:11Z",
+   "iirds-consortium/specification#31@2026-08-24T08:40:02Z",
+   "iirds-consortium/specification#40@2026-08-24T08:38:43Z",
+   "iirds-consortium/specification#41@2026-08-24T08:38:45Z",
+   "iirds-consortium/specification#42@2026-08-24T08:52:03Z",
+   "iirds-consortium/specification#43@2026-08-24T08:52:05Z",
+   "iirds-consortium/specification#44@2026-08-24T08:52:07Z",
+   "iirds-consortium/specification#45@2026-08-24T08:52:09Z"
+  ]
  },
  "iirds-spec-releases": {
-  "checked": "2026-08-24T07:19:05Z",
+  "checked": "2026-08-25T07:06:57Z",
   "seen": [
    "129021069",
    "260543540",
@@ -118,15 +203,15 @@
   ]
  },
  "nlnet-calls": {
-  "checked": "2026-08-24T07:19:05Z",
+  "checked": "2026-08-25T07:06:57Z",
   "hash": "ac73c933a856fb290cedef1a8931c13f48bde69893c2cef38374cdb737b71beb"
  },
  "vdi2770-issues": {
-  "checked": "2026-08-24T07:19:05Z",
+  "checked": "2026-08-25T07:06:57Z",
   "seen": []
  },
  "vdi2770-releases": {
-  "checked": "2026-08-24T07:19:05Z",
+  "checked": "2026-08-25T07:06:57Z",
   "seen": [
    "137851639",
    "57780092",
@@ -139,7 +224,7 @@
   ]
  },
  "vdi2770-schema-file": {
-  "checked": "2026-08-24T07:19:05Z",
+  "checked": "2026-08-25T07:06:57Z",
   "hash": "f7a704fe4bba095eaa4e95be0b9853205412301ad09c4bcffb4c5f0f666cb805"
  }
 }
