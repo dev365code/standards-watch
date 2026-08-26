@@ -1,6 +1,24 @@
 {
  "_events": [
   {
+   "date": "2026-08-26T07:11:10Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#321 IDTA-02035-1 : Digital Battery Passport \u2013 Part 4 Technical Data  v1.0.1: Clarification on 20% and 80% SoC requirements for OriginalPowerCapability",
+   "url": "https://github.com/admin-shell-io/submodel-templates/issues/321"
+  },
+  {
+   "date": "2026-08-26T07:11:10Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#308 [TechnicalData]: Adding commercial properties",
+   "url": "https://github.com/admin-shell-io/submodel-templates/issues/308"
+  },
+  {
+   "date": "2026-08-26T07:11:10Z",
+   "source": "Digital Data Chain Consortium news",
+   "title": "page changed \u2014 worth a look",
+   "url": "https://digitaldatachain.com/news/"
+  },
+  {
    "date": "2026-08-25T07:06:57Z",
    "source": "iiRDS spec issue activity",
    "title": "specification#25 example-40-Product-property-with-ECLASS-Classification wrong closing tag",
@@ -80,11 +98,11 @@
   }
  ],
  "aas-test-engines": {
-  "checked": "2026-08-25T07:06:57Z",
+  "checked": "2026-08-26T07:11:10Z",
   "seen": []
  },
  "basyx-python": {
-  "checked": "2026-08-25T07:06:57Z",
+  "checked": "2026-08-26T07:11:10Z",
   "seen": [
    "131507958",
    "190143295",
@@ -97,11 +115,11 @@
   ]
  },
  "ddcc-news": {
-  "checked": "2026-08-25T07:06:57Z",
-  "hash": "ca9bb99b5ec731d994adf8c4a559aae6f1800095b7a58eae45aea6b4f6c14e3d"
+  "checked": "2026-08-26T07:11:10Z",
+  "hash": "8f18d4bcae5c19eda6567e60dbddb58fa5b04d17b7d806350ff80fcb5bfba31f"
  },
  "idta-templates": {
-  "checked": "2026-08-25T07:06:57Z",
+  "checked": "2026-08-26T07:11:10Z",
   "seen": [
    "Artificial Intelligence Dataset",
    "Artificial Intelligence Deployment",
@@ -160,28 +178,30 @@
   ]
  },
  "idta-templates-issues": {
-  "checked": "2026-08-25T07:06:57Z",
+  "checked": "2026-08-26T07:11:10Z",
   "seen": [
-   "admin-shell-io/submodel-templates#320@2026-08-24T13:34:22Z"
+   "admin-shell-io/submodel-templates#308@2026-08-25T11:17:28Z",
+   "admin-shell-io/submodel-templates#320@2026-08-24T13:34:22Z",
+   "admin-shell-io/submodel-templates#321@2026-08-25T17:04:06Z"
   ]
  },
  "iirds-models-issues": {
-  "checked": "2026-08-25T07:06:57Z",
+  "checked": "2026-08-26T07:11:10Z",
   "seen": []
  },
  "iirds-models-releases": {
-  "checked": "2026-08-25T07:06:57Z",
+  "checked": "2026-08-26T07:11:10Z",
   "seen": [
    "129019841",
    "54592848"
   ]
  },
  "iirds-news": {
-  "checked": "2026-08-25T07:06:57Z",
+  "checked": "2026-08-26T07:11:10Z",
   "hash": "8158805c2399e8921aecea735ebe4d47a11f952ac19d25139ee036b9fd7140fe"
  },
  "iirds-spec-issues": {
-  "checked": "2026-08-25T07:06:57Z",
+  "checked": "2026-08-26T07:11:10Z",
   "seen": [
    "iirds-consortium/specification#25@2026-08-24T08:52:12Z",
    "iirds-consortium/specification#26@2026-08-24T08:52:11Z",
@@ -195,7 +215,7 @@
   ]
  },
  "iirds-spec-releases": {
-  "checked": "2026-08-25T07:06:57Z",
+  "checked": "2026-08-26T07:11:10Z",
   "seen": [
    "129021069",
    "260543540",
@@ -203,15 +223,15 @@
   ]
  },
  "nlnet-calls": {
-  "checked": "2026-08-25T07:06:57Z",
+  "checked": "2026-08-26T07:11:10Z",
   "hash": "ac73c933a856fb290cedef1a8931c13f48bde69893c2cef38374cdb737b71beb"
  },
  "vdi2770-issues": {
-  "checked": "2026-08-25T07:06:57Z",
+  "checked": "2026-08-26T07:11:10Z",
   "seen": []
  },
  "vdi2770-releases": {
-  "checked": "2026-08-25T07:06:57Z",
+  "checked": "2026-08-26T07:11:10Z",
   "seen": [
    "137851639",
    "57780092",
@@ -224,7 +244,7 @@
   ]
  },
  "vdi2770-schema-file": {
-  "checked": "2026-08-25T07:06:57Z",
+  "checked": "2026-08-26T07:11:10Z",
   "hash": "f7a704fe4bba095eaa4e95be0b9853205412301ad09c4bcffb4c5f0f666cb805"
  }
 }
