@@ -1,0 +1,42 @@
+standards-watch
+Copyright 2026 Wooyong Lee (dev365code)
+
+Licensed under the Apache License, Version 2.0 (see LICENSE).
+
+The Apache licence covers the source code, tests and documentation written for
+this project: watch.py, the tests, sources.json, and the generated WATCH.md and
+feed.xml. It does NOT extend to what the tower observes, which stays with
+whoever published it.
+
+================================================================================
+1. Third-party code
+================================================================================
+
+    None is redistributed. The watcher uses the Python standard library only,
+    and tests/test_provenance.py holds it to that -- a tower that needs a
+    dependency update is a tower that eventually stops watching.
+
+================================================================================
+2. Observed material  --  state.json, WATCH.md, feed.xml
+================================================================================
+
+    The tower records what moved at the sources listed in sources.json: the
+    title and the link of a release, an issue, a pull request or a template,
+    and a digest of a page it watches for change. Those titles belong to
+    whoever published them and are reproduced only to identify the item and
+    point at it. No page content, release asset or issue text is copied here;
+    follow the link for the material itself and the terms it carries.
+
+================================================================================
+3. Trademarks
+================================================================================
+
+    "iiRDS" is a standard of the iiRDS Consortium, hosted by tekom Deutschland
+    e.V.; "VDI 2770" is a guideline of the Verein Deutscher Ingenieure e.V.;
+    the Asset Administration Shell submodel templates are published by the
+    Industrial Digital Twin Association e.V. The names are used here
+    descriptively, to say what the tower watches.
+
+    This project is NOT affiliated with, endorsed by, or certified by any of
+    them, nor by the other organisations whose pages and repositories it
+    watches.
