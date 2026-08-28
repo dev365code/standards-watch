@@ -1,6 +1,24 @@
 {
  "_events": [
   {
+   "date": "2026-08-28T18:45:54Z",
+   "source": "NLnet open calls page",
+   "title": "page changed \u2014 worth a look",
+   "url": "https://nlnet.nl/propose/"
+  },
+  {
+   "date": "2026-08-28T18:45:54Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#322 Consider Changes based on BatteryLongList v2.0",
+   "url": "https://github.com/admin-shell-io/submodel-templates/issues/322"
+  },
+  {
+   "date": "2026-08-28T18:45:54Z",
+   "source": "Digital Data Chain Consortium news",
+   "title": "page changed \u2014 worth a look",
+   "url": "https://digitaldatachain.com/news/"
+  },
+  {
    "date": "2026-08-27T17:39:59Z",
    "source": "NLnet open calls page",
    "title": "page changed \u2014 worth a look",
@@ -128,11 +146,11 @@
   }
  ],
  "aas-test-engines": {
-  "checked": "2026-08-28T00:31:15Z",
+  "checked": "2026-08-28T18:45:54Z",
   "seen": []
  },
  "basyx-python": {
-  "checked": "2026-08-28T00:31:15Z",
+  "checked": "2026-08-28T18:45:54Z",
   "seen": [
    "131507958",
    "190143295",
@@ -145,11 +163,11 @@
   ]
  },
  "ddcc-news": {
-  "checked": "2026-08-28T00:31:15Z",
-  "hash": "7fb6ca85e5e3b560f5fffe6c78a824f37aa1bb674fe73550d13b17866a032d2e"
+  "checked": "2026-08-28T18:45:54Z",
+  "hash": "5d04e855070ffaa796c51d6fcc9b970659c8f7043a8771dd2fb37a3d61d652c1"
  },
  "idta-templates": {
-  "checked": "2026-08-28T00:31:15Z",
+  "checked": "2026-08-28T18:45:54Z",
   "seen": [
    "Artificial Intelligence Dataset",
    "Artificial Intelligence Deployment",
@@ -208,32 +226,33 @@
   ]
  },
  "idta-templates-issues": {
-  "checked": "2026-08-28T00:31:15Z",
+  "checked": "2026-08-28T18:45:54Z",
   "seen": [
    "admin-shell-io/submodel-templates#308@2026-08-25T11:17:28Z",
    "admin-shell-io/submodel-templates#319@2026-08-27T11:23:42Z",
    "admin-shell-io/submodel-templates#320@2026-08-24T13:34:22Z",
    "admin-shell-io/submodel-templates#321@2026-08-25T17:04:06Z",
-   "admin-shell-io/submodel-templates#321@2026-08-27T11:24:12Z"
+   "admin-shell-io/submodel-templates#321@2026-08-27T11:24:12Z",
+   "admin-shell-io/submodel-templates#322@2026-08-28T11:15:50Z"
   ]
  },
  "iirds-models-issues": {
-  "checked": "2026-08-28T00:31:15Z",
+  "checked": "2026-08-28T18:45:54Z",
   "seen": []
  },
  "iirds-models-releases": {
-  "checked": "2026-08-28T00:31:15Z",
+  "checked": "2026-08-28T18:45:54Z",
   "seen": [
    "129019841",
    "54592848"
   ]
  },
  "iirds-news": {
-  "checked": "2026-08-28T00:31:15Z",
+  "checked": "2026-08-28T18:45:54Z",
   "hash": "977539323c6efe97686c6a9a9cc4a327ed6bc717928edf594da0d268f22fb578"
  },
  "iirds-spec-issues": {
-  "checked": "2026-08-28T00:31:15Z",
+  "checked": "2026-08-28T18:45:54Z",
   "seen": [
    "iirds-consortium/specification#25@2026-08-24T08:52:12Z",
    "iirds-consortium/specification#26@2026-08-24T08:52:11Z",
@@ -247,7 +266,7 @@
   ]
  },
  "iirds-spec-releases": {
-  "checked": "2026-08-28T00:31:15Z",
+  "checked": "2026-08-28T18:45:54Z",
   "seen": [
    "129021069",
    "260543540",
@@ -255,15 +274,15 @@
   ]
  },
  "nlnet-calls": {
-  "checked": "2026-08-28T00:31:15Z",
-  "hash": "4437c8571125de53777e420b14c3ec755b23e645d30e770289d97308802da517"
+  "checked": "2026-08-28T18:45:54Z",
+  "hash": "f33bd8a8385a94b5df831d4b1eba6d6c3d0616a6c6ba79bb5ab9a4693984a7f5"
  },
  "vdi2770-issues": {
-  "checked": "2026-08-28T00:31:15Z",
+  "checked": "2026-08-28T18:45:54Z",
   "seen": []
  },
  "vdi2770-releases": {
-  "checked": "2026-08-28T00:31:15Z",
+  "checked": "2026-08-28T18:45:54Z",
   "seen": [
    "137851639",
    "57780092",
@@ -276,7 +295,7 @@
   ]
  },
  "vdi2770-schema-file": {
-  "checked": "2026-08-27T17:39:59Z",
+  "checked": "2026-08-28T18:45:54Z",
   "hash": "f7a704fe4bba095eaa4e95be0b9853205412301ad09c4bcffb4c5f0f666cb805"
  }
 }
