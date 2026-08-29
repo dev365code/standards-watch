@@ -5,6 +5,7 @@ Subscribe via [feed.xml](feed.xml) in any RSS reader.
 
 ## Latest
 
+- **2026-08-29** · [page changed — worth a look](https://digitaldatachain.com/news/) · Digital Data Chain Consortium news
 - **2026-08-28** · [page changed — worth a look](https://nlnet.nl/propose/) · NLnet open calls page
 - **2026-08-28** · [submodel-templates#322 Consider Changes based on BatteryLongList v2.0](https://github.com/admin-shell-io/submodel-templates/issues/322) · IDTA submodel template issue activity
 - **2026-08-28** · [page changed — worth a look](https://digitaldatachain.com/news/) · Digital Data Chain Consortium news
@@ -34,17 +35,17 @@ Subscribe via [feed.xml](feed.xml) in any RSS reader.
 
 | source | kind | last checked |
 |---|---|---|
-| iiRDS specification releases | gh_releases | 2026-08-28T18:45 |
-| iiRDS models releases | gh_releases | 2026-08-28T18:45 |
-| iiRDS spec issue activity | gh_issues | 2026-08-28T18:45 |
-| iiRDS models issue activity | gh_issues | 2026-08-28T18:45 |
-| VDI 2770 reference implementation releases | gh_releases | 2026-08-28T18:45 |
-| IDTA submodel templates (published) | gh_dir | 2026-08-28T18:45 |
-| BaSyx Python SDK releases | gh_releases | 2026-08-28T18:45 |
-| AAS test engines releases | gh_releases | 2026-08-28T18:45 |
-| NLnet open calls page | html | 2026-08-28T18:45 |
-| iirds.org news page | html | 2026-08-28T18:45 |
-| VDI 2770 reference implementation issue activity | gh_issues | 2026-08-28T18:45 |
-| IDTA submodel template issue activity | gh_issues | 2026-08-28T18:45 |
-| Digital Data Chain Consortium news | html | 2026-08-28T18:45 |
-| VDI 2770 XML schema file (byte hash of the file itself, not its page) | html | 2026-08-28T18:45 |
+| iiRDS specification releases | gh_releases | 2026-08-29T12:42 |
+| iiRDS models releases | gh_releases | 2026-08-29T12:42 |
+| iiRDS spec issue activity | gh_issues | 2026-08-29T12:42 |
+| iiRDS models issue activity | gh_issues | 2026-08-29T12:42 |
+| VDI 2770 reference implementation releases | gh_releases | 2026-08-29T12:42 |
+| IDTA submodel templates (published) | gh_dir | 2026-08-29T12:42 |
+| BaSyx Python SDK releases | gh_releases | 2026-08-29T12:42 |
+| AAS test engines releases | gh_releases | 2026-08-29T12:42 |
+| NLnet open calls page | html | 2026-08-29T12:42 |
+| iirds.org news page | html | 2026-08-29T12:42 |
+| VDI 2770 reference implementation issue activity | gh_issues | 2026-08-29T12:42 |
+| IDTA submodel template issue activity | gh_issues | 2026-08-29T12:42 |
+| Digital Data Chain Consortium news | html | 2026-08-29T12:42 |
+| VDI 2770 XML schema file (byte hash of the file itself, not its page) | html | 2026-08-29T12:42 |
