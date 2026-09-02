@@ -1,6 +1,18 @@
 {
  "_events": [
   {
+   "date": "2026-09-02T11:23:22Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#323 Asset Interfaces Description v1.1: Issues with JSON",
+   "url": "https://github.com/admin-shell-io/submodel-templates/issues/323"
+  },
+  {
+   "date": "2026-09-02T11:23:22Z",
+   "source": "Digital Data Chain Consortium news",
+   "title": "page changed \u2014 worth a look",
+   "url": "https://digitaldatachain.com/news/"
+  },
+  {
    "date": "2026-09-01T11:43:05Z",
    "source": "IDTA submodel template issue activity",
    "title": "submodel-templates#278 [Digital Quality Documents] Relationship to Handover Documentation 2.0",
@@ -176,11 +188,11 @@
   }
  ],
  "aas-test-engines": {
-  "checked": "2026-09-01T11:43:05Z",
+  "checked": "2026-09-02T11:23:22Z",
   "seen": []
  },
  "basyx-python": {
-  "checked": "2026-09-01T11:43:05Z",
+  "checked": "2026-09-02T11:23:22Z",
   "seen": [
    "131507958",
    "190143295",
@@ -193,11 +205,11 @@
   ]
  },
  "ddcc-news": {
-  "checked": "2026-09-01T11:43:05Z",
-  "hash": "3730e3945bad677d1f4ece27c8c7856c73222da4f2494cc359108740d4d754f9"
+  "checked": "2026-09-02T11:23:22Z",
+  "hash": "d89abd9f5aaccacd57dc3e5c160bff5b9acca453283d7d484448f3644a1466c8"
  },
  "idta-templates": {
-  "checked": "2026-09-01T11:43:05Z",
+  "checked": "2026-09-02T11:23:22Z",
   "seen": [
    "Artificial Intelligence Dataset",
    "Artificial Intelligence Deployment",
@@ -256,7 +268,7 @@
   ]
  },
  "idta-templates-issues": {
-  "checked": "2026-09-01T11:43:05Z",
+  "checked": "2026-09-02T11:23:22Z",
   "seen": [
    "admin-shell-io/submodel-templates#278@2026-09-01T07:31:40Z",
    "admin-shell-io/submodel-templates#308@2026-08-25T11:17:28Z",
@@ -264,26 +276,27 @@
    "admin-shell-io/submodel-templates#320@2026-08-24T13:34:22Z",
    "admin-shell-io/submodel-templates#321@2026-08-25T17:04:06Z",
    "admin-shell-io/submodel-templates#321@2026-08-27T11:24:12Z",
-   "admin-shell-io/submodel-templates#322@2026-08-28T11:15:50Z"
+   "admin-shell-io/submodel-templates#322@2026-08-28T11:15:50Z",
+   "admin-shell-io/submodel-templates#323@2026-09-02T08:39:44Z"
   ]
  },
  "iirds-models-issues": {
-  "checked": "2026-09-01T11:43:05Z",
+  "checked": "2026-09-02T11:23:22Z",
   "seen": []
  },
  "iirds-models-releases": {
-  "checked": "2026-09-01T11:43:05Z",
+  "checked": "2026-09-02T11:23:22Z",
   "seen": [
    "129019841",
    "54592848"
   ]
  },
  "iirds-news": {
-  "checked": "2026-09-01T11:43:05Z",
+  "checked": "2026-09-02T11:23:22Z",
   "hash": "977539323c6efe97686c6a9a9cc4a327ed6bc717928edf594da0d268f22fb578"
  },
  "iirds-spec-issues": {
-  "checked": "2026-09-01T11:43:05Z",
+  "checked": "2026-09-02T11:23:22Z",
   "seen": [
    "iirds-consortium/specification#25@2026-08-24T08:52:12Z",
    "iirds-consortium/specification#26@2026-08-24T08:52:11Z",
@@ -297,7 +310,7 @@
   ]
  },
  "iirds-spec-releases": {
-  "checked": "2026-09-01T11:43:05Z",
+  "checked": "2026-09-02T11:23:22Z",
   "seen": [
    "129021069",
    "260543540",
@@ -305,15 +318,15 @@
   ]
  },
  "nlnet-calls": {
-  "checked": "2026-09-01T11:43:05Z",
+  "checked": "2026-09-02T11:23:22Z",
   "hash": "f33bd8a8385a94b5df831d4b1eba6d6c3d0616a6c6ba79bb5ab9a4693984a7f5"
  },
  "vdi2770-issues": {
-  "checked": "2026-09-01T11:43:05Z",
+  "checked": "2026-09-02T11:23:22Z",
   "seen": []
  },
  "vdi2770-releases": {
-  "checked": "2026-09-01T11:43:05Z",
+  "checked": "2026-09-02T11:23:22Z",
   "seen": [
    "137851639",
    "57780092",
@@ -326,7 +339,7 @@
   ]
  },
  "vdi2770-schema-file": {
-  "checked": "2026-09-01T11:43:05Z",
+  "checked": "2026-09-02T11:23:22Z",
   "hash": "f7a704fe4bba095eaa4e95be0b9853205412301ad09c4bcffb4c5f0f666cb805"
  }
 }
