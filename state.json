@@ -1,6 +1,12 @@
 {
  "_events": [
   {
+   "date": "2026-09-05T10:39:18Z",
+   "source": "Digital Data Chain Consortium news",
+   "title": "page changed \u2014 worth a look",
+   "url": "https://digitaldatachain.com/news/"
+  },
+  {
    "date": "2026-09-04T11:22:53Z",
    "source": "NLnet open calls page",
    "title": "page changed \u2014 worth a look",
@@ -248,11 +254,11 @@
   }
  ],
  "aas-test-engines": {
-  "checked": "2026-09-04T11:22:53Z",
+  "checked": "2026-09-05T10:39:18Z",
   "seen": []
  },
  "basyx-python": {
-  "checked": "2026-09-04T11:22:53Z",
+  "checked": "2026-09-05T10:39:18Z",
   "seen": [
    "131507958",
    "190143295",
@@ -265,11 +271,11 @@
   ]
  },
  "ddcc-news": {
-  "checked": "2026-09-04T11:22:53Z",
-  "hash": "7388423496f3e9fb25ef06975b5c4225ba52af7c387c15268498ef09cd714e14"
+  "checked": "2026-09-05T10:39:18Z",
+  "hash": "f90bfdc9d1e3091f4106f8f23aec2c74144a4b55657f7590e5707832f2c01935"
  },
  "idta-templates": {
-  "checked": "2026-09-04T11:22:53Z",
+  "checked": "2026-09-05T10:39:18Z",
   "seen": [
    "Artificial Intelligence Dataset",
    "Artificial Intelligence Deployment",
@@ -328,7 +334,7 @@
   ]
  },
  "idta-templates-issues": {
-  "checked": "2026-09-04T11:22:53Z",
+  "checked": "2026-09-05T10:39:18Z",
   "seen": [
    "admin-shell-io/submodel-templates#124@2026-09-02T19:26:01Z",
    "admin-shell-io/submodel-templates#130@2026-09-02T19:22:14Z",
@@ -347,22 +353,22 @@
   ]
  },
  "iirds-models-issues": {
-  "checked": "2026-09-04T11:22:53Z",
+  "checked": "2026-09-05T10:39:18Z",
   "seen": []
  },
  "iirds-models-releases": {
-  "checked": "2026-09-04T11:22:53Z",
+  "checked": "2026-09-05T10:39:18Z",
   "seen": [
    "129019841",
    "54592848"
   ]
  },
  "iirds-news": {
-  "checked": "2026-09-04T11:22:53Z",
+  "checked": "2026-09-05T10:39:18Z",
   "hash": "977539323c6efe97686c6a9a9cc4a327ed6bc717928edf594da0d268f22fb578"
  },
  "iirds-spec-issues": {
-  "checked": "2026-09-04T11:22:53Z",
+  "checked": "2026-09-05T10:39:18Z",
   "seen": [
    "iirds-consortium/specification#25@2026-08-24T08:52:12Z",
    "iirds-consortium/specification#26@2026-08-24T08:52:11Z",
@@ -376,7 +382,7 @@
   ]
  },
  "iirds-spec-releases": {
-  "checked": "2026-09-04T11:22:53Z",
+  "checked": "2026-09-05T10:39:18Z",
   "seen": [
    "129021069",
    "260543540",
@@ -384,15 +390,15 @@
   ]
  },
  "nlnet-calls": {
-  "checked": "2026-09-04T11:22:53Z",
+  "checked": "2026-09-05T10:39:18Z",
   "hash": "f38dad8ab288b8f9950fcf130da9a511373e0b21d51b991c23a9482ee8228af3"
  },
  "vdi2770-issues": {
-  "checked": "2026-09-04T11:22:53Z",
+  "checked": "2026-09-05T10:39:18Z",
   "seen": []
  },
  "vdi2770-releases": {
-  "checked": "2026-09-04T11:22:53Z",
+  "checked": "2026-09-05T10:39:18Z",
   "seen": [
    "137851639",
    "57780092",
