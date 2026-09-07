@@ -35,6 +35,53 @@ def now_iso() -> str:
 API_HOST = "api.github.com"
 
 
+class CrossHostRedirect(Exception):
+    """A watched URL answered by pointing at a different host."""
+
+    def __init__(self, url: str, target: str):
+        super().__init__("%s redirects to %s" % (url, target))
+        self.url, self.target = url, target
+
+
+def redirect_allowed(url: str, target: str) -> bool:
+    """Whether a redirect stays inside the source it started from.
+
+    Same host, and not a step down from https to http: `urllib` carries the
+    request's headers to wherever it is sent -- everything but content-length
+    and content-type, whatever the new host is -- so a redirect is where a
+    credential leaves without anyone configuring it to.
+    """
+    here, there = urllib.parse.urlsplit(url), urllib.parse.urlsplit(target)
+    if here.hostname != there.hostname:
+        return False
+    return not (here.scheme == "https" and there.scheme != "https")
+
+
+def moved_item(url: str, target: str):
+    """A source that points elsewhere, in the shape a fetcher returns.
+
+    `(id, title, url)`, the same triple every fetcher yields, so the move goes
+    through `diff_seen` like anything else: seen once, reported once, and kept
+    in the same list. Refusing and moving on would leave a stale row in a
+    table instead, and a source that moved is news about that source.
+    """
+    return ("moved:%s->%s" % (url, target),
+            "source now redirects to %s" % target, url)
+
+
+class _NoCrossHostRedirect(urllib.request.HTTPRedirectHandler):
+    """Refuse rather than follow, so the credential cannot ride along and the
+    move is reported instead of absorbed."""
+
+    def redirect_request(self, req, fp, code, msg, headers, newurl):
+        if not redirect_allowed(req.full_url, newurl):
+            raise CrossHostRedirect(req.full_url, newurl)
+        return super().redirect_request(req, fp, code, msg, headers, newurl)
+
+
+_OPENER = urllib.request.build_opener(_NoCrossHostRedirect())
+
+
 def wants_credential(url: str) -> bool:
     """Whether a request to this URL is a request to the GitHub API.
 
@@ -59,7 +106,7 @@ def fetch(url: str, accept: str = "application/vnd.github+json") -> bytes:
     token = os.environ.get("GITHUB_TOKEN")
     if token and wants_credential(url):
         request.add_header("Authorization", "Bearer " + token)
-    with urllib.request.urlopen(request, timeout=30) as response:
+    with _OPENER.open(request, timeout=30) as response:
         return response.read()
 
 
@@ -181,6 +228,13 @@ def main() -> None:
             elif source["kind"] == "html":
                 fresh += diff_hash(entry, fetch_html_hash(source["url"]),
                                    source["label"], source["url"], today)
+        except CrossHostRedirect as moved:
+            # Not a failure to pass over in silence: a source pointing at
+            # another host is the kind of thing this tower is for.
+            fresh += diff_seen(entry, [moved_item(moved.url, moved.target)],
+                               source["label"], today)
+            print("moved %s: %s" % (source["key"], moved))
+            continue
         except Exception as error:                          # noqa: BLE001
             # A dead source must not kill the tower; it shows up as a stale
             # "last checked" in the table instead, which a reader can see.
