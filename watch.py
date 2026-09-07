@@ -35,6 +35,36 @@ def now_iso() -> str:
 API_HOST = "api.github.com"
 
 
+#: How much of one answer this tower will read. A release listing runs to a
+#: few hundred kilobytes and a watched page to about a megabyte at worst, so
+#: this is roughly eight times the largest thing any source here sends. It is
+#: not a tuning knob: past it the answer is not the kind of thing this tower
+#: reads, and `timeout` bounds how long a source may take rather than how much
+#: it may send.
+MAX_BODY_BYTES = 8 * 1024 * 1024
+
+
+class TooLarge(Exception):
+    """A source answered with more than this tower will read."""
+
+    def __init__(self, limit: int, url: str = ""):
+        super().__init__("more than %d bytes from %s" % (limit, url or "the source"))
+        self.limit, self.url = limit, url
+
+
+def read_capped(stream, limit: int = MAX_BODY_BYTES) -> bytes:
+    """The body, or nothing at all.
+
+    Refuse rather than truncate. A hash of a prefix is a hash that moves when
+    the prefix does, so a source too large to read would report a change on
+    every run — and a tower that cries every day is one nobody reads.
+    """
+    body = stream.read(limit + 1)
+    if len(body) > limit:
+        raise TooLarge(limit)
+    return body
+
+
 class CrossHostRedirect(Exception):
     """A watched URL answered by pointing at a different host."""
 
@@ -55,6 +85,13 @@ def redirect_allowed(url: str, target: str) -> bool:
     if here.hostname != there.hostname:
         return False
     return not (here.scheme == "https" and there.scheme != "https")
+
+
+def oversize_item(url: str, limit: int):
+    """A source answering with more than this tower reads, in a fetcher's
+    shape, so it is reported once and kept like anything else."""
+    return ("oversize:%s:%d" % (url, limit),
+            "source answered with more than %d bytes" % limit, url)
 
 
 def moved_item(url: str, target: str):
@@ -107,7 +144,10 @@ def fetch(url: str, accept: str = "application/vnd.github+json") -> bytes:
     if token and wants_credential(url):
         request.add_header("Authorization", "Bearer " + token)
     with _OPENER.open(request, timeout=30) as response:
-        return response.read()
+        try:
+            return read_capped(response)
+        except TooLarge as large:
+            raise TooLarge(large.limit, url) from None
 
 
 # -- fetchers: each returns a list of (id, title, url) ----------------------
@@ -272,6 +312,14 @@ def main() -> None:
             elif source["kind"] == "html":
                 fresh += diff_hash(entry, fetch_html_hash(source["url"]),
                                    source["label"], source["url"], today)
+        except TooLarge as large:
+            # Same reasoning as a move: "this source is answering with more
+            # than a source of its kind sends" is a fact about the source, and
+            # a stale row in a table does not say it.
+            fresh += diff_seen(entry, [oversize_item(large.url, large.limit)],
+                               source["label"], today)
+            print("oversize %s: %s" % (source["key"], large))
+            continue
         except CrossHostRedirect as moved:
             # Not a failure to pass over in silence: a source pointing at
             # another host is the kind of thing this tower is for.
