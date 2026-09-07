@@ -15,6 +15,7 @@ from __future__ import annotations
 import hashlib
 import json
 import os
+import urllib.parse
 import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
@@ -30,13 +31,33 @@ def now_iso() -> str:
     return datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
 
+#: The one host this tower's credential belongs to.
+API_HOST = "api.github.com"
+
+
+def wants_credential(url: str) -> bool:
+    """Whether a request to this URL is a request to the GitHub API.
+
+    Decided on the parsed host and the scheme, not on whether the name occurs
+    somewhere in the string. It occurs in `https://example.invalid/api.github.com`
+    as well, and in a host that merely ends with it, and after an `@` — and a
+    source here is a row in `sources.json` rather than a patch, so the row is
+    all it would take.
+    """
+    try:
+        parts = urllib.parse.urlsplit(url)
+    except ValueError:
+        return False
+    return parts.scheme == "https" and parts.hostname == API_HOST
+
+
 def fetch(url: str, accept: str = "application/vnd.github+json") -> bytes:
     request = urllib.request.Request(url, headers={
         "User-Agent": "standards-watch (github.com/dev365code/standards-watch)",
         "Accept": accept,
     })
     token = os.environ.get("GITHUB_TOKEN")
-    if token and "api.github.com" in url:
+    if token and wants_credential(url):
         request.add_header("Authorization", "Bearer " + token)
     with urllib.request.urlopen(request, timeout=30) as response:
         return response.read()
