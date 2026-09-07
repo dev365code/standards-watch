@@ -167,6 +167,47 @@ def diff_hash(state: dict, digest: str, label: str, url: str, today: str):
 
 # -- outputs -----------------------------------------------------------------
 
+#: Markdown characters that change what a line *means* rather than what it
+#: says, in the middle of a line: link and emphasis markers, a raw angle
+#: bracket, and the table separator. Not `#`, `-`, `.` or `!`, which matter at
+#: the start of a line and never appear there here -- escaping those turns
+#: "iiRDS 1.3" into "iiRDS 1\.3" on a page whose purpose is to be read, and a
+#: page nobody reads is its own kind of failure.
+#:
+#: A line break has no escape and becomes a space: the tables here are one row
+#: per line, so a title carrying one would write rows nobody added.
+_MD_MARKERS = "\\`*_[]()<>|"
+
+
+def md_url(url: str) -> str:
+    """A URL from somewhere else, safe to put inside `[...](here)`.
+
+    Brackets and spaces end a Markdown link target, so a URL carrying one can
+    close the link and open another with a destination the source chose.
+    Percent-encoding them is what a URL does with them anyway; everything a
+    URL needs is left alone, so an ordinary link stays readable.
+    """
+    return urllib.parse.quote(str(url), safe=":/?#[]@!$&'*+,;=~")
+
+
+def md_text(text: str) -> str:
+    """A string from somewhere else, safe to put in a line of Markdown.
+
+    `feed.xml` has escaped its titles since it was written and `WATCH.md` did
+    not, so a release name carrying `](` could move the link beside it. Both
+    files are built by formatting text this tower did not write.
+    """
+    out = []
+    for character in str(text):
+        if character in "\r\n":
+            out.append(" ")
+        elif character in _MD_MARKERS:
+            out.append("\\" + character)
+        else:
+            out.append(character)
+    return "".join(out)
+
+
 def write_watch_md(sources, state, events):
     lines = ["# What moved",
              "",
@@ -176,14 +217,17 @@ def write_watch_md(sources, state, events):
     if events:
         for event in events[:SHOWN_IN_MD]:
             lines.append("- **%s** · [%s](%s) · %s" % (
-                event["date"][:10], event["title"], event["url"], event["source"]))
+                event["date"][:10], md_text(event["title"]),
+                md_url(event["url"]),
+                md_text(event["source"])))
     else:
         lines.append("- (baseline established; events appear as the world moves)")
     lines += ["", "## Watched sources", "",
               "| source | kind | last checked |", "|---|---|---|"]
     for source in sources:
         checked = state.get(source["key"], {}).get("checked", "—")
-        lines.append("| %s | %s | %s |" % (source["label"], source["kind"], checked[:16]))
+        lines.append("| %s | %s | %s |" % (md_text(source["label"]),
+                                            md_text(source["kind"]), md_text(checked[:16])))
     (ROOT / "WATCH.md").write_text("\n".join(lines) + "\n", "utf-8")
 
 
