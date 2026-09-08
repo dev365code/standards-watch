@@ -12,6 +12,7 @@ update is a watcher that eventually stops watching.
 """
 from __future__ import annotations
 
+import argparse
 import hashlib
 import json
 import os
@@ -289,7 +290,29 @@ def write_feed(events):
     (ROOT / "feed.xml").write_text(feed, "utf-8")
 
 
-def main() -> None:
+def parse_args(argv=None) -> argparse.Namespace:
+    """The command line, parsed before anything is read, fetched or written.
+
+    There was none: every argument was ignored, so `--help` was a run. The
+    parser exists to make an argument the tool does not understand stop it,
+    which is the whole of its job -- `--dry-run` is the second reason and the
+    smaller one.
+    """
+    parser = argparse.ArgumentParser(
+        prog="watch.py",
+        description="Check every watched source and record what moved.",
+        epilog="A plain run rewrites state.json, WATCH.md and feed.xml, and an "
+               "event recorded once is never recorded again -- so a run started "
+               "by accident is not free.")
+    parser.add_argument(
+        "--dry-run", action="store_true",
+        help="fetch as usual and say what would change, but write no file "
+             "(the sources are still asked, so this is not free either)")
+    return parser.parse_args(argv)
+
+
+def main(argv=None) -> None:
+    args = parse_args(argv)
     sources = json.loads((ROOT / "sources.json").read_text("utf-8"))["sources"]
     state_path = ROOT / "state.json"
     state = json.loads(state_path.read_text("utf-8")) if state_path.exists() else {}
@@ -335,6 +358,12 @@ def main() -> None:
         entry["checked"] = today
 
     events = (fresh + state.get("_events", []))[:MAX_EVENTS]
+    if args.dry_run:
+        # Before any write, and before the state dict is touched: an event
+        # this run would record is an event a real run would then never
+        # record again, and a dry run that consumed one would be a run.
+        print("dry run: %d new, %d would be kept; nothing written" % (len(fresh), len(events)))
+        return
     state["_events"] = events
     state_path.write_text(json.dumps(state, indent=1, sort_keys=True) + "\n", "utf-8")
     write_watch_md(sources, state, events)
