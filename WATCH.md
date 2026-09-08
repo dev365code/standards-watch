@@ -5,23 +5,24 @@ Subscribe via [feed.xml](feed.xml) in any RSS reader.
 
 ## Latest
 
-- **2026-09-07** · [submodel-templates#324 [PCF Batterypassport 1.0] add contentC02Metals and productQualityParameter](https://github.com/admin-shell-io/submodel-templates/issues/324) · IDTA submodel template issue activity
+- **2026-09-08** · [page changed — worth a look](https://digitaldatachain.com/news/) · Digital Data Chain Consortium news
+- **2026-09-07** · [submodel-templates#324 \[PCF Batterypassport 1.0\] add contentC02Metals and productQualityParameter](https://github.com/admin-shell-io/submodel-templates/issues/324) · IDTA submodel template issue activity
 - **2026-09-07** · [page changed — worth a look](https://digitaldatachain.com/news/) · Digital Data Chain Consortium news
 - **2026-09-06** · [page changed — worth a look](https://digitaldatachain.com/news/) · Digital Data Chain Consortium news
 - **2026-09-05** · [page changed — worth a look](https://digitaldatachain.com/news/) · Digital Data Chain Consortium news
 - **2026-09-04** · [page changed — worth a look](https://nlnet.nl/propose/) · NLnet open calls page
-- **2026-09-04** · [submodel-templates#324 [PCF Batterypassport 1.0] add contentC02Metals and productQualityParameter](https://github.com/admin-shell-io/submodel-templates/issues/324) · IDTA submodel template issue activity
+- **2026-09-04** · [submodel-templates#324 \[PCF Batterypassport 1.0\] add contentC02Metals and productQualityParameter](https://github.com/admin-shell-io/submodel-templates/issues/324) · IDTA submodel template issue activity
 - **2026-09-04** · [page changed — worth a look](https://digitaldatachain.com/news/) · Digital Data Chain Consortium news
 - **2026-09-03** · [page changed — worth a look](https://nlnet.nl/propose/) · NLnet open calls page
 - **2026-09-03** · [submodel-templates#195 Carbon Footprint 1.0: Cardinality of GoodsHandoverAddress differs in .aasx and .pdf](https://github.com/admin-shell-io/submodel-templates/issues/195) · IDTA submodel template issue activity
 - **2026-09-03** · [submodel-templates#135 Carbon Footprint property](https://github.com/admin-shell-io/submodel-templates/issues/135) · IDTA submodel template issue activity
 - **2026-09-03** · [submodel-templates#124 Carbon Footprint 1.0: Cardinality of PcfCalculationMethods is wrong](https://github.com/admin-shell-io/submodel-templates/issues/124) · IDTA submodel template issue activity
 - **2026-09-03** · [submodel-templates#130 Carbon Footprint 1.0: multiple typos in short IDs](https://github.com/admin-shell-io/submodel-templates/issues/130) · IDTA submodel template issue activity
-- **2026-09-03** · [submodel-templates#264 [Carbon Footprint V1.0] Typos in idShort in pdf.](https://github.com/admin-shell-io/submodel-templates/issues/264) · IDTA submodel template issue activity
+- **2026-09-03** · [submodel-templates#264 \[Carbon Footprint V1.0\] Typos in idShort in pdf.](https://github.com/admin-shell-io/submodel-templates/issues/264) · IDTA submodel template issue activity
 - **2026-09-03** · [page changed — worth a look](https://digitaldatachain.com/news/) · Digital Data Chain Consortium news
 - **2026-09-02** · [submodel-templates#323 Asset Interfaces Description v1.1: Issues with JSON](https://github.com/admin-shell-io/submodel-templates/issues/323) · IDTA submodel template issue activity
 - **2026-09-02** · [page changed — worth a look](https://digitaldatachain.com/news/) · Digital Data Chain Consortium news
-- **2026-09-01** · [submodel-templates#278 [Digital Quality Documents] Relationship to Handover Documentation 2.0](https://github.com/admin-shell-io/submodel-templates/issues/278) · IDTA submodel template issue activity
+- **2026-09-01** · [submodel-templates#278 \[Digital Quality Documents\] Relationship to Handover Documentation 2.0](https://github.com/admin-shell-io/submodel-templates/issues/278) · IDTA submodel template issue activity
 - **2026-09-01** · [page changed — worth a look](https://digitaldatachain.com/news/) · Digital Data Chain Consortium news
 - **2026-08-31** · [page changed — worth a look](https://digitaldatachain.com/news/) · Digital Data Chain Consortium news
 - **2026-08-30** · [page changed — worth a look](https://digitaldatachain.com/news/) · Digital Data Chain Consortium news
@@ -32,10 +33,10 @@ Subscribe via [feed.xml](feed.xml) in any RSS reader.
 - **2026-08-27** · [page changed — worth a look](https://nlnet.nl/propose/) · NLnet open calls page
 - **2026-08-27** · [page changed — worth a look](https://www.iirds.org/news/) · iirds.org news page
 - **2026-08-27** · [submodel-templates#321 IDTA-02035-1 : Digital Battery Passport – Part 4 Technical Data  v1.0.1: Clarification on 20% and 80% SoC requirements for OriginalPowerCapability](https://github.com/admin-shell-io/submodel-templates/issues/321) · IDTA submodel template issue activity
-- **2026-08-27** · [submodel-templates#319 [HandoverDocumentation IDTA-02004 2.0.1] Table 1: the English ClassNames for 02-03 and 03-01 do not match the German in the same row](https://github.com/admin-shell-io/submodel-templates/issues/319) · IDTA submodel template issue activity
+- **2026-08-27** · [submodel-templates#319 \[HandoverDocumentation IDTA-02004 2.0.1\] Table 1: the English ClassNames for 02-03 and 03-01 do not match the German in the same row](https://github.com/admin-shell-io/submodel-templates/issues/319) · IDTA submodel template issue activity
 - **2026-08-27** · [page changed — worth a look](https://digitaldatachain.com/news/) · Digital Data Chain Consortium news
 - **2026-08-26** · [submodel-templates#321 IDTA-02035-1 : Digital Battery Passport – Part 4 Technical Data  v1.0.1: Clarification on 20% and 80% SoC requirements for OriginalPowerCapability](https://github.com/admin-shell-io/submodel-templates/issues/321) · IDTA submodel template issue activity
-- **2026-08-26** · [submodel-templates#308 [TechnicalData]: Adding commercial properties](https://github.com/admin-shell-io/submodel-templates/issues/308) · IDTA submodel template issue activity
+- **2026-08-26** · [submodel-templates#308 \[TechnicalData\]: Adding commercial properties](https://github.com/admin-shell-io/submodel-templates/issues/308) · IDTA submodel template issue activity
 - **2026-08-26** · [page changed — worth a look](https://digitaldatachain.com/news/) · Digital Data Chain Consortium news
 - **2026-08-25** · [specification#25 example-40-Product-property-with-ECLASS-Classification wrong closing tag](https://github.com/iirds-consortium/specification/issues/25) · iiRDS spec issue activity
 - **2026-08-25** · [specification#26 example-08-Multi-language-PDF-document wrong format value](https://github.com/iirds-consortium/specification/issues/26) · iiRDS spec issue activity
@@ -44,23 +45,22 @@ Subscribe via [feed.xml](feed.xml) in any RSS reader.
 - **2026-08-25** · [specification#43 Drop the stray leading space from the nested-package IRI](https://github.com/iirds-consortium/specification/pull/43) · iiRDS spec issue activity
 - **2026-08-25** · [specification#42 Open the Topic element properly in the product-function example](https://github.com/iirds-consortium/specification/pull/42) · iiRDS spec issue activity
 - **2026-08-25** · [specification#31 iirds-core terms not covered in examples](https://github.com/iirds-consortium/specification/issues/31) · iiRDS spec issue activity
-- **2026-08-25** · [specification#41 Drop the stray XML declaration from the identity-type example](https://github.com/iirds-consortium/specification/pull/41) · iiRDS spec issue activity
 
 ## Watched sources
 
 | source | kind | last checked |
 |---|---|---|
-| iiRDS specification releases | gh_releases | 2026-09-07T12:39 |
-| iiRDS models releases | gh_releases | 2026-09-07T12:39 |
-| iiRDS spec issue activity | gh_issues | 2026-09-07T12:39 |
-| iiRDS models issue activity | gh_issues | 2026-09-07T12:39 |
-| VDI 2770 reference implementation releases | gh_releases | 2026-09-07T12:39 |
-| IDTA submodel templates (published) | gh_dir | 2026-09-07T12:39 |
-| BaSyx Python SDK releases | gh_releases | 2026-09-07T12:39 |
-| AAS test engines releases | gh_releases | 2026-09-07T12:39 |
-| NLnet open calls page | html | 2026-09-07T12:39 |
-| iirds.org news page | html | 2026-09-07T12:39 |
-| VDI 2770 reference implementation issue activity | gh_issues | 2026-09-07T12:39 |
-| IDTA submodel template issue activity | gh_issues | 2026-09-07T12:39 |
-| Digital Data Chain Consortium news | html | 2026-09-07T12:39 |
-| VDI 2770 XML schema file (byte hash of the file itself, not its page) | html | 2026-09-04T11:22 |
+| iiRDS specification releases | gh\_releases | 2026-09-08T11:23 |
+| iiRDS models releases | gh\_releases | 2026-09-08T11:23 |
+| iiRDS spec issue activity | gh\_issues | 2026-09-08T11:23 |
+| iiRDS models issue activity | gh\_issues | 2026-09-08T11:23 |
+| VDI 2770 reference implementation releases | gh\_releases | 2026-09-08T11:23 |
+| IDTA submodel templates \(published\) | gh\_dir | 2026-09-08T11:23 |
+| BaSyx Python SDK releases | gh\_releases | 2026-09-08T11:23 |
+| AAS test engines releases | gh\_releases | 2026-09-08T11:23 |
+| NLnet open calls page | html | 2026-09-08T11:23 |
+| iirds.org news page | html | 2026-09-08T11:23 |
+| VDI 2770 reference implementation issue activity | gh\_issues | 2026-09-08T11:23 |
+| IDTA submodel template issue activity | gh\_issues | 2026-09-08T11:23 |
+| Digital Data Chain Consortium news | html | 2026-09-08T11:23 |
+| VDI 2770 XML schema file \(byte hash of the file itself, not its page\) | html | 2026-09-08T11:23 |
