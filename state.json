@@ -1,6 +1,48 @@
 {
  "_events": [
   {
+   "date": "2026-09-10T11:24:56Z",
+   "source": "NLnet open calls page",
+   "title": "page changed \u2014 worth a look",
+   "url": "https://nlnet.nl/propose/"
+  },
+  {
+   "date": "2026-09-10T11:24:56Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#329 Bugfix Batterypassport MaterialComposition v1.0.2",
+   "url": "https://github.com/admin-shell-io/submodel-templates/pull/329"
+  },
+  {
+   "date": "2026-09-10T11:24:56Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#328 fix IDTA number for Reliability",
+   "url": "https://github.com/admin-shell-io/submodel-templates/pull/328"
+  },
+  {
+   "date": "2026-09-10T11:24:56Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#325 antora.yml updates",
+   "url": "https://github.com/admin-shell-io/submodel-templates/pull/325"
+  },
+  {
+   "date": "2026-09-10T11:24:56Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#327 fixes antora.yml for consistency",
+   "url": "https://github.com/admin-shell-io/submodel-templates/pull/327"
+  },
+  {
+   "date": "2026-09-10T11:24:56Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#326 Bi bo/antorayml continued",
+   "url": "https://github.com/admin-shell-io/submodel-templates/pull/326"
+  },
+  {
+   "date": "2026-09-10T11:24:56Z",
+   "source": "Digital Data Chain Consortium news",
+   "title": "page changed \u2014 worth a look",
+   "url": "https://digitaldatachain.com/news/"
+  },
+  {
    "date": "2026-09-09T11:28:26Z",
    "source": "NLnet open calls page",
    "title": "page changed \u2014 worth a look",
@@ -296,11 +338,11 @@
   }
  ],
  "aas-test-engines": {
-  "checked": "2026-09-09T11:28:26Z",
+  "checked": "2026-09-10T11:24:56Z",
   "seen": []
  },
  "basyx-python": {
-  "checked": "2026-09-09T11:28:26Z",
+  "checked": "2026-09-10T11:24:56Z",
   "seen": [
    "131507958",
    "190143295",
@@ -313,11 +355,11 @@
   ]
  },
  "ddcc-news": {
-  "checked": "2026-09-08T11:23:45Z",
-  "hash": "edaedbac2203fee6e45d8b4028f6551c0ae7113966274f190feb102c32d47fa5"
+  "checked": "2026-09-10T11:24:56Z",
+  "hash": "65a7ed3b2e035e2aba0d97fe9a3320cd953fd902d770445bbd83f1c9a6d644b9"
  },
  "idta-templates": {
-  "checked": "2026-09-09T11:28:26Z",
+  "checked": "2026-09-10T11:24:56Z",
   "seen": [
    "Artificial Intelligence Dataset",
    "Artificial Intelligence Deployment",
@@ -376,7 +418,7 @@
   ]
  },
  "idta-templates-issues": {
-  "checked": "2026-09-09T11:28:26Z",
+  "checked": "2026-09-10T11:24:56Z",
   "seen": [
    "admin-shell-io/submodel-templates#124@2026-09-02T19:26:01Z",
    "admin-shell-io/submodel-templates#130@2026-09-02T19:22:14Z",
@@ -394,26 +436,31 @@
    "admin-shell-io/submodel-templates#324@2026-09-03T14:45:18Z",
    "admin-shell-io/submodel-templates#324@2026-09-07T06:15:30Z",
    "admin-shell-io/submodel-templates#325@2026-09-09T07:39:51Z",
-   "admin-shell-io/submodel-templates#326@2026-09-09T08:31:18Z"
+   "admin-shell-io/submodel-templates#325@2026-09-09T12:17:07Z",
+   "admin-shell-io/submodel-templates#326@2026-09-09T08:31:18Z",
+   "admin-shell-io/submodel-templates#326@2026-09-09T12:10:44Z",
+   "admin-shell-io/submodel-templates#327@2026-09-09T12:16:44Z",
+   "admin-shell-io/submodel-templates#328@2026-09-09T12:49:48Z",
+   "admin-shell-io/submodel-templates#329@2026-09-10T10:18:36Z"
   ]
  },
  "iirds-models-issues": {
-  "checked": "2026-09-09T11:28:26Z",
+  "checked": "2026-09-10T11:24:56Z",
   "seen": []
  },
  "iirds-models-releases": {
-  "checked": "2026-09-09T11:28:26Z",
+  "checked": "2026-09-10T11:24:56Z",
   "seen": [
    "129019841",
    "54592848"
   ]
  },
  "iirds-news": {
-  "checked": "2026-09-09T11:28:26Z",
+  "checked": "2026-09-10T11:24:56Z",
   "hash": "977539323c6efe97686c6a9a9cc4a327ed6bc717928edf594da0d268f22fb578"
  },
  "iirds-spec-issues": {
-  "checked": "2026-09-09T11:28:26Z",
+  "checked": "2026-09-10T11:24:56Z",
   "seen": [
    "iirds-consortium/specification#25@2026-08-24T08:52:12Z",
    "iirds-consortium/specification#26@2026-08-24T08:52:11Z",
@@ -427,7 +474,7 @@
   ]
  },
  "iirds-spec-releases": {
-  "checked": "2026-09-09T11:28:26Z",
+  "checked": "2026-09-10T11:24:56Z",
   "seen": [
    "129021069",
    "260543540",
@@ -435,15 +482,15 @@
   ]
  },
  "nlnet-calls": {
-  "checked": "2026-09-09T11:28:26Z",
-  "hash": "a565a644e71e9bac35726c7078c01853315aed00500dadfb59cfb0d858182315"
+  "checked": "2026-09-10T11:24:56Z",
+  "hash": "0978b21cd9249f6f262a2c8d6101c16b82f9eb55288bfe9abac35a03e86b94a1"
  },
  "vdi2770-issues": {
-  "checked": "2026-09-09T11:28:26Z",
+  "checked": "2026-09-10T11:24:56Z",
   "seen": []
  },
  "vdi2770-releases": {
-  "checked": "2026-09-09T11:28:26Z",
+  "checked": "2026-09-10T11:24:56Z",
   "seen": [
    "137851639",
    "57780092",

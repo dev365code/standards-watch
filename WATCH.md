@@ -5,6 +5,13 @@ Subscribe via [feed.xml](feed.xml) in any RSS reader.
 
 ## Latest
 
+- **2026-09-10** · [page changed — worth a look](https://nlnet.nl/propose/) · NLnet open calls page
+- **2026-09-10** · [submodel-templates#329 Bugfix Batterypassport MaterialComposition v1.0.2](https://github.com/admin-shell-io/submodel-templates/pull/329) · IDTA submodel template issue activity
+- **2026-09-10** · [submodel-templates#328 fix IDTA number for Reliability](https://github.com/admin-shell-io/submodel-templates/pull/328) · IDTA submodel template issue activity
+- **2026-09-10** · [submodel-templates#325 antora.yml updates](https://github.com/admin-shell-io/submodel-templates/pull/325) · IDTA submodel template issue activity
+- **2026-09-10** · [submodel-templates#327 fixes antora.yml for consistency](https://github.com/admin-shell-io/submodel-templates/pull/327) · IDTA submodel template issue activity
+- **2026-09-10** · [submodel-templates#326 Bi bo/antorayml continued](https://github.com/admin-shell-io/submodel-templates/pull/326) · IDTA submodel template issue activity
+- **2026-09-10** · [page changed — worth a look](https://digitaldatachain.com/news/) · Digital Data Chain Consortium news
 - **2026-09-09** · [page changed — worth a look](https://nlnet.nl/propose/) · NLnet open calls page
 - **2026-09-09** · [submodel-templates#326 Bi bo/antorayml continued](https://github.com/admin-shell-io/submodel-templates/pull/326) · IDTA submodel template issue activity
 - **2026-09-09** · [submodel-templates#325 antora.yml updates](https://github.com/admin-shell-io/submodel-templates/pull/325) · IDTA submodel template issue activity
@@ -38,29 +45,22 @@ Subscribe via [feed.xml](feed.xml) in any RSS reader.
 - **2026-08-27** · [submodel-templates#321 IDTA-02035-1 : Digital Battery Passport – Part 4 Technical Data  v1.0.1: Clarification on 20% and 80% SoC requirements for OriginalPowerCapability](https://github.com/admin-shell-io/submodel-templates/issues/321) · IDTA submodel template issue activity
 - **2026-08-27** · [submodel-templates#319 \[HandoverDocumentation IDTA-02004 2.0.1\] Table 1: the English ClassNames for 02-03 and 03-01 do not match the German in the same row](https://github.com/admin-shell-io/submodel-templates/issues/319) · IDTA submodel template issue activity
 - **2026-08-27** · [page changed — worth a look](https://digitaldatachain.com/news/) · Digital Data Chain Consortium news
-- **2026-08-26** · [submodel-templates#321 IDTA-02035-1 : Digital Battery Passport – Part 4 Technical Data  v1.0.1: Clarification on 20% and 80% SoC requirements for OriginalPowerCapability](https://github.com/admin-shell-io/submodel-templates/issues/321) · IDTA submodel template issue activity
-- **2026-08-26** · [submodel-templates#308 \[TechnicalData\]: Adding commercial properties](https://github.com/admin-shell-io/submodel-templates/issues/308) · IDTA submodel template issue activity
-- **2026-08-26** · [page changed — worth a look](https://digitaldatachain.com/news/) · Digital Data Chain Consortium news
-- **2026-08-25** · [specification#25 example-40-Product-property-with-ECLASS-Classification wrong closing tag](https://github.com/iirds-consortium/specification/issues/25) · iiRDS spec issue activity
-- **2026-08-25** · [specification#26 example-08-Multi-language-PDF-document wrong format value](https://github.com/iirds-consortium/specification/issues/26) · iiRDS spec issue activity
-- **2026-08-25** · [specification#45 Give the Topic and the Fragment distinct IRIs](https://github.com/iirds-consortium/specification/pull/45) · iiRDS spec issue activity
-- **2026-08-25** · [specification#44 Keep the statusComment literals on one line](https://github.com/iirds-consortium/specification/pull/44) · iiRDS spec issue activity
 
 ## Watched sources
 
 | source | kind | last checked |
 |---|---|---|
-| iiRDS specification releases | gh\_releases | 2026-09-09T11:28 |
-| iiRDS models releases | gh\_releases | 2026-09-09T11:28 |
-| iiRDS spec issue activity | gh\_issues | 2026-09-09T11:28 |
-| iiRDS models issue activity | gh\_issues | 2026-09-09T11:28 |
-| VDI 2770 reference implementation releases | gh\_releases | 2026-09-09T11:28 |
-| IDTA submodel templates \(published\) | gh\_dir | 2026-09-09T11:28 |
-| BaSyx Python SDK releases | gh\_releases | 2026-09-09T11:28 |
-| AAS test engines releases | gh\_releases | 2026-09-09T11:28 |
-| NLnet open calls page | html | 2026-09-09T11:28 |
-| iirds.org news page | html | 2026-09-09T11:28 |
-| VDI 2770 reference implementation issue activity | gh\_issues | 2026-09-09T11:28 |
-| IDTA submodel template issue activity | gh\_issues | 2026-09-09T11:28 |
-| Digital Data Chain Consortium news | html | 2026-09-08T11:23 |
+| iiRDS specification releases | gh\_releases | 2026-09-10T11:24 |
+| iiRDS models releases | gh\_releases | 2026-09-10T11:24 |
+| iiRDS spec issue activity | gh\_issues | 2026-09-10T11:24 |
+| iiRDS models issue activity | gh\_issues | 2026-09-10T11:24 |
+| VDI 2770 reference implementation releases | gh\_releases | 2026-09-10T11:24 |
+| IDTA submodel templates \(published\) | gh\_dir | 2026-09-10T11:24 |
+| BaSyx Python SDK releases | gh\_releases | 2026-09-10T11:24 |
+| AAS test engines releases | gh\_releases | 2026-09-10T11:24 |
+| NLnet open calls page | html | 2026-09-10T11:24 |
+| iirds.org news page | html | 2026-09-10T11:24 |
+| VDI 2770 reference implementation issue activity | gh\_issues | 2026-09-10T11:24 |
+| IDTA submodel template issue activity | gh\_issues | 2026-09-10T11:24 |
+| Digital Data Chain Consortium news | html | 2026-09-10T11:24 |
 | VDI 2770 XML schema file \(byte hash of the file itself, not its page\) | html | 2026-09-09T11:28 |
