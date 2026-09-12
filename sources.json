@@ -1,5 +1,5 @@
 {
- "_comment": "What this tower watches. Data, not code: adding a source is a row, not a patch.  Two of these watch issue threads we have posted into, because an answer arrives on the standards body's schedule and nobody is polling. The VDI entry hashes the schema FILE, not the page that links it: the page carries a per-request token and would fire on every run, which is how a feed teaches its reader to ignore it.",
+ "_comment": "What this tower watches. Data, not code: adding a source is a row, not a patch.  Two of these watch issue threads we have posted into, because an answer arrives on the standards body's schedule and nobody is polling. The VDI entry hashes the schema FILE, not the page that links it: the page carries a per-request token and would fire on every run, which is how a feed teaches its reader to ignore it.  The three DPP rows watch pages rather than a repository because there is no repository to watch: the release of 2026-06-01 says an open-source test system exists and names GEFEG and TU Berlin, and searching found no public code for it. Not finding it is not the same as its absence, so these are the pages that would change on the day it appears -- the project page that would link it, the release that would be edited to carry it, and the partner's own test environment.",
  "sources": [
   {
    "key": "iirds-spec-releases",
@@ -85,6 +85,24 @@
    "kind": "html",
    "url": "https://www.vdi.de/fileadmin/pages/vdi_de/redakteure/richtlinien/dateien/vdi2770/VDI_2770_1_de_Deklaration_des_XML-Schemas_-_Declaration_of_the_XML_model.xsd",
    "label": "VDI 2770 XML schema file (byte hash of the file itself, not its page)"
+  },
+  {
+   "key": "ipk-dpp-page",
+   "kind": "html",
+   "url": "https://www.ipk.fraunhofer.de/en/expertise-and-technologies/industry-trends/circular-economy/digital-product-passport-dpp.html",
+   "label": "Fraunhofer IPK Digital Product Passport page (carries no repository link today)"
+  },
+  {
+   "key": "ipk-dpp-standards-release",
+   "kind": "html",
+   "url": "https://www.ipk.fraunhofer.de/en/media/media-information/20260601-die-standards-fuer-den-digitalen-produktpass-sind-da.html",
+   "label": "Fraunhofer IPK release, 2026-06-01, announcing an open-source DPP test system"
+  },
+  {
+   "key": "gefeg-batterypass-ready",
+   "kind": "html",
+   "url": "https://batterypass-ready.gefeg.com/",
+   "label": "GEFEG BatteryPass Ready, the test environment that partner names"
   }
  ]
 }
