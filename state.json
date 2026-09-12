@@ -1,6 +1,12 @@
 {
  "_events": [
   {
+   "date": "2026-09-12T10:51:32Z",
+   "source": "Digital Data Chain Consortium news",
+   "title": "page changed \u2014 worth a look",
+   "url": "https://digitaldatachain.com/news/"
+  },
+  {
    "date": "2026-09-11T11:26:48Z",
    "source": "Digital Data Chain Consortium news",
    "title": "page changed \u2014 worth a look",
@@ -344,11 +350,11 @@
   }
  ],
  "aas-test-engines": {
-  "checked": "2026-09-11T11:26:48Z",
+  "checked": "2026-09-12T10:51:32Z",
   "seen": []
  },
  "basyx-python": {
-  "checked": "2026-09-11T11:26:48Z",
+  "checked": "2026-09-12T10:51:32Z",
   "seen": [
    "131507958",
    "190143295",
@@ -361,11 +367,11 @@
   ]
  },
  "ddcc-news": {
-  "checked": "2026-09-11T11:26:48Z",
-  "hash": "19058f7c41e70c9b7b0ee0369e7e0817fd5424b1ed941b422b4806e14c0f5328"
+  "checked": "2026-09-12T10:51:32Z",
+  "hash": "08b41d5dfccc50b3180dbd17371857edb9cf54380658753e0dc05ae5cdc5a95b"
  },
  "idta-templates": {
-  "checked": "2026-09-11T11:26:48Z",
+  "checked": "2026-09-12T10:51:32Z",
   "seen": [
    "Artificial Intelligence Dataset",
    "Artificial Intelligence Deployment",
@@ -424,7 +430,7 @@
   ]
  },
  "idta-templates-issues": {
-  "checked": "2026-09-11T11:26:48Z",
+  "checked": "2026-09-12T10:51:32Z",
   "seen": [
    "admin-shell-io/submodel-templates#124@2026-09-02T19:26:01Z",
    "admin-shell-io/submodel-templates#130@2026-09-02T19:22:14Z",
@@ -451,22 +457,22 @@
   ]
  },
  "iirds-models-issues": {
-  "checked": "2026-09-11T11:26:48Z",
+  "checked": "2026-09-12T10:51:32Z",
   "seen": []
  },
  "iirds-models-releases": {
-  "checked": "2026-09-11T11:26:48Z",
+  "checked": "2026-09-12T10:51:32Z",
   "seen": [
    "129019841",
    "54592848"
   ]
  },
  "iirds-news": {
-  "checked": "2026-09-11T11:26:48Z",
+  "checked": "2026-09-12T10:51:32Z",
   "hash": "977539323c6efe97686c6a9a9cc4a327ed6bc717928edf594da0d268f22fb578"
  },
  "iirds-spec-issues": {
-  "checked": "2026-09-11T11:26:48Z",
+  "checked": "2026-09-12T10:51:32Z",
   "seen": [
    "iirds-consortium/specification#25@2026-08-24T08:52:12Z",
    "iirds-consortium/specification#26@2026-08-24T08:52:11Z",
@@ -480,7 +486,7 @@
   ]
  },
  "iirds-spec-releases": {
-  "checked": "2026-09-11T11:26:48Z",
+  "checked": "2026-09-12T10:51:32Z",
   "seen": [
    "129021069",
    "260543540",
@@ -488,15 +494,15 @@
   ]
  },
  "nlnet-calls": {
-  "checked": "2026-09-11T11:26:48Z",
+  "checked": "2026-09-12T10:51:32Z",
   "hash": "0978b21cd9249f6f262a2c8d6101c16b82f9eb55288bfe9abac35a03e86b94a1"
  },
  "vdi2770-issues": {
-  "checked": "2026-09-11T11:26:48Z",
+  "checked": "2026-09-12T10:51:32Z",
   "seen": []
  },
  "vdi2770-releases": {
-  "checked": "2026-09-11T11:26:48Z",
+  "checked": "2026-09-12T10:51:32Z",
   "seen": [
    "137851639",
    "57780092",
