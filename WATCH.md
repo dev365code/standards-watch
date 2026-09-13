@@ -5,6 +5,7 @@ Subscribe via [feed.xml](feed.xml) in any RSS reader.
 
 ## Latest
 
+- **2026-09-13** · [page changed — worth a look](https://digitaldatachain.com/news/) · Digital Data Chain Consortium news
 - **2026-09-12** · [page changed — worth a look](https://digitaldatachain.com/news/) · Digital Data Chain Consortium news
 - **2026-09-11** · [page changed — worth a look](https://digitaldatachain.com/news/) · Digital Data Chain Consortium news
 - **2026-09-10** · [page changed — worth a look](https://nlnet.nl/propose/) · NLnet open calls page
@@ -44,23 +45,25 @@ Subscribe via [feed.xml](feed.xml) in any RSS reader.
 - **2026-08-28** · [page changed — worth a look](https://digitaldatachain.com/news/) · Digital Data Chain Consortium news
 - **2026-08-27** · [page changed — worth a look](https://nlnet.nl/propose/) · NLnet open calls page
 - **2026-08-27** · [page changed — worth a look](https://www.iirds.org/news/) · iirds.org news page
-- **2026-08-27** · [submodel-templates#321 IDTA-02035-1 : Digital Battery Passport – Part 4 Technical Data  v1.0.1: Clarification on 20% and 80% SoC requirements for OriginalPowerCapability](https://github.com/admin-shell-io/submodel-templates/issues/321) · IDTA submodel template issue activity
 
 ## Watched sources
 
 | source | kind | last checked |
 |---|---|---|
-| iiRDS specification releases | gh\_releases | 2026-09-12T10:51 |
-| iiRDS models releases | gh\_releases | 2026-09-12T10:51 |
-| iiRDS spec issue activity | gh\_issues | 2026-09-12T10:51 |
-| iiRDS models issue activity | gh\_issues | 2026-09-12T10:51 |
-| VDI 2770 reference implementation releases | gh\_releases | 2026-09-12T10:51 |
-| IDTA submodel templates \(published\) | gh\_dir | 2026-09-12T10:51 |
-| BaSyx Python SDK releases | gh\_releases | 2026-09-12T10:51 |
-| AAS test engines releases | gh\_releases | 2026-09-12T10:51 |
-| NLnet open calls page | html | 2026-09-12T10:51 |
-| iirds.org news page | html | 2026-09-12T10:51 |
-| VDI 2770 reference implementation issue activity | gh\_issues | 2026-09-12T10:51 |
-| IDTA submodel template issue activity | gh\_issues | 2026-09-12T10:51 |
-| Digital Data Chain Consortium news | html | 2026-09-12T10:51 |
-| VDI 2770 XML schema file \(byte hash of the file itself, not its page\) | html | 2026-09-09T11:28 |
+| iiRDS specification releases | gh\_releases | 2026-09-13T11:57 |
+| iiRDS models releases | gh\_releases | 2026-09-13T11:57 |
+| iiRDS spec issue activity | gh\_issues | 2026-09-13T11:57 |
+| iiRDS models issue activity | gh\_issues | 2026-09-13T11:57 |
+| VDI 2770 reference implementation releases | gh\_releases | 2026-09-13T11:57 |
+| IDTA submodel templates \(published\) | gh\_dir | 2026-09-13T11:57 |
+| BaSyx Python SDK releases | gh\_releases | 2026-09-13T11:57 |
+| AAS test engines releases | gh\_releases | 2026-09-13T11:57 |
+| NLnet open calls page | html | 2026-09-13T11:57 |
+| iirds.org news page | html | 2026-09-13T11:57 |
+| VDI 2770 reference implementation issue activity | gh\_issues | 2026-09-13T11:57 |
+| IDTA submodel template issue activity | gh\_issues | 2026-09-13T11:57 |
+| Digital Data Chain Consortium news | html | 2026-09-13T11:57 |
+| VDI 2770 XML schema file \(byte hash of the file itself, not its page\) | html | 2026-09-13T11:57 |
+| Fraunhofer IPK Digital Product Passport page \(carries no repository link today\) | html | 2026-09-13T11:57 |
+| Fraunhofer IPK release, 2026-06-01, announcing an open-source DPP test system | html | 2026-09-13T11:57 |
+| GEFEG BatteryPass Ready, the test environment that partner names | html | 2026-09-13T11:57 |
