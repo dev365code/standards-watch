@@ -1,6 +1,24 @@
 {
  "_events": [
   {
+   "date": "2026-09-14T12:54:22Z",
+   "source": "Digital Data Chain Consortium news",
+   "title": "page changed \u2014 worth a look",
+   "url": "https://digitaldatachain.com/news/"
+  },
+  {
+   "date": "2026-09-14T12:54:22Z",
+   "source": "Fraunhofer IPK Digital Product Passport page (carries no repository link today)",
+   "title": "page changed \u2014 worth a look",
+   "url": "https://www.ipk.fraunhofer.de/en/expertise-and-technologies/industry-trends/circular-economy/digital-product-passport-dpp.html"
+  },
+  {
+   "date": "2026-09-14T12:54:22Z",
+   "source": "Fraunhofer IPK release, 2026-06-01, announcing an open-source DPP test system",
+   "title": "page changed \u2014 worth a look",
+   "url": "https://www.ipk.fraunhofer.de/en/media/media-information/20260601-die-standards-fuer-den-digitalen-produktpass-sind-da.html"
+  },
+  {
    "date": "2026-09-13T11:57:11Z",
    "source": "Digital Data Chain Consortium news",
    "title": "page changed \u2014 worth a look",
@@ -356,11 +374,11 @@
   }
  ],
  "aas-test-engines": {
-  "checked": "2026-09-13T11:57:11Z",
+  "checked": "2026-09-14T12:54:22Z",
   "seen": []
  },
  "basyx-python": {
-  "checked": "2026-09-13T11:57:11Z",
+  "checked": "2026-09-14T12:54:22Z",
   "seen": [
    "131507958",
    "190143295",
@@ -373,15 +391,15 @@
   ]
  },
  "ddcc-news": {
-  "checked": "2026-09-13T11:57:11Z",
-  "hash": "3fd92d8d1cf6cdfdece0a0e77609969ecfa67b3f55ec22734046abf7c61ccbc1"
+  "checked": "2026-09-14T12:54:22Z",
+  "hash": "e9095daf1c498eeb6918cbec796b25857f23910a34232187bce675a8743fdf16"
  },
  "gefeg-batterypass-ready": {
-  "checked": "2026-09-13T11:57:11Z",
+  "checked": "2026-09-14T12:54:22Z",
   "hash": "bba2dc38f9f39a51bea22def4752b2170a5e66f9f8935bb0656cfdc0456fcf7e"
  },
  "idta-templates": {
-  "checked": "2026-09-13T11:57:11Z",
+  "checked": "2026-09-14T12:54:22Z",
   "seen": [
    "Artificial Intelligence Dataset",
    "Artificial Intelligence Deployment",
@@ -440,7 +458,7 @@
   ]
  },
  "idta-templates-issues": {
-  "checked": "2026-09-13T11:57:11Z",
+  "checked": "2026-09-14T12:54:22Z",
   "seen": [
    "admin-shell-io/submodel-templates#124@2026-09-02T19:26:01Z",
    "admin-shell-io/submodel-templates#130@2026-09-02T19:22:14Z",
@@ -467,22 +485,22 @@
   ]
  },
  "iirds-models-issues": {
-  "checked": "2026-09-13T11:57:11Z",
+  "checked": "2026-09-14T12:54:22Z",
   "seen": []
  },
  "iirds-models-releases": {
-  "checked": "2026-09-13T11:57:11Z",
+  "checked": "2026-09-14T12:54:22Z",
   "seen": [
    "129019841",
    "54592848"
   ]
  },
  "iirds-news": {
-  "checked": "2026-09-13T11:57:11Z",
+  "checked": "2026-09-14T12:54:22Z",
   "hash": "977539323c6efe97686c6a9a9cc4a327ed6bc717928edf594da0d268f22fb578"
  },
  "iirds-spec-issues": {
-  "checked": "2026-09-13T11:57:11Z",
+  "checked": "2026-09-14T12:54:22Z",
   "seen": [
    "iirds-consortium/specification#25@2026-08-24T08:52:12Z",
    "iirds-consortium/specification#26@2026-08-24T08:52:11Z",
@@ -496,7 +514,7 @@
   ]
  },
  "iirds-spec-releases": {
-  "checked": "2026-09-13T11:57:11Z",
+  "checked": "2026-09-14T12:54:22Z",
   "seen": [
    "129021069",
    "260543540",
@@ -504,23 +522,23 @@
   ]
  },
  "ipk-dpp-page": {
-  "checked": "2026-09-13T11:57:11Z",
-  "hash": "1ac990fead00535f8ae33ea0322ae3072a3b217d05056632c64879e6c2a3d3af"
+  "checked": "2026-09-14T12:54:22Z",
+  "hash": "4bd5d81997e828aa298ec4ef5b67c7a449b8b1f49aa8483278d270620a099c14"
  },
  "ipk-dpp-standards-release": {
-  "checked": "2026-09-13T11:57:11Z",
-  "hash": "17bb8fba4a23b21f5874b32f35e3f7ed71797302db0e0a63eae3573a4a422582"
+  "checked": "2026-09-14T12:54:22Z",
+  "hash": "e2022e934ff51d56a4ef9972da22d479b208343232b02d869cf1c8fd84821026"
  },
  "nlnet-calls": {
-  "checked": "2026-09-13T11:57:11Z",
+  "checked": "2026-09-14T12:54:22Z",
   "hash": "0978b21cd9249f6f262a2c8d6101c16b82f9eb55288bfe9abac35a03e86b94a1"
  },
  "vdi2770-issues": {
-  "checked": "2026-09-13T11:57:11Z",
+  "checked": "2026-09-14T12:54:22Z",
   "seen": []
  },
  "vdi2770-releases": {
-  "checked": "2026-09-13T11:57:11Z",
+  "checked": "2026-09-14T12:54:22Z",
   "seen": [
    "137851639",
    "57780092",
@@ -533,7 +551,7 @@
   ]
  },
  "vdi2770-schema-file": {
-  "checked": "2026-09-13T11:57:11Z",
+  "checked": "2026-09-14T12:54:22Z",
   "hash": "f7a704fe4bba095eaa4e95be0b9853205412301ad09c4bcffb4c5f0f666cb805"
  }
 }
