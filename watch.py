@@ -16,6 +16,7 @@ import argparse
 import hashlib
 import json
 import os
+import re
 import urllib.parse
 import urllib.request
 from datetime import datetime, timezone
@@ -174,8 +175,54 @@ def fetch_gh_issues(repo: str, since: str):
              item["html_url"]) for item in data]
 
 
+#: What a TYPO3 form renders fresh on every request: the serialised form state,
+#: and a honeypot field whose id and name are randomised. Both live under the
+#: form extension's own name, which is what this matches -- not "every input",
+#: because an input can be content.
+_FORM_MACHINERY = re.compile(rb"<input[^>]*tx_form_formframework[^>]*>")
+
+#: Runs of whitespace between tags. HTML does not carry meaning in them, and
+#: removing the elements above leaves the gaps where they stood.
+_GAPS = re.compile(rb"\s+")
+
+
+def stable_html(body: bytes) -> bytes:
+    """The page with the machinery that changes per request taken out.
+
+    Measured on the VDI guideline programme page, which is the page a draft
+    would first appear on: three fetches gave three hashes, and the differences
+    were the form state, a randomised honeypot field, and the whitespace around
+    them -- 14 to 16 lines out of 456,524 bytes, none of it anything the page
+    says.
+
+    Whitespace is collapsed rather than preserved, because taking an element
+    out leaves a gap where it stood and a hash is not a diff. HTML carries no
+    meaning in the space between tags; a page that starts saying something new
+    still says it in words.
+
+    Deliberately a substitution and not a parse: this tower imports nothing
+    outside the standard library, and running `html.parser` over 450 KB of
+    vendor markup is a larger surface than the line it would replace.
+    """
+    return _GAPS.sub(b" ", _FORM_MACHINERY.sub(b"", body)).strip()
+
+
 def fetch_html_hash(url: str) -> str:
+    """Every byte, for a source whose bytes are the thing being watched."""
     return hashlib.sha256(fetch(url, accept="text/html")).hexdigest()
+
+
+def fetch_page_hash(url: str) -> str:
+    """What the page says, for a source that is a page rather than a file.
+
+    Two kinds rather than one switch, because the answer is different for the
+    two things this tower fetches over HTTP. `vdi2770-schema-file` is a schema:
+    a byte of it moving is the event, whitespace included, and normalising it
+    would be a weaker watch than the one this project deliberately chose. A
+    guideline programme page is markup around a list, and a byte of it moves on
+    every request.
+    """
+    return hashlib.sha256(stable_html(fetch(url, accept="text/html"))).hexdigest()
 
 
 # -- the pure part: state + fetched -> events (this is what the test holds) --
@@ -334,6 +381,9 @@ def main(argv=None) -> None:
                                    source["label"], today)
             elif source["kind"] == "html":
                 fresh += diff_hash(entry, fetch_html_hash(source["url"]),
+                                   source["label"], source["url"], today)
+            elif source["kind"] == "page":
+                fresh += diff_hash(entry, fetch_page_hash(source["url"]),
                                    source["label"], source["url"], today)
         except TooLarge as large:
             # Same reasoning as a move: "this source is answering with more

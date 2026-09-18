@@ -1,5 +1,5 @@
 {
- "_comment": "What this tower watches. Data, not code: adding a source is a row, not a patch.  Two of these watch issue threads we have posted into, because an answer arrives on the standards body's schedule and nobody is polling. The VDI entry hashes the schema FILE, not the page that links it: the page carries a per-request token and would fire on every run, which is how a feed teaches its reader to ignore it.  The three DPP rows watch pages rather than a repository because there is no repository to watch: the release of 2026-06-01 says an open-source test system exists and names GEFEG and TU Berlin, and searching found no public code for it. Not finding it is not the same as its absence, so these are the pages that would change on the day it appears -- the project page that would link it, the release that would be edited to carry it, and the partner's own test environment.",
+ "_comment": "What this tower watches. Data, not code: adding a source is a row, not a patch.  Two of these watch issue threads we have posted into, because an answer arrives on the standards body's schedule and nobody is polling. The VDI entry hashes the schema FILE, not the page that links it: the page carries a per-request token and would fire on every run, which is how a feed teaches its reader to ignore it.  The three DPP rows watch pages rather than a repository because there is no repository to watch: the release of 2026-06-01 says an open-source test system exists and names GEFEG and TU Berlin, and searching found no public code for it. Not finding it is not the same as its absence, so these are the pages that would change on the day it appears -- the project page that would link it, the release that would be edited to carry it, and the partner's own test environment.  The programme page is a `page` and not an `html`: VDI renders a form on every guideline page, and its state and honeypot fields change on every request -- three fetches, three hashes -- so the hash is taken over the page with that machinery removed and its whitespace collapsed. `vdi2770-schema-file` stays `html`, every byte, because there a byte moving is the event. Watching the programme page is how a draft (Entwurf) of a new sheet is seen on the day it is listed rather than whenever somebody looks.",
  "sources": [
   {
    "key": "iirds-spec-releases",
@@ -103,6 +103,18 @@
    "kind": "html",
    "url": "https://batterypass-ready.gefeg.com/",
    "label": "GEFEG BatteryPass Ready, the test environment that partner names"
+  },
+  {
+   "key": "vdi2770-programme",
+   "kind": "page",
+   "url": "https://www.vdi.de/richtlinien/programme-zu-vdi-richtlinien/vdi-2770",
+   "label": "VDI 2770 guideline programme (a draft would appear here first)"
+  },
+  {
+   "key": "eclipse-dpp",
+   "kind": "html",
+   "url": "https://dpp.eclipse.org/",
+   "label": "Eclipse Digital Product Passport project page"
   }
  ]
 }
