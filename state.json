@@ -1,6 +1,30 @@
 {
  "_events": [
   {
+   "date": "2026-09-23T11:42:48Z",
+   "source": "IDTA submodel templates (published)",
+   "title": "new template: Safety Instrumented Functions",
+   "url": "https://github.com/admin-shell-io/submodel-templates/tree/main/published/Safety%20Instrumented%20Functions"
+  },
+  {
+   "date": "2026-09-23T11:42:48Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#331 SMT SIF",
+   "url": "https://github.com/admin-shell-io/submodel-templates/pull/331"
+  },
+  {
+   "date": "2026-09-23T11:42:48Z",
+   "source": "Fraunhofer IPK Digital Product Passport page (carries no repository link today)",
+   "title": "page changed \u2014 worth a look",
+   "url": "https://www.ipk.fraunhofer.de/en/expertise-and-technologies/industry-trends/circular-economy/digital-product-passport-dpp.html"
+  },
+  {
+   "date": "2026-09-23T11:42:48Z",
+   "source": "Fraunhofer IPK release, 2026-06-01, announcing an open-source DPP test system",
+   "title": "page changed \u2014 worth a look",
+   "url": "https://www.ipk.fraunhofer.de/en/media/media-information/20260601-die-standards-fuer-den-digitalen-produktpass-sind-da.html"
+  },
+  {
    "date": "2026-09-22T11:43:51Z",
    "source": "Digital Data Chain Consortium news",
    "title": "page changed \u2014 worth a look",
@@ -524,11 +548,11 @@
   }
  ],
  "aas-test-engines": {
-  "checked": "2026-09-22T11:43:51Z",
+  "checked": "2026-09-23T11:42:48Z",
   "seen": []
  },
  "basyx-python": {
-  "checked": "2026-09-22T11:43:51Z",
+  "checked": "2026-09-23T11:42:48Z",
   "seen": [
    "131507958",
    "190143295",
@@ -545,15 +569,15 @@
   "hash": "3a80e7242300dcffcc593554a9c2f6d4bfe9e6e69170c1ec1152ba74f281af0f"
  },
  "eclipse-dpp": {
-  "checked": "2026-09-22T11:43:51Z",
+  "checked": "2026-09-23T11:42:48Z",
   "hash": "39024422a0a9ad5392f08c0cc15d921ed072479ada271df7d90c0e261494e642"
  },
  "gefeg-batterypass-ready": {
-  "checked": "2026-09-22T11:43:51Z",
+  "checked": "2026-09-23T11:42:48Z",
   "hash": "bba2dc38f9f39a51bea22def4752b2170a5e66f9f8935bb0656cfdc0456fcf7e"
  },
  "idta-templates": {
-  "checked": "2026-09-22T11:43:51Z",
+  "checked": "2026-09-23T11:42:48Z",
   "seen": [
    "Artificial Intelligence Dataset",
    "Artificial Intelligence Deployment",
@@ -600,6 +624,7 @@
    "Purchase Order",
    "Quality Control for Machining",
    "Reliability",
+   "Safety Instrumented Functions",
    "Service Request Notification",
    "Sizing of Power Drive Trains",
    "Software Nameplate",
@@ -612,7 +637,7 @@
   ]
  },
  "idta-templates-issues": {
-  "checked": "2026-09-22T11:43:51Z",
+  "checked": "2026-09-23T11:42:48Z",
   "seen": [
    "admin-shell-io/submodel-templates#124@2026-09-02T19:26:01Z",
    "admin-shell-io/submodel-templates#130@2026-09-02T19:22:14Z",
@@ -639,26 +664,27 @@
    "admin-shell-io/submodel-templates#329@2026-09-10T10:18:36Z",
    "admin-shell-io/submodel-templates#330@2026-09-15T15:45:10Z",
    "admin-shell-io/submodel-templates#330@2026-09-16T13:25:30Z",
+   "admin-shell-io/submodel-templates#331@2026-09-23T11:06:21Z",
    "admin-shell-io/submodel-templates#95@2026-09-15T09:10:11Z"
   ]
  },
  "iirds-models-issues": {
-  "checked": "2026-09-22T11:43:51Z",
+  "checked": "2026-09-23T11:42:48Z",
   "seen": []
  },
  "iirds-models-releases": {
-  "checked": "2026-09-22T11:43:51Z",
+  "checked": "2026-09-23T11:42:48Z",
   "seen": [
    "129019841",
    "54592848"
   ]
  },
  "iirds-news": {
-  "checked": "2026-09-22T11:43:51Z",
+  "checked": "2026-09-23T11:42:48Z",
   "hash": "f0bddb4db517c050938f291b7424b74d5643351147de17a27f42e3a1bb75e3a8"
  },
  "iirds-spec-issues": {
-  "checked": "2026-09-22T11:43:51Z",
+  "checked": "2026-09-23T11:42:48Z",
   "seen": [
    "iirds-consortium/specification#25@2026-08-24T08:52:12Z",
    "iirds-consortium/specification#26@2026-08-24T08:52:11Z",
@@ -672,7 +698,7 @@
   ]
  },
  "iirds-spec-releases": {
-  "checked": "2026-09-22T11:43:51Z",
+  "checked": "2026-09-23T11:42:48Z",
   "seen": [
    "129021069",
    "260543540",
@@ -680,27 +706,27 @@
   ]
  },
  "ipk-dpp-page": {
-  "checked": "2026-09-22T11:43:51Z",
-  "hash": "92d86ab09e77359fff8f1fa64f4f4cd5daea228d52cbf4eb41c0931000fc5207"
+  "checked": "2026-09-23T11:42:48Z",
+  "hash": "9f9d6b6bd02fe4d564949f8a1e9722adf06a88c9aedf1b3fbcc2837ba209429e"
  },
  "ipk-dpp-standards-release": {
-  "checked": "2026-09-22T11:43:51Z",
-  "hash": "0d27f70be29efa9c091b443397cb2fc9f4b2f3acd6b6fee22a7ab6073ebf282a"
+  "checked": "2026-09-23T11:42:48Z",
+  "hash": "77d3b108670fee262546beb54404bc1421c737b466e9bb8c275e5d4408d31411"
  },
  "nlnet-calls": {
-  "checked": "2026-09-22T11:43:51Z",
+  "checked": "2026-09-23T11:42:48Z",
   "hash": "0978b21cd9249f6f262a2c8d6101c16b82f9eb55288bfe9abac35a03e86b94a1"
  },
  "vdi2770-issues": {
-  "checked": "2026-09-22T11:43:51Z",
+  "checked": "2026-09-23T11:42:48Z",
   "seen": []
  },
  "vdi2770-programme": {
-  "checked": "2026-09-22T11:43:51Z",
+  "checked": "2026-09-23T11:42:48Z",
   "hash": "2d5b32fa7848a887ea78075e7e79bddf67d2bcd925a68852b3bf03e1499ebffe"
  },
  "vdi2770-releases": {
-  "checked": "2026-09-22T11:43:51Z",
+  "checked": "2026-09-23T11:42:48Z",
   "seen": [
    "137851639",
    "57780092",
@@ -713,7 +739,7 @@
   ]
  },
  "vdi2770-schema-file": {
-  "checked": "2026-09-22T11:43:51Z",
+  "checked": "2026-09-23T11:42:48Z",
   "hash": "f7a704fe4bba095eaa4e95be0b9853205412301ad09c4bcffb4c5f0f666cb805"
  }
 }

@@ -5,6 +5,10 @@ Subscribe via [feed.xml](feed.xml) in any RSS reader.
 
 ## Latest
 
+- **2026-09-23** · [new template: Safety Instrumented Functions](https://github.com/admin-shell-io/submodel-templates/tree/main/published/Safety%2520Instrumented%2520Functions) · IDTA submodel templates \(published\)
+- **2026-09-23** · [submodel-templates#331 SMT SIF](https://github.com/admin-shell-io/submodel-templates/pull/331) · IDTA submodel template issue activity
+- **2026-09-23** · [page changed — worth a look](https://www.ipk.fraunhofer.de/en/expertise-and-technologies/industry-trends/circular-economy/digital-product-passport-dpp.html) · Fraunhofer IPK Digital Product Passport page \(carries no repository link today\)
+- **2026-09-23** · [page changed — worth a look](https://www.ipk.fraunhofer.de/en/media/media-information/20260601-die-standards-fuer-den-digitalen-produktpass-sind-da.html) · Fraunhofer IPK release, 2026-06-01, announcing an open-source DPP test system
 - **2026-09-22** · [page changed — worth a look](https://digitaldatachain.com/news/) · Digital Data Chain Consortium news
 - **2026-09-22** · [page changed — worth a look](https://www.vdi.de/richtlinien/programme-zu-vdi-richtlinien/vdi-2770) · VDI 2770 guideline programme \(a draft would appear here first\)
 - **2026-09-22** · [page changed — worth a look](https://dpp.eclipse.org/) · Eclipse Digital Product Passport project page
@@ -41,31 +45,27 @@ Subscribe via [feed.xml](feed.xml) in any RSS reader.
 - **2026-09-10** · [submodel-templates#328 fix IDTA number for Reliability](https://github.com/admin-shell-io/submodel-templates/pull/328) · IDTA submodel template issue activity
 - **2026-09-10** · [submodel-templates#325 antora.yml updates](https://github.com/admin-shell-io/submodel-templates/pull/325) · IDTA submodel template issue activity
 - **2026-09-10** · [submodel-templates#327 fixes antora.yml for consistency](https://github.com/admin-shell-io/submodel-templates/pull/327) · IDTA submodel template issue activity
-- **2026-09-10** · [submodel-templates#326 Bi bo/antorayml continued](https://github.com/admin-shell-io/submodel-templates/pull/326) · IDTA submodel template issue activity
-- **2026-09-10** · [page changed — worth a look](https://digitaldatachain.com/news/) · Digital Data Chain Consortium news
-- **2026-09-09** · [page changed — worth a look](https://nlnet.nl/propose/) · NLnet open calls page
-- **2026-09-09** · [submodel-templates#326 Bi bo/antorayml continued](https://github.com/admin-shell-io/submodel-templates/pull/326) · IDTA submodel template issue activity
 
 ## Watched sources
 
 | source | kind | last checked |
 |---|---|---|
-| iiRDS specification releases | gh\_releases | 2026-09-22T11:43 |
-| iiRDS models releases | gh\_releases | 2026-09-22T11:43 |
-| iiRDS spec issue activity | gh\_issues | 2026-09-22T11:43 |
-| iiRDS models issue activity | gh\_issues | 2026-09-22T11:43 |
-| VDI 2770 reference implementation releases | gh\_releases | 2026-09-22T11:43 |
-| IDTA submodel templates \(published\) | gh\_dir | 2026-09-22T11:43 |
-| BaSyx Python SDK releases | gh\_releases | 2026-09-22T11:43 |
-| AAS test engines releases | gh\_releases | 2026-09-22T11:43 |
-| NLnet open calls page | html | 2026-09-22T11:43 |
-| iirds.org news page | html | 2026-09-22T11:43 |
-| VDI 2770 reference implementation issue activity | gh\_issues | 2026-09-22T11:43 |
-| IDTA submodel template issue activity | gh\_issues | 2026-09-22T11:43 |
+| iiRDS specification releases | gh\_releases | 2026-09-23T11:42 |
+| iiRDS models releases | gh\_releases | 2026-09-23T11:42 |
+| iiRDS spec issue activity | gh\_issues | 2026-09-23T11:42 |
+| iiRDS models issue activity | gh\_issues | 2026-09-23T11:42 |
+| VDI 2770 reference implementation releases | gh\_releases | 2026-09-23T11:42 |
+| IDTA submodel templates \(published\) | gh\_dir | 2026-09-23T11:42 |
+| BaSyx Python SDK releases | gh\_releases | 2026-09-23T11:42 |
+| AAS test engines releases | gh\_releases | 2026-09-23T11:42 |
+| NLnet open calls page | html | 2026-09-23T11:42 |
+| iirds.org news page | html | 2026-09-23T11:42 |
+| VDI 2770 reference implementation issue activity | gh\_issues | 2026-09-23T11:42 |
+| IDTA submodel template issue activity | gh\_issues | 2026-09-23T11:42 |
 | Digital Data Chain Consortium news | html | 2026-09-22T11:43 |
-| VDI 2770 XML schema file \(byte hash of the file itself, not its page\) | html | 2026-09-22T11:43 |
-| Fraunhofer IPK Digital Product Passport page \(carries no repository link today\) | html | 2026-09-22T11:43 |
-| Fraunhofer IPK release, 2026-06-01, announcing an open-source DPP test system | html | 2026-09-22T11:43 |
-| GEFEG BatteryPass Ready, the test environment that partner names | html | 2026-09-22T11:43 |
-| VDI 2770 guideline programme \(a draft would appear here first\) | page | 2026-09-22T11:43 |
-| Eclipse Digital Product Passport project page | html | 2026-09-22T11:43 |
+| VDI 2770 XML schema file \(byte hash of the file itself, not its page\) | html | 2026-09-23T11:42 |
+| Fraunhofer IPK Digital Product Passport page \(carries no repository link today\) | html | 2026-09-23T11:42 |
+| Fraunhofer IPK release, 2026-06-01, announcing an open-source DPP test system | html | 2026-09-23T11:42 |
+| GEFEG BatteryPass Ready, the test environment that partner names | html | 2026-09-23T11:42 |
+| VDI 2770 guideline programme \(a draft would appear here first\) | page | 2026-09-23T11:42 |
+| Eclipse Digital Product Passport project page | html | 2026-09-23T11:42 |
