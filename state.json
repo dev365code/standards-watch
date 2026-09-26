@@ -1,6 +1,54 @@
 {
  "_events": [
   {
+   "date": "2026-09-26T11:29:56Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#246 SMT Time Series Data: SMC Record incorrectly described as \"ordered\"",
+   "url": "https://github.com/admin-shell-io/submodel-templates/issues/246"
+  },
+  {
+   "date": "2026-09-26T11:29:56Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#334 Bug fix: IDTA 02008 1.1.3",
+   "url": "https://github.com/admin-shell-io/submodel-templates/pull/334"
+  },
+  {
+   "date": "2026-09-26T11:29:56Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#313 Same idShort for SML and SMC ProductClassifications lead to misinterpretations",
+   "url": "https://github.com/admin-shell-io/submodel-templates/issues/313"
+  },
+  {
+   "date": "2026-09-26T11:29:56Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#333 Smt bugfix automation",
+   "url": "https://github.com/admin-shell-io/submodel-templates/pull/333"
+  },
+  {
+   "date": "2026-09-26T11:29:56Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#124 Carbon Footprint 1.0: Cardinality of PcfCalculationMethods is wrong",
+   "url": "https://github.com/admin-shell-io/submodel-templates/issues/124"
+  },
+  {
+   "date": "2026-09-26T11:29:56Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#58 CD's with filled 'category' which is depricated and not supported by API (SMT Service Request Notification)",
+   "url": "https://github.com/admin-shell-io/submodel-templates/issues/58"
+  },
+  {
+   "date": "2026-09-26T11:29:56Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#332 Smt bugfixes",
+   "url": "https://github.com/admin-shell-io/submodel-templates/pull/332"
+  },
+  {
+   "date": "2026-09-26T11:29:56Z",
+   "source": "Digital Data Chain Consortium news",
+   "title": "page changed \u2014 worth a look",
+   "url": "https://digitaldatachain.com/news/"
+  },
+  {
    "date": "2026-09-25T11:55:06Z",
    "source": "IDTA submodel template issue activity",
    "title": "submodel-templates#332 Smt bugfixes",
@@ -602,11 +650,11 @@
   }
  ],
  "aas-test-engines": {
-  "checked": "2026-09-25T11:55:06Z",
+  "checked": "2026-09-26T11:29:56Z",
   "seen": []
  },
  "basyx-python": {
-  "checked": "2026-09-25T11:55:06Z",
+  "checked": "2026-09-26T11:29:56Z",
   "seen": [
    "131507958",
    "190143295",
@@ -619,19 +667,19 @@
   ]
  },
  "ddcc-news": {
-  "checked": "2026-09-25T11:55:06Z",
-  "hash": "831733bcba89280e1ef505e34dbad439aaf024dc94bb7798f2f4cdbb795f3e68"
+  "checked": "2026-09-26T11:29:56Z",
+  "hash": "0a24a95a31b37f98db3d075d613688b74184cf0e38bc9dc2b403b69a0fa37c28"
  },
  "eclipse-dpp": {
-  "checked": "2026-09-25T11:55:06Z",
+  "checked": "2026-09-26T11:29:56Z",
   "hash": "39024422a0a9ad5392f08c0cc15d921ed072479ada271df7d90c0e261494e642"
  },
  "gefeg-batterypass-ready": {
-  "checked": "2026-09-25T11:55:06Z",
+  "checked": "2026-09-26T11:29:56Z",
   "hash": "bba2dc38f9f39a51bea22def4752b2170a5e66f9f8935bb0656cfdc0456fcf7e"
  },
  "idta-templates": {
-  "checked": "2026-09-25T11:55:06Z",
+  "checked": "2026-09-26T11:29:56Z",
   "seen": [
    "Artificial Intelligence Dataset",
    "Artificial Intelligence Deployment",
@@ -691,16 +739,19 @@
   ]
  },
  "idta-templates-issues": {
-  "checked": "2026-09-25T11:55:06Z",
+  "checked": "2026-09-26T11:29:56Z",
   "seen": [
    "admin-shell-io/submodel-templates#124@2026-09-02T19:26:01Z",
+   "admin-shell-io/submodel-templates#124@2026-09-25T14:30:28Z",
    "admin-shell-io/submodel-templates#130@2026-09-02T19:22:14Z",
    "admin-shell-io/submodel-templates#135@2026-09-02T19:27:00Z",
    "admin-shell-io/submodel-templates#186@2026-09-15T09:09:05Z",
    "admin-shell-io/submodel-templates#195@2026-09-02T19:27:42Z",
+   "admin-shell-io/submodel-templates#246@2026-09-25T14:48:28Z",
    "admin-shell-io/submodel-templates#264@2026-09-02T19:22:03Z",
    "admin-shell-io/submodel-templates#278@2026-09-01T07:31:40Z",
    "admin-shell-io/submodel-templates#308@2026-08-25T11:17:28Z",
+   "admin-shell-io/submodel-templates#313@2026-09-25T14:43:40Z",
    "admin-shell-io/submodel-templates#319@2026-08-27T11:23:42Z",
    "admin-shell-io/submodel-templates#320@2026-08-24T13:34:22Z",
    "admin-shell-io/submodel-templates#321@2026-08-25T17:04:06Z",
@@ -721,26 +772,30 @@
    "admin-shell-io/submodel-templates#331@2026-09-23T11:06:21Z",
    "admin-shell-io/submodel-templates#332@2026-09-24T11:48:41Z",
    "admin-shell-io/submodel-templates#332@2026-09-24T11:59:37Z",
+   "admin-shell-io/submodel-templates#332@2026-09-25T14:30:25Z",
+   "admin-shell-io/submodel-templates#333@2026-09-25T14:32:15Z",
+   "admin-shell-io/submodel-templates#334@2026-09-25T14:48:26Z",
+   "admin-shell-io/submodel-templates#58@2026-09-25T14:30:26Z",
    "admin-shell-io/submodel-templates#95@2026-09-15T09:10:11Z"
   ]
  },
  "iirds-models-issues": {
-  "checked": "2026-09-25T11:55:06Z",
+  "checked": "2026-09-26T11:29:56Z",
   "seen": []
  },
  "iirds-models-releases": {
-  "checked": "2026-09-25T11:55:06Z",
+  "checked": "2026-09-26T11:29:56Z",
   "seen": [
    "129019841",
    "54592848"
   ]
  },
  "iirds-news": {
-  "checked": "2026-09-25T11:55:06Z",
+  "checked": "2026-09-26T11:29:56Z",
   "hash": "f0bddb4db517c050938f291b7424b74d5643351147de17a27f42e3a1bb75e3a8"
  },
  "iirds-spec-issues": {
-  "checked": "2026-09-25T11:55:06Z",
+  "checked": "2026-09-26T11:29:56Z",
   "seen": [
    "iirds-consortium/specification#25@2026-08-24T08:52:12Z",
    "iirds-consortium/specification#26@2026-08-24T08:52:11Z",
@@ -754,7 +809,7 @@
   ]
  },
  "iirds-spec-releases": {
-  "checked": "2026-09-25T11:55:06Z",
+  "checked": "2026-09-26T11:29:56Z",
   "seen": [
    "129021069",
    "260543540",
@@ -762,27 +817,27 @@
   ]
  },
  "ipk-dpp-page": {
-  "checked": "2026-09-25T11:55:06Z",
+  "checked": "2026-09-26T11:29:56Z",
   "hash": "9e2cfbcebf8cba2099e0af145b521fac9427ab15d61580059e4ccb6fd0ece3e5"
  },
  "ipk-dpp-standards-release": {
-  "checked": "2026-09-25T11:55:06Z",
+  "checked": "2026-09-26T11:29:56Z",
   "hash": "f71feca8fadea2e515aa45216415f5250e9a167a591d23d0dc02f56933b82f1d"
  },
  "nlnet-calls": {
-  "checked": "2026-09-25T11:55:06Z",
+  "checked": "2026-09-26T11:29:56Z",
   "hash": "cbd0b2c2e3982493fe1aadf21e1424b14fd8c5a5911a3c7137295d4f331e325f"
  },
  "vdi2770-issues": {
-  "checked": "2026-09-25T11:55:06Z",
+  "checked": "2026-09-26T11:29:56Z",
   "seen": []
  },
  "vdi2770-programme": {
-  "checked": "2026-09-25T11:55:06Z",
+  "checked": "2026-09-26T11:29:56Z",
   "hash": "2d5b32fa7848a887ea78075e7e79bddf67d2bcd925a68852b3bf03e1499ebffe"
  },
  "vdi2770-releases": {
-  "checked": "2026-09-25T11:55:06Z",
+  "checked": "2026-09-26T11:29:56Z",
   "seen": [
    "137851639",
    "57780092",
@@ -795,7 +850,7 @@
   ]
  },
  "vdi2770-schema-file": {
-  "checked": "2026-09-25T11:55:06Z",
+  "checked": "2026-09-26T11:29:56Z",
   "hash": "f7a704fe4bba095eaa4e95be0b9853205412301ad09c4bcffb4c5f0f666cb805"
  }
 }
