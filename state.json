@@ -1,6 +1,24 @@
 {
  "_events": [
   {
+   "date": "2026-09-29T12:58:12Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#335 [Technical Data SMT] Wrong idShort for VersionOfClassificationSystem",
+   "url": "https://github.com/admin-shell-io/submodel-templates/issues/335"
+  },
+  {
+   "date": "2026-09-29T12:58:12Z",
+   "source": "Digital Data Chain Consortium news",
+   "title": "page changed \u2014 worth a look",
+   "url": "https://digitaldatachain.com/news/"
+  },
+  {
+   "date": "2026-09-29T12:58:12Z",
+   "source": "Eclipse Digital Product Passport project page",
+   "title": "page changed \u2014 worth a look",
+   "url": "https://dpp.eclipse.org/"
+  },
+  {
    "date": "2026-09-28T14:02:11Z",
    "source": "IDTA submodel template issue activity",
    "title": "submodel-templates#248 [Sizing of Power Drive Trains] String ValueType for Ranges",
@@ -686,11 +704,11 @@
   }
  ],
  "aas-test-engines": {
-  "checked": "2026-09-28T14:02:11Z",
+  "checked": "2026-09-29T12:58:12Z",
   "seen": []
  },
  "basyx-python": {
-  "checked": "2026-09-28T14:02:11Z",
+  "checked": "2026-09-29T12:58:12Z",
   "seen": [
    "131507958",
    "190143295",
@@ -703,19 +721,19 @@
   ]
  },
  "ddcc-news": {
-  "checked": "2026-09-28T14:02:11Z",
-  "hash": "67984e6a060cfa59fcd36be795a6194f2f5807bd637b510ba01145229b3b7126"
+  "checked": "2026-09-29T12:58:12Z",
+  "hash": "994293fb33a5ca3cf99eae683f22bcd05ee8719c8b4b51fa73e422c50e9c4849"
  },
  "eclipse-dpp": {
-  "checked": "2026-09-28T14:02:11Z",
-  "hash": "39024422a0a9ad5392f08c0cc15d921ed072479ada271df7d90c0e261494e642"
+  "checked": "2026-09-29T12:58:12Z",
+  "hash": "4705cbe799be99ee1928cfb6dd0f4fe0f0fcade6ca565fe12411f325ec22fb05"
  },
  "gefeg-batterypass-ready": {
-  "checked": "2026-09-28T14:02:11Z",
+  "checked": "2026-09-29T12:58:12Z",
   "hash": "bba2dc38f9f39a51bea22def4752b2170a5e66f9f8935bb0656cfdc0456fcf7e"
  },
  "idta-templates": {
-  "checked": "2026-09-28T14:02:11Z",
+  "checked": "2026-09-29T12:58:12Z",
   "seen": [
    "Artificial Intelligence Dataset",
    "Artificial Intelligence Deployment",
@@ -775,7 +793,7 @@
   ]
  },
  "idta-templates-issues": {
-  "checked": "2026-09-28T14:02:11Z",
+  "checked": "2026-09-29T12:58:12Z",
   "seen": [
    "admin-shell-io/submodel-templates#124@2026-09-02T19:26:01Z",
    "admin-shell-io/submodel-templates#124@2026-09-25T14:30:28Z",
@@ -812,27 +830,28 @@
    "admin-shell-io/submodel-templates#332@2026-09-25T14:30:25Z",
    "admin-shell-io/submodel-templates#333@2026-09-25T14:32:15Z",
    "admin-shell-io/submodel-templates#334@2026-09-25T14:48:26Z",
+   "admin-shell-io/submodel-templates#335@2026-09-29T08:14:56Z",
    "admin-shell-io/submodel-templates#58@2026-09-25T14:30:26Z",
    "admin-shell-io/submodel-templates#95@2026-09-15T09:10:11Z"
   ]
  },
  "iirds-models-issues": {
-  "checked": "2026-09-28T14:02:11Z",
+  "checked": "2026-09-29T12:58:12Z",
   "seen": []
  },
  "iirds-models-releases": {
-  "checked": "2026-09-28T14:02:11Z",
+  "checked": "2026-09-29T12:58:12Z",
   "seen": [
    "129019841",
    "54592848"
   ]
  },
  "iirds-news": {
-  "checked": "2026-09-28T14:02:11Z",
+  "checked": "2026-09-29T12:58:12Z",
   "hash": "f0bddb4db517c050938f291b7424b74d5643351147de17a27f42e3a1bb75e3a8"
  },
  "iirds-spec-issues": {
-  "checked": "2026-09-28T14:02:11Z",
+  "checked": "2026-09-29T12:58:12Z",
   "seen": [
    "iirds-consortium/specification#25@2026-08-24T08:52:12Z",
    "iirds-consortium/specification#26@2026-08-24T08:52:11Z",
@@ -846,7 +865,7 @@
   ]
  },
  "iirds-spec-releases": {
-  "checked": "2026-09-28T14:02:11Z",
+  "checked": "2026-09-29T12:58:12Z",
   "seen": [
    "129021069",
    "260543540",
@@ -854,27 +873,27 @@
   ]
  },
  "ipk-dpp-page": {
-  "checked": "2026-09-28T14:02:11Z",
+  "checked": "2026-09-29T12:58:12Z",
   "hash": "9d5f05a53d599f83d1f16511e1c2585374c0bcdfbc850350314b9e7431ada31b"
  },
  "ipk-dpp-standards-release": {
-  "checked": "2026-09-28T14:02:11Z",
+  "checked": "2026-09-29T12:58:12Z",
   "hash": "be56175add396cef13ce81df74f9566f66525c65607a7e32cb693d3babe01122"
  },
  "nlnet-calls": {
-  "checked": "2026-09-28T14:02:11Z",
+  "checked": "2026-09-29T12:58:12Z",
   "hash": "cbd0b2c2e3982493fe1aadf21e1424b14fd8c5a5911a3c7137295d4f331e325f"
  },
  "vdi2770-issues": {
-  "checked": "2026-09-28T14:02:11Z",
+  "checked": "2026-09-29T12:58:12Z",
   "seen": []
  },
  "vdi2770-programme": {
-  "checked": "2026-09-28T14:02:11Z",
+  "checked": "2026-09-29T12:58:12Z",
   "hash": "9eba8c9556d38960d86cb3cb65b2380aff2774efcdaf9467dc6050750b6b0509"
  },
  "vdi2770-releases": {
-  "checked": "2026-09-28T14:02:11Z",
+  "checked": "2026-09-29T12:58:12Z",
   "seen": [
    "137851639",
    "57780092",
@@ -887,7 +906,7 @@
   ]
  },
  "vdi2770-schema-file": {
-  "checked": "2026-09-28T14:02:11Z",
+  "checked": "2026-09-29T12:58:12Z",
   "hash": "f7a704fe4bba095eaa4e95be0b9853205412301ad09c4bcffb4c5f0f666cb805"
  }
 }
