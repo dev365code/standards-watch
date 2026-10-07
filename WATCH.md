@@ -5,6 +5,11 @@ Subscribe via [feed.xml](feed.xml) in any RSS reader.
 
 ## Latest
 
+- **2026-10-07** · [page changed — worth a look](https://nlnet.nl/propose/) · NLnet open calls page
+- **2026-10-07** · [page changed — worth a look](https://digitaldatachain.com/news/) · Digital Data Chain Consortium news
+- **2026-10-07** · [page changed — worth a look](https://www.ipk.fraunhofer.de/en/expertise-and-technologies/industry-trends/circular-economy/digital-product-passport-dpp.html) · Fraunhofer IPK Digital Product Passport page \(carries no repository link today\)
+- **2026-10-07** · [page changed — worth a look](https://www.ipk.fraunhofer.de/en/media/media-information/20260601-die-standards-fuer-den-digitalen-produktpass-sind-da.html) · Fraunhofer IPK release, 2026-06-01, announcing an open-source DPP test system
+- **2026-10-07** · [page changed — worth a look](https://www.vdi.de/richtlinien/programme-zu-vdi-richtlinien/vdi-2770) · VDI 2770 guideline programme \(a draft would appear here first\)
 - **2026-10-06** · [page changed — worth a look](https://digitaldatachain.com/news/) · Digital Data Chain Consortium news
 - **2026-10-06** · [page changed — worth a look](https://www.ipk.fraunhofer.de/en/expertise-and-technologies/industry-trends/circular-economy/digital-product-passport-dpp.html) · Fraunhofer IPK Digital Product Passport page \(carries no repository link today\)
 - **2026-10-06** · [page changed — worth a look](https://www.ipk.fraunhofer.de/en/media/media-information/20260601-die-standards-fuer-den-digitalen-produktpass-sind-da.html) · Fraunhofer IPK release, 2026-06-01, announcing an open-source DPP test system
@@ -40,32 +45,27 @@ Subscribe via [feed.xml](feed.xml) in any RSS reader.
 - **2026-09-26** · [submodel-templates#334 Bug fix: IDTA 02008 1.1.3](https://github.com/admin-shell-io/submodel-templates/pull/334) · IDTA submodel template issue activity
 - **2026-09-26** · [submodel-templates#313 Same idShort for SML and SMC ProductClassifications lead to misinterpretations](https://github.com/admin-shell-io/submodel-templates/issues/313) · IDTA submodel template issue activity
 - **2026-09-26** · [submodel-templates#333 Smt bugfix automation](https://github.com/admin-shell-io/submodel-templates/pull/333) · IDTA submodel template issue activity
-- **2026-09-26** · [submodel-templates#124 Carbon Footprint 1.0: Cardinality of PcfCalculationMethods is wrong](https://github.com/admin-shell-io/submodel-templates/issues/124) · IDTA submodel template issue activity
-- **2026-09-26** · [submodel-templates#58 CD's with filled 'category' which is depricated and not supported by API \(SMT Service Request Notification\)](https://github.com/admin-shell-io/submodel-templates/issues/58) · IDTA submodel template issue activity
-- **2026-09-26** · [submodel-templates#332 Smt bugfixes](https://github.com/admin-shell-io/submodel-templates/pull/332) · IDTA submodel template issue activity
-- **2026-09-26** · [page changed — worth a look](https://digitaldatachain.com/news/) · Digital Data Chain Consortium news
-- **2026-09-25** · [submodel-templates#332 Smt bugfixes](https://github.com/admin-shell-io/submodel-templates/pull/332) · IDTA submodel template issue activity
 
 ## Watched sources
 
 | source | kind | last checked |
 |---|---|---|
-| iiRDS specification releases | gh\_releases | 2026-10-06T13:22 |
-| iiRDS models releases | gh\_releases | 2026-10-06T13:22 |
-| iiRDS spec issue activity | gh\_issues | 2026-10-06T13:22 |
-| iiRDS models issue activity | gh\_issues | 2026-10-06T13:22 |
-| VDI 2770 reference implementation releases | gh\_releases | 2026-10-06T13:22 |
-| IDTA submodel templates \(published\) | gh\_dir | 2026-10-06T13:22 |
-| BaSyx Python SDK releases | gh\_releases | 2026-10-06T13:22 |
-| AAS test engines releases | gh\_releases | 2026-10-06T13:22 |
-| NLnet open calls page | html | 2026-10-06T13:22 |
-| iirds.org news page | html | 2026-10-06T13:22 |
-| VDI 2770 reference implementation issue activity | gh\_issues | 2026-10-06T13:22 |
-| IDTA submodel template issue activity | gh\_issues | 2026-10-06T13:22 |
-| Digital Data Chain Consortium news | html | 2026-10-06T13:22 |
-| VDI 2770 XML schema file \(byte hash of the file itself, not its page\) | html | 2026-10-06T13:22 |
-| Fraunhofer IPK Digital Product Passport page \(carries no repository link today\) | html | 2026-10-06T13:22 |
-| Fraunhofer IPK release, 2026-06-01, announcing an open-source DPP test system | html | 2026-10-06T13:22 |
-| GEFEG BatteryPass Ready, the test environment that partner names | html | 2026-10-06T13:22 |
-| VDI 2770 guideline programme \(a draft would appear here first\) | page | 2026-10-06T13:22 |
-| Eclipse Digital Product Passport project page | html | 2026-10-06T13:22 |
+| iiRDS specification releases | gh\_releases | 2026-10-07T13:30 |
+| iiRDS models releases | gh\_releases | 2026-10-07T13:30 |
+| iiRDS spec issue activity | gh\_issues | 2026-10-07T13:30 |
+| iiRDS models issue activity | gh\_issues | 2026-10-07T13:30 |
+| VDI 2770 reference implementation releases | gh\_releases | 2026-10-07T13:30 |
+| IDTA submodel templates \(published\) | gh\_dir | 2026-10-07T13:30 |
+| BaSyx Python SDK releases | gh\_releases | 2026-10-07T13:30 |
+| AAS test engines releases | gh\_releases | 2026-10-07T13:30 |
+| NLnet open calls page | html | 2026-10-07T13:30 |
+| iirds.org news page | html | 2026-10-07T13:30 |
+| VDI 2770 reference implementation issue activity | gh\_issues | 2026-10-07T13:30 |
+| IDTA submodel template issue activity | gh\_issues | 2026-10-07T13:30 |
+| Digital Data Chain Consortium news | html | 2026-10-07T13:30 |
+| VDI 2770 XML schema file \(byte hash of the file itself, not its page\) | html | 2026-10-07T13:30 |
+| Fraunhofer IPK Digital Product Passport page \(carries no repository link today\) | html | 2026-10-07T13:30 |
+| Fraunhofer IPK release, 2026-06-01, announcing an open-source DPP test system | html | 2026-10-07T13:30 |
+| GEFEG BatteryPass Ready, the test environment that partner names | html | 2026-10-07T13:30 |
+| VDI 2770 guideline programme \(a draft would appear here first\) | page | 2026-10-07T13:30 |
+| Eclipse Digital Product Passport project page | html | 2026-10-07T13:30 |
