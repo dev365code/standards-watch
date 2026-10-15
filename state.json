@@ -1,6 +1,36 @@
 {
  "_events": [
   {
+   "date": "2026-10-15T11:35:28Z",
+   "source": "NLnet open calls page",
+   "title": "page changed \u2014 worth a look",
+   "url": "https://nlnet.nl/propose/"
+  },
+  {
+   "date": "2026-10-15T11:35:28Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#338 Bugfix Battery MaterialComposition 1.0.3",
+   "url": "https://github.com/admin-shell-io/submodel-templates/pull/338"
+  },
+  {
+   "date": "2026-10-15T11:35:28Z",
+   "source": "Digital Data Chain Consortium news",
+   "title": "page changed \u2014 worth a look",
+   "url": "https://digitaldatachain.com/news/"
+  },
+  {
+   "date": "2026-10-15T11:35:28Z",
+   "source": "Fraunhofer IPK Digital Product Passport page (carries no repository link today)",
+   "title": "page changed \u2014 worth a look",
+   "url": "https://www.ipk.fraunhofer.de/en/expertise-and-technologies/industry-trends/circular-economy/digital-product-passport-dpp.html"
+  },
+  {
+   "date": "2026-10-15T11:35:28Z",
+   "source": "Fraunhofer IPK release, 2026-06-01, announcing an open-source DPP test system",
+   "title": "page changed \u2014 worth a look",
+   "url": "https://www.ipk.fraunhofer.de/en/media/media-information/20260601-die-standards-fuer-den-digitalen-produktpass-sind-da.html"
+  },
+  {
    "date": "2026-10-14T11:58:28Z",
    "source": "Digital Data Chain Consortium news",
    "title": "page changed \u2014 worth a look",
@@ -1004,11 +1034,11 @@
   }
  ],
  "aas-test-engines": {
-  "checked": "2026-10-14T11:58:28Z",
+  "checked": "2026-10-15T11:35:28Z",
   "seen": []
  },
  "basyx-python": {
-  "checked": "2026-10-14T11:58:28Z",
+  "checked": "2026-10-15T11:35:28Z",
   "seen": [
    "131507958",
    "190143295",
@@ -1022,19 +1052,19 @@
   ]
  },
  "ddcc-news": {
-  "checked": "2026-10-14T11:58:28Z",
-  "hash": "69a6fc7c21dbcd2df704df46054235ae3c3f530890eb26c25761a5a583e29014"
+  "checked": "2026-10-15T11:35:28Z",
+  "hash": "21bb73c99c185c82ab99c3df91dffd8c52827a125cc77df9604b6186d1653021"
  },
  "eclipse-dpp": {
-  "checked": "2026-10-14T11:58:28Z",
+  "checked": "2026-10-15T11:35:28Z",
   "hash": "58b8ec79263fc5ff893bd9eee2468eafffc8097c63078e38964ea5939ced41de"
  },
  "gefeg-batterypass-ready": {
-  "checked": "2026-10-14T11:58:28Z",
+  "checked": "2026-10-15T11:35:28Z",
   "hash": "bba2dc38f9f39a51bea22def4752b2170a5e66f9f8935bb0656cfdc0456fcf7e"
  },
  "idta-templates": {
-  "checked": "2026-10-14T11:58:28Z",
+  "checked": "2026-10-15T11:35:28Z",
   "seen": [
    "Artificial Intelligence Dataset",
    "Artificial Intelligence Deployment",
@@ -1094,7 +1124,7 @@
   ]
  },
  "idta-templates-issues": {
-  "checked": "2026-10-14T11:58:28Z",
+  "checked": "2026-10-15T11:35:28Z",
   "seen": [
    "admin-shell-io/submodel-templates#124@2026-09-02T19:26:01Z",
    "admin-shell-io/submodel-templates#124@2026-09-25T14:30:28Z",
@@ -1134,27 +1164,28 @@
    "admin-shell-io/submodel-templates#335@2026-09-29T08:14:56Z",
    "admin-shell-io/submodel-templates#336@2026-10-05T14:26:17Z",
    "admin-shell-io/submodel-templates#337@2026-10-09T15:47:10Z",
+   "admin-shell-io/submodel-templates#338@2026-10-15T10:20:43Z",
    "admin-shell-io/submodel-templates#58@2026-09-25T14:30:26Z",
    "admin-shell-io/submodel-templates#95@2026-09-15T09:10:11Z"
   ]
  },
  "iirds-models-issues": {
-  "checked": "2026-10-14T11:58:28Z",
+  "checked": "2026-10-15T11:35:28Z",
   "seen": []
  },
  "iirds-models-releases": {
-  "checked": "2026-10-14T11:58:28Z",
+  "checked": "2026-10-15T11:35:28Z",
   "seen": [
    "129019841",
    "54592848"
   ]
  },
  "iirds-news": {
-  "checked": "2026-10-14T11:58:28Z",
+  "checked": "2026-10-15T11:35:28Z",
   "hash": "f0bddb4db517c050938f291b7424b74d5643351147de17a27f42e3a1bb75e3a8"
  },
  "iirds-spec-issues": {
-  "checked": "2026-10-14T11:58:28Z",
+  "checked": "2026-10-15T11:35:28Z",
   "seen": [
    "iirds-consortium/specification#25@2026-08-24T08:52:12Z",
    "iirds-consortium/specification#26@2026-08-24T08:52:11Z",
@@ -1168,7 +1199,7 @@
   ]
  },
  "iirds-spec-releases": {
-  "checked": "2026-10-14T11:58:28Z",
+  "checked": "2026-10-15T11:35:28Z",
   "seen": [
    "129021069",
    "260543540",
@@ -1176,19 +1207,19 @@
   ]
  },
  "ipk-dpp-page": {
-  "checked": "2026-10-14T11:58:28Z",
-  "hash": "111ec52e5d6b246383997195dbe8fa81b235253576d5116eace4160b3acc3c8a"
+  "checked": "2026-10-15T11:35:28Z",
+  "hash": "5aeefab2838b8b86415fb7e96e4fc9e8f5dd660d0745db206d31b39dd9a66cea"
  },
  "ipk-dpp-standards-release": {
-  "checked": "2026-10-14T11:58:28Z",
-  "hash": "732318f1905c6b48c3c6375cfd59fa1650dd06cf0aa16f5f8e6bf32a2f37c3e0"
+  "checked": "2026-10-15T11:35:28Z",
+  "hash": "13b7fdc4eed9cd5fd70e95cbfea2d49c658c188b9dbf8d12d5c5a90ab82b5c3e"
  },
  "nlnet-calls": {
-  "checked": "2026-10-14T11:58:28Z",
-  "hash": "39594ddfca3dd214462313ed2fd4921625ac90e145f43bf24393faa923a7453a"
+  "checked": "2026-10-15T11:35:28Z",
+  "hash": "0b75de44f2371abf692a563079b14182e6b37e15ca4a30e25feccb7676621adb"
  },
  "vdi2770-issues": {
-  "checked": "2026-10-14T11:58:28Z",
+  "checked": "2026-10-15T11:35:28Z",
   "seen": []
  },
  "vdi2770-programme": {
@@ -1196,7 +1227,7 @@
   "hash": "3d3c6df3ba8b9c1c058e418e421ca9c7726bb2e54b6d9d0c297e6d6e0ffe6522"
  },
  "vdi2770-releases": {
-  "checked": "2026-10-14T11:58:28Z",
+  "checked": "2026-10-15T11:35:28Z",
   "seen": [
    "137851639",
    "57780092",
