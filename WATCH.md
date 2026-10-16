@@ -5,6 +5,8 @@ Subscribe via [feed.xml](feed.xml) in any RSS reader.
 
 ## Latest
 
+- **2026-10-16** · [page changed — worth a look](https://digitaldatachain.com/news/) · Digital Data Chain Consortium news
+- **2026-10-16** · [page changed — worth a look](https://www.vdi.de/richtlinien/programme-zu-vdi-richtlinien/vdi-2770) · VDI 2770 guideline programme \(a draft would appear here first\)
 - **2026-10-15** · [page changed — worth a look](https://nlnet.nl/propose/) · NLnet open calls page
 - **2026-10-15** · [submodel-templates#338 Bugfix Battery MaterialComposition 1.0.3](https://github.com/admin-shell-io/submodel-templates/pull/338) · IDTA submodel template issue activity
 - **2026-10-15** · [page changed — worth a look](https://digitaldatachain.com/news/) · Digital Data Chain Consortium news
@@ -43,29 +45,27 @@ Subscribe via [feed.xml](feed.xml) in any RSS reader.
 - **2026-10-06** · [page changed — worth a look](https://www.ipk.fraunhofer.de/en/media/media-information/20260601-die-standards-fuer-den-digitalen-produktpass-sind-da.html) · Fraunhofer IPK release, 2026-06-01, announcing an open-source DPP test system
 - **2026-10-06** · [page changed — worth a look](https://dpp.eclipse.org/) · Eclipse Digital Product Passport project page
 - **2026-10-05** · [submodel-templates#336 Smt/aid v1.2](https://github.com/admin-shell-io/submodel-templates/pull/336) · IDTA submodel template issue activity
-- **2026-10-05** · [page changed — worth a look](https://digitaldatachain.com/news/) · Digital Data Chain Consortium news
-- **2026-10-05** · [page changed — worth a look](https://www.ipk.fraunhofer.de/en/expertise-and-technologies/industry-trends/circular-economy/digital-product-passport-dpp.html) · Fraunhofer IPK Digital Product Passport page \(carries no repository link today\)
 
 ## Watched sources
 
 | source | kind | last checked |
 |---|---|---|
-| iiRDS specification releases | gh\_releases | 2026-10-15T11:35 |
-| iiRDS models releases | gh\_releases | 2026-10-15T11:35 |
-| iiRDS spec issue activity | gh\_issues | 2026-10-15T11:35 |
-| iiRDS models issue activity | gh\_issues | 2026-10-15T11:35 |
-| VDI 2770 reference implementation releases | gh\_releases | 2026-10-15T11:35 |
-| IDTA submodel templates \(published\) | gh\_dir | 2026-10-15T11:35 |
-| BaSyx Python SDK releases | gh\_releases | 2026-10-15T11:35 |
-| AAS test engines releases | gh\_releases | 2026-10-15T11:35 |
-| NLnet open calls page | html | 2026-10-15T11:35 |
-| iirds.org news page | html | 2026-10-15T11:35 |
-| VDI 2770 reference implementation issue activity | gh\_issues | 2026-10-15T11:35 |
-| IDTA submodel template issue activity | gh\_issues | 2026-10-15T11:35 |
-| Digital Data Chain Consortium news | html | 2026-10-15T11:35 |
-| VDI 2770 XML schema file \(byte hash of the file itself, not its page\) | html | 2026-10-13T14:17 |
-| Fraunhofer IPK Digital Product Passport page \(carries no repository link today\) | html | 2026-10-15T11:35 |
-| Fraunhofer IPK release, 2026-06-01, announcing an open-source DPP test system | html | 2026-10-15T11:35 |
-| GEFEG BatteryPass Ready, the test environment that partner names | html | 2026-10-15T11:35 |
-| VDI 2770 guideline programme \(a draft would appear here first\) | page | 2026-10-13T14:17 |
-| Eclipse Digital Product Passport project page | html | 2026-10-15T11:35 |
+| iiRDS specification releases | gh\_releases | 2026-10-16T11:29 |
+| iiRDS models releases | gh\_releases | 2026-10-16T11:29 |
+| iiRDS spec issue activity | gh\_issues | 2026-10-16T11:29 |
+| iiRDS models issue activity | gh\_issues | 2026-10-16T11:29 |
+| VDI 2770 reference implementation releases | gh\_releases | 2026-10-16T11:29 |
+| IDTA submodel templates \(published\) | gh\_dir | 2026-10-16T11:29 |
+| BaSyx Python SDK releases | gh\_releases | 2026-10-16T11:29 |
+| AAS test engines releases | gh\_releases | 2026-10-16T11:29 |
+| NLnet open calls page | html | 2026-10-16T11:29 |
+| iirds.org news page | html | 2026-10-16T11:29 |
+| VDI 2770 reference implementation issue activity | gh\_issues | 2026-10-16T11:29 |
+| IDTA submodel template issue activity | gh\_issues | 2026-10-16T11:29 |
+| Digital Data Chain Consortium news | html | 2026-10-16T11:29 |
+| VDI 2770 XML schema file \(byte hash of the file itself, not its page\) | html | 2026-10-16T11:29 |
+| Fraunhofer IPK Digital Product Passport page \(carries no repository link today\) | html | 2026-10-16T11:29 |
+| Fraunhofer IPK release, 2026-06-01, announcing an open-source DPP test system | html | 2026-10-16T11:29 |
+| GEFEG BatteryPass Ready, the test environment that partner names | html | 2026-10-16T11:29 |
+| VDI 2770 guideline programme \(a draft would appear here first\) | page | 2026-10-16T11:29 |
+| Eclipse Digital Product Passport project page | html | 2026-10-16T11:29 |

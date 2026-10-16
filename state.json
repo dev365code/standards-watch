@@ -1,6 +1,18 @@
 {
  "_events": [
   {
+   "date": "2026-10-16T11:29:52Z",
+   "source": "Digital Data Chain Consortium news",
+   "title": "page changed \u2014 worth a look",
+   "url": "https://digitaldatachain.com/news/"
+  },
+  {
+   "date": "2026-10-16T11:29:52Z",
+   "source": "VDI 2770 guideline programme (a draft would appear here first)",
+   "title": "page changed \u2014 worth a look",
+   "url": "https://www.vdi.de/richtlinien/programme-zu-vdi-richtlinien/vdi-2770"
+  },
+  {
    "date": "2026-10-15T11:35:28Z",
    "source": "NLnet open calls page",
    "title": "page changed \u2014 worth a look",
@@ -1034,11 +1046,11 @@
   }
  ],
  "aas-test-engines": {
-  "checked": "2026-10-15T11:35:28Z",
+  "checked": "2026-10-16T11:29:52Z",
   "seen": []
  },
  "basyx-python": {
-  "checked": "2026-10-15T11:35:28Z",
+  "checked": "2026-10-16T11:29:52Z",
   "seen": [
    "131507958",
    "190143295",
@@ -1052,19 +1064,19 @@
   ]
  },
  "ddcc-news": {
-  "checked": "2026-10-15T11:35:28Z",
-  "hash": "21bb73c99c185c82ab99c3df91dffd8c52827a125cc77df9604b6186d1653021"
+  "checked": "2026-10-16T11:29:52Z",
+  "hash": "53232dc87cff3ddb5789ac1767570b925add064c630d87ac65ddacd0bf948122"
  },
  "eclipse-dpp": {
-  "checked": "2026-10-15T11:35:28Z",
+  "checked": "2026-10-16T11:29:52Z",
   "hash": "58b8ec79263fc5ff893bd9eee2468eafffc8097c63078e38964ea5939ced41de"
  },
  "gefeg-batterypass-ready": {
-  "checked": "2026-10-15T11:35:28Z",
+  "checked": "2026-10-16T11:29:52Z",
   "hash": "bba2dc38f9f39a51bea22def4752b2170a5e66f9f8935bb0656cfdc0456fcf7e"
  },
  "idta-templates": {
-  "checked": "2026-10-15T11:35:28Z",
+  "checked": "2026-10-16T11:29:52Z",
   "seen": [
    "Artificial Intelligence Dataset",
    "Artificial Intelligence Deployment",
@@ -1124,7 +1136,7 @@
   ]
  },
  "idta-templates-issues": {
-  "checked": "2026-10-15T11:35:28Z",
+  "checked": "2026-10-16T11:29:52Z",
   "seen": [
    "admin-shell-io/submodel-templates#124@2026-09-02T19:26:01Z",
    "admin-shell-io/submodel-templates#124@2026-09-25T14:30:28Z",
@@ -1170,22 +1182,22 @@
   ]
  },
  "iirds-models-issues": {
-  "checked": "2026-10-15T11:35:28Z",
+  "checked": "2026-10-16T11:29:52Z",
   "seen": []
  },
  "iirds-models-releases": {
-  "checked": "2026-10-15T11:35:28Z",
+  "checked": "2026-10-16T11:29:52Z",
   "seen": [
    "129019841",
    "54592848"
   ]
  },
  "iirds-news": {
-  "checked": "2026-10-15T11:35:28Z",
+  "checked": "2026-10-16T11:29:52Z",
   "hash": "f0bddb4db517c050938f291b7424b74d5643351147de17a27f42e3a1bb75e3a8"
  },
  "iirds-spec-issues": {
-  "checked": "2026-10-15T11:35:28Z",
+  "checked": "2026-10-16T11:29:52Z",
   "seen": [
    "iirds-consortium/specification#25@2026-08-24T08:52:12Z",
    "iirds-consortium/specification#26@2026-08-24T08:52:11Z",
@@ -1199,7 +1211,7 @@
   ]
  },
  "iirds-spec-releases": {
-  "checked": "2026-10-15T11:35:28Z",
+  "checked": "2026-10-16T11:29:52Z",
   "seen": [
    "129021069",
    "260543540",
@@ -1207,27 +1219,27 @@
   ]
  },
  "ipk-dpp-page": {
-  "checked": "2026-10-15T11:35:28Z",
+  "checked": "2026-10-16T11:29:52Z",
   "hash": "5aeefab2838b8b86415fb7e96e4fc9e8f5dd660d0745db206d31b39dd9a66cea"
  },
  "ipk-dpp-standards-release": {
-  "checked": "2026-10-15T11:35:28Z",
+  "checked": "2026-10-16T11:29:52Z",
   "hash": "13b7fdc4eed9cd5fd70e95cbfea2d49c658c188b9dbf8d12d5c5a90ab82b5c3e"
  },
  "nlnet-calls": {
-  "checked": "2026-10-15T11:35:28Z",
+  "checked": "2026-10-16T11:29:52Z",
   "hash": "0b75de44f2371abf692a563079b14182e6b37e15ca4a30e25feccb7676621adb"
  },
  "vdi2770-issues": {
-  "checked": "2026-10-15T11:35:28Z",
+  "checked": "2026-10-16T11:29:52Z",
   "seen": []
  },
  "vdi2770-programme": {
-  "checked": "2026-10-13T14:17:05Z",
-  "hash": "3d3c6df3ba8b9c1c058e418e421ca9c7726bb2e54b6d9d0c297e6d6e0ffe6522"
+  "checked": "2026-10-16T11:29:52Z",
+  "hash": "99552bb3eedd23c516cd099c960b3170037d72208e75215cedbb8d41076d81b1"
  },
  "vdi2770-releases": {
-  "checked": "2026-10-15T11:35:28Z",
+  "checked": "2026-10-16T11:29:52Z",
   "seen": [
    "137851639",
    "57780092",
@@ -1240,7 +1252,7 @@
   ]
  },
  "vdi2770-schema-file": {
-  "checked": "2026-10-13T14:17:05Z",
+  "checked": "2026-10-16T11:29:52Z",
   "hash": "f7a704fe4bba095eaa4e95be0b9853205412301ad09c4bcffb4c5f0f666cb805"
  }
 }
