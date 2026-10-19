@@ -5,6 +5,7 @@ Subscribe via [feed.xml](feed.xml) in any RSS reader.
 
 ## Latest
 
+- **2026-10-19** · [page changed — worth a look](https://digitaldatachain.com/news/) · Digital Data Chain Consortium news
 - **2026-10-18** · [page changed — worth a look](https://digitaldatachain.com/news/) · Digital Data Chain Consortium news
 - **2026-10-17** · [submodel-templates#339 \[Digital Nameplate 3.0.2\]: missing orderRelevant=false on Markings contradicts the specification](https://github.com/admin-shell-io/submodel-templates/issues/339) · IDTA submodel template issue activity
 - **2026-10-17** · [page changed — worth a look](https://digitaldatachain.com/news/) · Digital Data Chain Consortium news
@@ -44,28 +45,27 @@ Subscribe via [feed.xml](feed.xml) in any RSS reader.
 - **2026-10-07** · [page changed — worth a look](https://www.ipk.fraunhofer.de/en/expertise-and-technologies/industry-trends/circular-economy/digital-product-passport-dpp.html) · Fraunhofer IPK Digital Product Passport page \(carries no repository link today\)
 - **2026-10-07** · [page changed — worth a look](https://www.ipk.fraunhofer.de/en/media/media-information/20260601-die-standards-fuer-den-digitalen-produktpass-sind-da.html) · Fraunhofer IPK release, 2026-06-01, announcing an open-source DPP test system
 - **2026-10-07** · [page changed — worth a look](https://www.vdi.de/richtlinien/programme-zu-vdi-richtlinien/vdi-2770) · VDI 2770 guideline programme \(a draft would appear here first\)
-- **2026-10-06** · [page changed — worth a look](https://digitaldatachain.com/news/) · Digital Data Chain Consortium news
 
 ## Watched sources
 
 | source | kind | last checked |
 |---|---|---|
-| iiRDS specification releases | gh\_releases | 2026-10-18T11:13 |
-| iiRDS models releases | gh\_releases | 2026-10-18T11:13 |
-| iiRDS spec issue activity | gh\_issues | 2026-10-18T11:13 |
-| iiRDS models issue activity | gh\_issues | 2026-10-18T11:13 |
-| VDI 2770 reference implementation releases | gh\_releases | 2026-10-18T11:13 |
-| IDTA submodel templates \(published\) | gh\_dir | 2026-10-18T11:13 |
-| BaSyx Python SDK releases | gh\_releases | 2026-10-18T11:13 |
-| AAS test engines releases | gh\_releases | 2026-10-18T11:13 |
-| NLnet open calls page | html | 2026-10-18T11:13 |
-| iirds.org news page | html | 2026-10-18T11:13 |
-| VDI 2770 reference implementation issue activity | gh\_issues | 2026-10-18T11:13 |
-| IDTA submodel template issue activity | gh\_issues | 2026-10-18T11:13 |
-| Digital Data Chain Consortium news | html | 2026-10-18T11:13 |
+| iiRDS specification releases | gh\_releases | 2026-10-19T13:24 |
+| iiRDS models releases | gh\_releases | 2026-10-19T13:24 |
+| iiRDS spec issue activity | gh\_issues | 2026-10-19T13:24 |
+| iiRDS models issue activity | gh\_issues | 2026-10-19T13:24 |
+| VDI 2770 reference implementation releases | gh\_releases | 2026-10-19T13:24 |
+| IDTA submodel templates \(published\) | gh\_dir | 2026-10-19T13:24 |
+| BaSyx Python SDK releases | gh\_releases | 2026-10-19T13:24 |
+| AAS test engines releases | gh\_releases | 2026-10-19T13:24 |
+| NLnet open calls page | html | 2026-10-19T13:24 |
+| iirds.org news page | html | 2026-10-19T13:24 |
+| VDI 2770 reference implementation issue activity | gh\_issues | 2026-10-19T13:24 |
+| IDTA submodel template issue activity | gh\_issues | 2026-10-19T13:24 |
+| Digital Data Chain Consortium news | html | 2026-10-19T13:24 |
 | VDI 2770 XML schema file \(byte hash of the file itself, not its page\) | html | 2026-10-16T11:29 |
-| Fraunhofer IPK Digital Product Passport page \(carries no repository link today\) | html | 2026-10-18T11:13 |
-| Fraunhofer IPK release, 2026-06-01, announcing an open-source DPP test system | html | 2026-10-18T11:13 |
-| GEFEG BatteryPass Ready, the test environment that partner names | html | 2026-10-18T11:13 |
+| Fraunhofer IPK Digital Product Passport page \(carries no repository link today\) | html | 2026-10-19T13:24 |
+| Fraunhofer IPK release, 2026-06-01, announcing an open-source DPP test system | html | 2026-10-19T13:24 |
+| GEFEG BatteryPass Ready, the test environment that partner names | html | 2026-10-19T13:24 |
 | VDI 2770 guideline programme \(a draft would appear here first\) | page | 2026-10-16T11:29 |
-| Eclipse Digital Product Passport project page | html | 2026-10-18T11:13 |
+| Eclipse Digital Product Passport project page | html | 2026-10-19T13:24 |
