@@ -5,6 +5,10 @@ Subscribe via [feed.xml](feed.xml) in any RSS reader.
 
 ## Latest
 
+- **2026-10-22** · [page changed — worth a look](https://nlnet.nl/propose/) · NLnet open calls page
+- **2026-10-22** · [submodel-templates#338 Bugfix Battery MaterialComposition 1.0.3](https://github.com/admin-shell-io/submodel-templates/pull/338) · IDTA submodel template issue activity
+- **2026-10-22** · [page changed — worth a look](https://www.ipk.fraunhofer.de/en/expertise-and-technologies/industry-trends/circular-economy/digital-product-passport-dpp.html) · Fraunhofer IPK Digital Product Passport page \(carries no repository link today\)
+- **2026-10-22** · [page changed — worth a look](https://www.ipk.fraunhofer.de/en/media/media-information/20260601-die-standards-fuer-den-digitalen-produktpass-sind-da.html) · Fraunhofer IPK release, 2026-06-01, announcing an open-source DPP test system
 - **2026-10-21** · [page changed — worth a look](https://nlnet.nl/propose/) · NLnet open calls page
 - **2026-10-21** · [submodel-templates#340 Product change notification template short ids](https://github.com/admin-shell-io/submodel-templates/issues/340) · IDTA submodel template issue activity
 - **2026-10-21** · [page changed — worth a look](https://digitaldatachain.com/news/) · Digital Data Chain Consortium news
@@ -41,31 +45,27 @@ Subscribe via [feed.xml](feed.xml) in any RSS reader.
 - **2026-10-12** · [page changed — worth a look](https://www.ipk.fraunhofer.de/en/media/media-information/20260601-die-standards-fuer-den-digitalen-produktpass-sind-da.html) · Fraunhofer IPK release, 2026-06-01, announcing an open-source DPP test system
 - **2026-10-12** · [page changed — worth a look](https://www.vdi.de/richtlinien/programme-zu-vdi-richtlinien/vdi-2770) · VDI 2770 guideline programme \(a draft would appear here first\)
 - **2026-10-11** · [page changed — worth a look](https://digitaldatachain.com/news/) · Digital Data Chain Consortium news
-- **2026-10-10** · [submodel-templates#337 \[Technical Data for AGV in Intralogistics 1.0\] Value type mismatch on \`VehicleWidth\`, \`VehicleLength\`, and \`VehicleWeight\` between JSON template and Submodel specification](https://github.com/admin-shell-io/submodel-templates/issues/337) · IDTA submodel template issue activity
-- **2026-10-10** · [page changed — worth a look](https://digitaldatachain.com/news/) · Digital Data Chain Consortium news
-- **2026-10-09** · [page changed — worth a look](https://nlnet.nl/propose/) · NLnet open calls page
-- **2026-10-09** · [page changed — worth a look](https://digitaldatachain.com/news/) · Digital Data Chain Consortium news
 
 ## Watched sources
 
 | source | kind | last checked |
 |---|---|---|
-| iiRDS specification releases | gh\_releases | 2026-10-21T12:03 |
-| iiRDS models releases | gh\_releases | 2026-10-21T12:03 |
-| iiRDS spec issue activity | gh\_issues | 2026-10-21T12:03 |
-| iiRDS models issue activity | gh\_issues | 2026-10-21T12:03 |
-| VDI 2770 reference implementation releases | gh\_releases | 2026-10-21T12:03 |
-| IDTA submodel templates \(published\) | gh\_dir | 2026-10-21T12:03 |
-| BaSyx Python SDK releases | gh\_releases | 2026-10-21T12:03 |
-| AAS test engines releases | gh\_releases | 2026-10-21T12:03 |
-| NLnet open calls page | html | 2026-10-21T12:03 |
-| iirds.org news page | html | 2026-10-21T12:03 |
-| VDI 2770 reference implementation issue activity | gh\_issues | 2026-10-21T12:03 |
-| IDTA submodel template issue activity | gh\_issues | 2026-10-21T12:03 |
-| Digital Data Chain Consortium news | html | 2026-10-21T12:03 |
+| iiRDS specification releases | gh\_releases | 2026-10-22T11:58 |
+| iiRDS models releases | gh\_releases | 2026-10-22T11:58 |
+| iiRDS spec issue activity | gh\_issues | 2026-10-22T11:58 |
+| iiRDS models issue activity | gh\_issues | 2026-10-22T11:58 |
+| VDI 2770 reference implementation releases | gh\_releases | 2026-10-22T11:58 |
+| IDTA submodel templates \(published\) | gh\_dir | 2026-10-22T11:58 |
+| BaSyx Python SDK releases | gh\_releases | 2026-10-22T11:58 |
+| AAS test engines releases | gh\_releases | 2026-10-22T11:58 |
+| NLnet open calls page | html | 2026-10-22T11:58 |
+| iirds.org news page | html | 2026-10-22T11:58 |
+| VDI 2770 reference implementation issue activity | gh\_issues | 2026-10-22T11:58 |
+| IDTA submodel template issue activity | gh\_issues | 2026-10-22T11:58 |
+| Digital Data Chain Consortium news | html | 2026-10-22T11:58 |
 | VDI 2770 XML schema file \(byte hash of the file itself, not its page\) | html | 2026-10-21T12:03 |
-| Fraunhofer IPK Digital Product Passport page \(carries no repository link today\) | html | 2026-10-21T12:03 |
-| Fraunhofer IPK release, 2026-06-01, announcing an open-source DPP test system | html | 2026-10-21T12:03 |
-| GEFEG BatteryPass Ready, the test environment that partner names | html | 2026-10-21T12:03 |
+| Fraunhofer IPK Digital Product Passport page \(carries no repository link today\) | html | 2026-10-22T11:58 |
+| Fraunhofer IPK release, 2026-06-01, announcing an open-source DPP test system | html | 2026-10-22T11:58 |
+| GEFEG BatteryPass Ready, the test environment that partner names | html | 2026-10-22T11:58 |
 | VDI 2770 guideline programme \(a draft would appear here first\) | page | 2026-10-21T12:03 |
-| Eclipse Digital Product Passport project page | html | 2026-10-21T12:03 |
+| Eclipse Digital Product Passport project page | html | 2026-10-22T11:58 |
