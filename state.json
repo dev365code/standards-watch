@@ -1,6 +1,54 @@
 {
  "_events": [
   {
+   "date": "2026-10-23T11:44:20Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#344 Inconsistent administrative version metadata in HierarchicalStructures and ContactInformation templates",
+   "url": "https://github.com/admin-shell-io/submodel-templates/issues/344"
+  },
+  {
+   "date": "2026-10-23T11:44:20Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#343 Digital Quality Documents: Inconsistency in Directory Structure",
+   "url": "https://github.com/admin-shell-io/submodel-templates/issues/343"
+  },
+  {
+   "date": "2026-10-23T11:44:20Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#342 Digital Quality Documents: Invalid IdShort in UML",
+   "url": "https://github.com/admin-shell-io/submodel-templates/issues/342"
+  },
+  {
+   "date": "2026-10-23T11:44:20Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#341 Digital Quality Documents: Invalid Cardinalities",
+   "url": "https://github.com/admin-shell-io/submodel-templates/issues/341"
+  },
+  {
+   "date": "2026-10-23T11:44:20Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#277 [Digital Quality Documents] Invalid Qualifier Specification",
+   "url": "https://github.com/admin-shell-io/submodel-templates/issues/277"
+  },
+  {
+   "date": "2026-10-23T11:44:20Z",
+   "source": "Digital Data Chain Consortium news",
+   "title": "page changed \u2014 worth a look",
+   "url": "https://digitaldatachain.com/news/"
+  },
+  {
+   "date": "2026-10-23T11:44:20Z",
+   "source": "Fraunhofer IPK Digital Product Passport page (carries no repository link today)",
+   "title": "page changed \u2014 worth a look",
+   "url": "https://www.ipk.fraunhofer.de/en/expertise-and-technologies/industry-trends/circular-economy/digital-product-passport-dpp.html"
+  },
+  {
+   "date": "2026-10-23T11:44:20Z",
+   "source": "Fraunhofer IPK release, 2026-06-01, announcing an open-source DPP test system",
+   "title": "page changed \u2014 worth a look",
+   "url": "https://www.ipk.fraunhofer.de/en/media/media-information/20260601-die-standards-fuer-den-digitalen-produktpass-sind-da.html"
+  },
+  {
    "date": "2026-10-22T11:58:27Z",
    "source": "NLnet open calls page",
    "title": "page changed \u2014 worth a look",
@@ -1166,11 +1214,11 @@
   }
  ],
  "aas-test-engines": {
-  "checked": "2026-10-22T11:58:27Z",
+  "checked": "2026-10-23T11:44:20Z",
   "seen": []
  },
  "basyx-python": {
-  "checked": "2026-10-22T11:58:27Z",
+  "checked": "2026-10-23T11:44:20Z",
   "seen": [
    "131507958",
    "190143295",
@@ -1184,19 +1232,19 @@
   ]
  },
  "ddcc-news": {
-  "checked": "2026-10-22T11:58:27Z",
-  "hash": "721d455d09cf3373ca08f2603b7213c5a6d2ffd562a797d376063c3481c9ab6a"
+  "checked": "2026-10-23T11:44:20Z",
+  "hash": "297e4f0971fbd9363b6b1365b5641b1cbd3bf2bb3203b9082f8f944f066dbfd3"
  },
  "eclipse-dpp": {
-  "checked": "2026-10-22T11:58:27Z",
+  "checked": "2026-10-23T11:44:20Z",
   "hash": "4677b3234fc43d829623352af5b8e8d287b0554d2f6d5b783cf8f096042c93b1"
  },
  "gefeg-batterypass-ready": {
-  "checked": "2026-10-22T11:58:27Z",
+  "checked": "2026-10-23T11:44:20Z",
   "hash": "62889e9606f18e2db61edc345e78c828f31dac81296ae0a99121288e6aff52d3"
  },
  "idta-templates": {
-  "checked": "2026-10-22T11:58:27Z",
+  "checked": "2026-10-23T11:44:20Z",
   "seen": [
    "Artificial Intelligence Dataset",
    "Artificial Intelligence Deployment",
@@ -1256,7 +1304,7 @@
   ]
  },
  "idta-templates-issues": {
-  "checked": "2026-10-22T11:58:27Z",
+  "checked": "2026-10-23T11:44:20Z",
   "seen": [
    "admin-shell-io/submodel-templates#124@2026-09-02T19:26:01Z",
    "admin-shell-io/submodel-templates#124@2026-09-25T14:30:28Z",
@@ -1267,6 +1315,7 @@
    "admin-shell-io/submodel-templates#246@2026-09-25T14:48:28Z",
    "admin-shell-io/submodel-templates#248@2026-09-28T07:49:15Z",
    "admin-shell-io/submodel-templates#264@2026-09-02T19:22:03Z",
+   "admin-shell-io/submodel-templates#277@2026-10-22T14:07:53Z",
    "admin-shell-io/submodel-templates#278@2026-09-01T07:31:40Z",
    "admin-shell-io/submodel-templates#308@2026-08-25T11:17:28Z",
    "admin-shell-io/submodel-templates#313@2026-09-25T14:43:40Z",
@@ -1300,27 +1349,31 @@
    "admin-shell-io/submodel-templates#338@2026-10-22T08:31:57Z",
    "admin-shell-io/submodel-templates#339@2026-10-16T16:37:14Z",
    "admin-shell-io/submodel-templates#340@2026-10-21T07:00:58Z",
+   "admin-shell-io/submodel-templates#341@2026-10-22T14:08:26Z",
+   "admin-shell-io/submodel-templates#342@2026-10-22T14:08:44Z",
+   "admin-shell-io/submodel-templates#343@2026-10-22T14:08:54Z",
+   "admin-shell-io/submodel-templates#344@2026-10-23T10:26:21Z",
    "admin-shell-io/submodel-templates#58@2026-09-25T14:30:26Z",
    "admin-shell-io/submodel-templates#95@2026-09-15T09:10:11Z"
   ]
  },
  "iirds-models-issues": {
-  "checked": "2026-10-22T11:58:27Z",
+  "checked": "2026-10-23T11:44:20Z",
   "seen": []
  },
  "iirds-models-releases": {
-  "checked": "2026-10-22T11:58:27Z",
+  "checked": "2026-10-23T11:44:20Z",
   "seen": [
    "129019841",
    "54592848"
   ]
  },
  "iirds-news": {
-  "checked": "2026-10-22T11:58:27Z",
+  "checked": "2026-10-23T11:44:20Z",
   "hash": "f0bddb4db517c050938f291b7424b74d5643351147de17a27f42e3a1bb75e3a8"
  },
  "iirds-spec-issues": {
-  "checked": "2026-10-22T11:58:27Z",
+  "checked": "2026-10-23T11:44:20Z",
   "seen": [
    "iirds-consortium/specification#25@2026-08-24T08:52:12Z",
    "iirds-consortium/specification#26@2026-08-24T08:52:11Z",
@@ -1334,7 +1387,7 @@
   ]
  },
  "iirds-spec-releases": {
-  "checked": "2026-10-22T11:58:27Z",
+  "checked": "2026-10-23T11:44:20Z",
   "seen": [
    "129021069",
    "260543540",
@@ -1342,27 +1395,27 @@
   ]
  },
  "ipk-dpp-page": {
-  "checked": "2026-10-22T11:58:27Z",
-  "hash": "157963ec5c33d5c48ca716ab457117fe46700984714f8a2ea7d6b1e05e9ad896"
+  "checked": "2026-10-23T11:44:20Z",
+  "hash": "d0574adbce2ecbde1e35b265625de6c3fcbc3bddfb7fd12f3d5aa4ef0211f0af"
  },
  "ipk-dpp-standards-release": {
-  "checked": "2026-10-22T11:58:27Z",
-  "hash": "cdc9d5c4e40360b03562d803eefe498d59d89645004c7eac91f8530509a2845a"
+  "checked": "2026-10-23T11:44:20Z",
+  "hash": "f16c878ab6e4d5d9430f544d082c3a62898fb8a7e54f3626129955394cfee603"
  },
  "nlnet-calls": {
-  "checked": "2026-10-22T11:58:27Z",
+  "checked": "2026-10-23T11:44:20Z",
   "hash": "68830e20688b544ce18e42c6766dc73841a9cd547328dc419c6883aab142eaaf"
  },
  "vdi2770-issues": {
-  "checked": "2026-10-22T11:58:27Z",
+  "checked": "2026-10-23T11:44:20Z",
   "seen": []
  },
  "vdi2770-programme": {
-  "checked": "2026-10-21T12:03:57Z",
+  "checked": "2026-10-23T11:44:20Z",
   "hash": "1c7dc73f2086483cace1d6bb1278c3325892f5abb17553a6fff90dc072858a4c"
  },
  "vdi2770-releases": {
-  "checked": "2026-10-22T11:58:27Z",
+  "checked": "2026-10-23T11:44:20Z",
   "seen": [
    "137851639",
    "57780092",
@@ -1375,7 +1428,7 @@
   ]
  },
  "vdi2770-schema-file": {
-  "checked": "2026-10-21T12:03:57Z",
+  "checked": "2026-10-23T11:44:20Z",
   "hash": "f7a704fe4bba095eaa4e95be0b9853205412301ad09c4bcffb4c5f0f666cb805"
  }
 }
