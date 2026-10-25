@@ -1232,11 +1232,11 @@
   }
  ],
  "aas-test-engines": {
-  "checked": "2026-10-24T11:07:51Z",
+  "checked": "2026-10-25T11:37:32Z",
   "seen": []
  },
  "basyx-python": {
-  "checked": "2026-10-24T11:07:51Z",
+  "checked": "2026-10-25T11:37:32Z",
   "seen": [
    "131507958",
    "190143295",
@@ -1250,19 +1250,19 @@
   ]
  },
  "ddcc-news": {
-  "checked": "2026-10-24T11:07:51Z",
+  "checked": "2026-10-25T11:37:32Z",
   "hash": "f197491891a8d2c89e0a5be07b0f01a58c8b86758d88a93b43b1cc4134591f02"
  },
  "eclipse-dpp": {
-  "checked": "2026-10-24T11:07:51Z",
+  "checked": "2026-10-25T11:37:32Z",
   "hash": "4677b3234fc43d829623352af5b8e8d287b0554d2f6d5b783cf8f096042c93b1"
  },
  "gefeg-batterypass-ready": {
-  "checked": "2026-10-24T11:07:51Z",
+  "checked": "2026-10-25T11:37:32Z",
   "hash": "62889e9606f18e2db61edc345e78c828f31dac81296ae0a99121288e6aff52d3"
  },
  "idta-templates": {
-  "checked": "2026-10-24T11:07:51Z",
+  "checked": "2026-10-25T11:37:32Z",
   "seen": [
    "Artificial Intelligence Dataset",
    "Artificial Intelligence Deployment",
@@ -1322,7 +1322,7 @@
   ]
  },
  "idta-templates-issues": {
-  "checked": "2026-10-24T11:07:51Z",
+  "checked": "2026-10-25T11:37:32Z",
   "seen": [
    "admin-shell-io/submodel-templates#124@2026-09-02T19:26:01Z",
    "admin-shell-io/submodel-templates#124@2026-09-25T14:30:28Z",
@@ -1376,22 +1376,22 @@
   ]
  },
  "iirds-models-issues": {
-  "checked": "2026-10-24T11:07:51Z",
+  "checked": "2026-10-25T11:37:32Z",
   "seen": []
  },
  "iirds-models-releases": {
-  "checked": "2026-10-24T11:07:51Z",
+  "checked": "2026-10-25T11:37:32Z",
   "seen": [
    "129019841",
    "54592848"
   ]
  },
  "iirds-news": {
-  "checked": "2026-10-24T11:07:51Z",
+  "checked": "2026-10-25T11:37:32Z",
   "hash": "f0bddb4db517c050938f291b7424b74d5643351147de17a27f42e3a1bb75e3a8"
  },
  "iirds-spec-issues": {
-  "checked": "2026-10-24T11:07:51Z",
+  "checked": "2026-10-25T11:37:32Z",
   "seen": [
    "iirds-consortium/specification#25@2026-08-24T08:52:12Z",
    "iirds-consortium/specification#26@2026-08-24T08:52:11Z",
@@ -1405,7 +1405,7 @@
   ]
  },
  "iirds-spec-releases": {
-  "checked": "2026-10-24T11:07:51Z",
+  "checked": "2026-10-25T11:37:32Z",
   "seen": [
    "129021069",
    "260543540",
@@ -1413,27 +1413,27 @@
   ]
  },
  "ipk-dpp-page": {
-  "checked": "2026-10-24T11:07:51Z",
+  "checked": "2026-10-25T11:37:32Z",
   "hash": "c9a470c271940134b5791851bf945c3b6d43015c2e8cc12bc7521374d1d5e53f"
  },
  "ipk-dpp-standards-release": {
-  "checked": "2026-10-24T11:07:51Z",
+  "checked": "2026-10-25T11:37:32Z",
   "hash": "d7bd172bf79c5160a26def8ceae9288184d6dd65b67e92f2aff576cf6eb5e9a6"
  },
  "nlnet-calls": {
-  "checked": "2026-10-24T11:07:51Z",
+  "checked": "2026-10-25T11:37:32Z",
   "hash": "68830e20688b544ce18e42c6766dc73841a9cd547328dc419c6883aab142eaaf"
  },
  "vdi2770-issues": {
-  "checked": "2026-10-24T11:07:51Z",
+  "checked": "2026-10-25T11:37:32Z",
   "seen": []
  },
  "vdi2770-programme": {
-  "checked": "2026-10-24T11:07:51Z",
+  "checked": "2026-10-25T11:37:32Z",
   "hash": "1c7dc73f2086483cace1d6bb1278c3325892f5abb17553a6fff90dc072858a4c"
  },
  "vdi2770-releases": {
-  "checked": "2026-10-24T11:07:51Z",
+  "checked": "2026-10-25T11:37:32Z",
   "seen": [
    "137851639",
    "57780092",
@@ -1446,7 +1446,7 @@
   ]
  },
  "vdi2770-schema-file": {
-  "checked": "2026-10-24T11:07:51Z",
+  "checked": "2026-10-25T11:37:32Z",
   "hash": "f7a704fe4bba095eaa4e95be0b9853205412301ad09c4bcffb4c5f0f666cb805"
  }
 }
