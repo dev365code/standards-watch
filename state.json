@@ -1,6 +1,222 @@
 {
  "_events": [
   {
+   "date": "2026-10-29T13:08:38Z",
+   "source": "NLnet open calls page",
+   "title": "page changed \u2014 worth a look",
+   "url": "https://nlnet.nl/propose/"
+  },
+  {
+   "date": "2026-10-29T13:08:38Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#246 SMT Time Series Data: SMC Record incorrectly described as \"ordered\"",
+   "url": "https://github.com/admin-shell-io/submodel-templates/issues/246"
+  },
+  {
+   "date": "2026-10-29T13:08:38Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#266 [CompanyData 1.0] Typos",
+   "url": "https://github.com/admin-shell-io/submodel-templates/issues/266"
+  },
+  {
+   "date": "2026-10-29T13:08:38Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#323 Asset Interfaces Description v1.1: Issues with JSON",
+   "url": "https://github.com/admin-shell-io/submodel-templates/issues/323"
+  },
+  {
+   "date": "2026-10-29T13:08:38Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#151 HandoverDocumentation 2.0: Malformed Regular Expressions for ValidIdShorts",
+   "url": "https://github.com/admin-shell-io/submodel-templates/issues/151"
+  },
+  {
+   "date": "2026-10-29T13:08:38Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#346 Hierarchical Structures (02011) 1.1.x templates: every Entity's `globalAssetId` is the EntryNode semanticId IRI; nested `Node` entities carry the EntryNode description",
+   "url": "https://github.com/admin-shell-io/submodel-templates/issues/346"
+  },
+  {
+   "date": "2026-10-29T13:08:38Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#347 02020 template JSON: relationship references use `https://admin-shell.io/idta/CapabilityDescription/1/0/Submodel`, but the submodel id is `https://admin-shell.io/idta/SubmodelTemplate/CapabilityDescription/1/0`",
+   "url": "https://github.com/admin-shell-io/submodel-templates/issues/347"
+  },
+  {
+   "date": "2026-10-29T13:08:38Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#341 Digital Quality Documents: Invalid Cardinalities",
+   "url": "https://github.com/admin-shell-io/submodel-templates/issues/341"
+  },
+  {
+   "date": "2026-10-29T13:08:38Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#337 [Technical Data for AGV in Intralogistics 1.0] Value type mismatch on `VehicleWidth`, `VehicleLength`, and `VehicleWeight` between JSON template and Submodel specification",
+   "url": "https://github.com/admin-shell-io/submodel-templates/issues/337"
+  },
+  {
+   "date": "2026-10-29T13:08:38Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#339 [Digital Nameplate 3.0.2]: missing orderRelevant=false on Markings contradicts the specification",
+   "url": "https://github.com/admin-shell-io/submodel-templates/issues/339"
+  },
+  {
+   "date": "2026-10-29T13:08:38Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#345 Submodel `semanticId` is a `ModelReference` with a `Submodel` key in many templates, mostly to an id that is not in the file",
+   "url": "https://github.com/admin-shell-io/submodel-templates/issues/345"
+  },
+  {
+   "date": "2026-10-29T13:08:38Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#224 Several Inconsistencies/Issues with Submodel Semantic Ids",
+   "url": "https://github.com/admin-shell-io/submodel-templates/issues/224"
+  },
+  {
+   "date": "2026-10-29T13:08:38Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#349 bug fix update",
+   "url": "https://github.com/admin-shell-io/submodel-templates/pull/349"
+  },
+  {
+   "date": "2026-10-29T13:08:38Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#77 [Feature] Add Github workflow to automatically check/validate model on commit/push",
+   "url": "https://github.com/admin-shell-io/submodel-templates/issues/77"
+  },
+  {
+   "date": "2026-10-29T13:08:38Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#184 [Digital Nameplate 3.0]: How to Supplement the Digital Nameplate with Additional Information",
+   "url": "https://github.com/admin-shell-io/submodel-templates/issues/184"
+  },
+  {
+   "date": "2026-10-29T13:08:38Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#169 TechnicalData 2.0: Type error in specification",
+   "url": "https://github.com/admin-shell-io/submodel-templates/issues/169"
+  },
+  {
+   "date": "2026-10-29T13:08:38Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#137 [QUESTION]: Where to find referenced Submodel for Submodel Template TimeSeries",
+   "url": "https://github.com/admin-shell-io/submodel-templates/issues/137"
+  },
+  {
+   "date": "2026-10-29T13:08:38Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#120 HandoverDocumentation 1.2 Clarification on submodel id short uniqueness constraint",
+   "url": "https://github.com/admin-shell-io/submodel-templates/issues/120"
+  },
+  {
+   "date": "2026-10-29T13:08:38Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#75 SMT Technical Data - idShort for MainSection",
+   "url": "https://github.com/admin-shell-io/submodel-templates/issues/75"
+  },
+  {
+   "date": "2026-10-29T13:08:38Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#310 Cannot open official IDTA template \"Provision of Simulation Models\" (Type error for XML file!)",
+   "url": "https://github.com/admin-shell-io/submodel-templates/issues/310"
+  },
+  {
+   "date": "2026-10-29T13:08:38Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#281 DEXPI: Missing Semantic Ids",
+   "url": "https://github.com/admin-shell-io/submodel-templates/issues/281"
+  },
+  {
+   "date": "2026-10-29T13:08:38Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#142 Where can I find concept description for global reference of \"https://admin-shell.io/idta/HierarchicalStructures/Node/1/0\"",
+   "url": "https://github.com/admin-shell-io/submodel-templates/issues/142"
+  },
+  {
+   "date": "2026-10-29T13:08:38Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#165 [IDTA-02002-1-0 Contact Information] inconsistent example values for enumeration properties like \"TypeOfFaxNumber\"",
+   "url": "https://github.com/admin-shell-io/submodel-templates/issues/165"
+  },
+  {
+   "date": "2026-10-29T13:08:38Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#240 BUG [Plant Asset Management Specification Sheet V1.0]",
+   "url": "https://github.com/admin-shell-io/submodel-templates/issues/240"
+  },
+  {
+   "date": "2026-10-29T13:08:38Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#239 BUG [SoftwareNameplate V0.15] Wrong value Property InstallationPath",
+   "url": "https://github.com/admin-shell-io/submodel-templates/issues/239"
+  },
+  {
+   "date": "2026-10-29T13:08:38Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#306 [Software Nameplate 1.0] Value type mismatch on `ConfigurationType` between JSON template and Submodel specification",
+   "url": "https://github.com/admin-shell-io/submodel-templates/issues/306"
+  },
+  {
+   "date": "2026-10-29T13:08:38Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#216 DigitalNameplate V3 \u2013 wrong ID for SML Markings in JSON",
+   "url": "https://github.com/admin-shell-io/submodel-templates/issues/216"
+  },
+  {
+   "date": "2026-10-29T13:08:38Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#264 [Carbon Footprint V1.0] Typos in idShort in pdf.",
+   "url": "https://github.com/admin-shell-io/submodel-templates/issues/264"
+  },
+  {
+   "date": "2026-10-29T13:08:38Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#317 BUG [MTP] typos in file names",
+   "url": "https://github.com/admin-shell-io/submodel-templates/issues/317"
+  },
+  {
+   "date": "2026-10-29T13:08:38Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#279 [Maintenance Instructions] Typos in cardinalities.",
+   "url": "https://github.com/admin-shell-io/submodel-templates/issues/279"
+  },
+  {
+   "date": "2026-10-29T13:08:38Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#223 [Purchase Order 1.0] Typo in SubmodelElement: PurchaseRequestResponseReferene",
+   "url": "https://github.com/admin-shell-io/submodel-templates/issues/223"
+  },
+  {
+   "date": "2026-10-29T13:08:38Z",
+   "source": "Digital Data Chain Consortium news",
+   "title": "page changed \u2014 worth a look",
+   "url": "https://digitaldatachain.com/news/"
+  },
+  {
+   "date": "2026-10-29T13:08:38Z",
+   "source": "Fraunhofer IPK Digital Product Passport page (carries no repository link today)",
+   "title": "page changed \u2014 worth a look",
+   "url": "https://www.ipk.fraunhofer.de/en/expertise-and-technologies/industry-trends/circular-economy/digital-product-passport-dpp.html"
+  },
+  {
+   "date": "2026-10-29T13:08:38Z",
+   "source": "Fraunhofer IPK release, 2026-06-01, announcing an open-source DPP test system",
+   "title": "page changed \u2014 worth a look",
+   "url": "https://www.ipk.fraunhofer.de/en/media/media-information/20260601-die-standards-fuer-den-digitalen-produktpass-sind-da.html"
+  },
+  {
+   "date": "2026-10-29T13:08:38Z",
+   "source": "GEFEG BatteryPass Ready, the test environment that partner names",
+   "title": "page changed \u2014 worth a look",
+   "url": "https://batterypass-ready.gefeg.com/"
+  },
+  {
+   "date": "2026-10-29T13:08:38Z",
+   "source": "Eclipse Digital Product Passport project page",
+   "title": "page changed \u2014 worth a look",
+   "url": "https://dpp.eclipse.org/"
+  },
+  {
    "date": "2026-10-28T13:01:13Z",
    "source": "Digital Data Chain Consortium news",
    "title": "page changed \u2014 worth a look",
@@ -1304,11 +1520,11 @@
   }
  ],
  "aas-test-engines": {
-  "checked": "2026-10-28T13:01:13Z",
+  "checked": "2026-10-29T13:08:38Z",
   "seen": []
  },
  "basyx-python": {
-  "checked": "2026-10-28T13:01:13Z",
+  "checked": "2026-10-29T13:08:38Z",
   "seen": [
    "131507958",
    "190143295",
@@ -1322,19 +1538,19 @@
   ]
  },
  "ddcc-news": {
-  "checked": "2026-10-28T13:01:13Z",
-  "hash": "fca19a4a0be252f0fcd7e4969434f71d0f1c6d6fc664d2f8e44829262c90c01b"
+  "checked": "2026-10-29T13:08:38Z",
+  "hash": "a0afa531d2144be9859dafc3dff84c063aa3f253fd261173a850309c33fb7229"
  },
  "eclipse-dpp": {
-  "checked": "2026-10-28T13:01:13Z",
-  "hash": "a01ecd8b734b5c252c75626a7a09a97bb7a2e4e0ccb37c8d525b7178b8d5c5a9"
+  "checked": "2026-10-29T13:08:38Z",
+  "hash": "f5defc498f5bfa8c72d537dc9ed1f4cae52eed989bba80f6df2c3ea63c8b73ff"
  },
  "gefeg-batterypass-ready": {
-  "checked": "2026-10-28T13:01:13Z",
-  "hash": "1bb9d9c3c8bf9ee8d7630045a2108e8e0cec409835d7c158c74cf33abb9fcf3b"
+  "checked": "2026-10-29T13:08:38Z",
+  "hash": "bbdbf2c368260ef2a710e831b6df14dc5907722667ba970b5ca059bd04213cc6"
  },
  "idta-templates": {
-  "checked": "2026-10-28T13:01:13Z",
+  "checked": "2026-10-29T13:08:38Z",
   "seen": [
    "Artificial Intelligence Dataset",
    "Artificial Intelligence Deployment",
@@ -1394,27 +1610,48 @@
   ]
  },
  "idta-templates-issues": {
-  "checked": "2026-10-28T13:01:13Z",
+  "checked": "2026-10-29T13:08:38Z",
   "seen": [
+   "admin-shell-io/submodel-templates#120@2026-10-29T10:32:44Z",
    "admin-shell-io/submodel-templates#124@2026-09-02T19:26:01Z",
    "admin-shell-io/submodel-templates#124@2026-09-25T14:30:28Z",
    "admin-shell-io/submodel-templates#130@2026-09-02T19:22:14Z",
    "admin-shell-io/submodel-templates#135@2026-09-02T19:27:00Z",
+   "admin-shell-io/submodel-templates#137@2026-10-29T10:32:46Z",
+   "admin-shell-io/submodel-templates#142@2026-10-29T10:32:31Z",
+   "admin-shell-io/submodel-templates#151@2026-10-29T11:37:29Z",
+   "admin-shell-io/submodel-templates#165@2026-10-29T10:32:29Z",
+   "admin-shell-io/submodel-templates#169@2026-10-29T10:32:49Z",
+   "admin-shell-io/submodel-templates#184@2026-10-29T10:32:52Z",
    "admin-shell-io/submodel-templates#186@2026-09-15T09:09:05Z",
    "admin-shell-io/submodel-templates#195@2026-09-02T19:27:42Z",
+   "admin-shell-io/submodel-templates#216@2026-10-29T10:32:18Z",
+   "admin-shell-io/submodel-templates#223@2026-10-29T10:32:07Z",
+   "admin-shell-io/submodel-templates#224@2026-10-29T11:37:09Z",
+   "admin-shell-io/submodel-templates#239@2026-10-29T10:32:23Z",
+   "admin-shell-io/submodel-templates#240@2026-10-29T10:32:26Z",
    "admin-shell-io/submodel-templates#246@2026-09-25T14:48:28Z",
+   "admin-shell-io/submodel-templates#246@2026-10-29T11:37:38Z",
    "admin-shell-io/submodel-templates#248@2026-09-28T07:49:15Z",
    "admin-shell-io/submodel-templates#264@2026-09-02T19:22:03Z",
+   "admin-shell-io/submodel-templates#264@2026-10-29T10:32:15Z",
+   "admin-shell-io/submodel-templates#266@2026-10-29T11:37:34Z",
    "admin-shell-io/submodel-templates#277@2026-10-22T14:07:53Z",
    "admin-shell-io/submodel-templates#278@2026-09-01T07:31:40Z",
+   "admin-shell-io/submodel-templates#279@2026-10-29T10:32:10Z",
+   "admin-shell-io/submodel-templates#281@2026-10-29T10:32:34Z",
+   "admin-shell-io/submodel-templates#306@2026-10-29T10:32:20Z",
    "admin-shell-io/submodel-templates#308@2026-08-25T11:17:28Z",
+   "admin-shell-io/submodel-templates#310@2026-10-29T10:32:36Z",
    "admin-shell-io/submodel-templates#313@2026-09-25T14:43:40Z",
+   "admin-shell-io/submodel-templates#317@2026-10-29T10:32:13Z",
    "admin-shell-io/submodel-templates#319@2026-08-27T11:23:42Z",
    "admin-shell-io/submodel-templates#320@2026-08-24T13:34:22Z",
    "admin-shell-io/submodel-templates#321@2026-08-25T17:04:06Z",
    "admin-shell-io/submodel-templates#321@2026-08-27T11:24:12Z",
    "admin-shell-io/submodel-templates#322@2026-08-28T11:15:50Z",
    "admin-shell-io/submodel-templates#323@2026-09-02T08:39:44Z",
+   "admin-shell-io/submodel-templates#323@2026-10-29T11:37:32Z",
    "admin-shell-io/submodel-templates#324@2026-09-03T14:45:18Z",
    "admin-shell-io/submodel-templates#324@2026-09-07T06:15:30Z",
    "admin-shell-io/submodel-templates#325@2026-09-09T07:39:51Z",
@@ -1435,35 +1672,44 @@
    "admin-shell-io/submodel-templates#335@2026-09-29T08:14:56Z",
    "admin-shell-io/submodel-templates#336@2026-10-05T14:26:17Z",
    "admin-shell-io/submodel-templates#337@2026-10-09T15:47:10Z",
+   "admin-shell-io/submodel-templates#337@2026-10-29T11:37:19Z",
    "admin-shell-io/submodel-templates#338@2026-10-15T10:20:43Z",
    "admin-shell-io/submodel-templates#338@2026-10-22T08:31:57Z",
    "admin-shell-io/submodel-templates#339@2026-10-16T16:37:14Z",
+   "admin-shell-io/submodel-templates#339@2026-10-29T11:37:15Z",
    "admin-shell-io/submodel-templates#340@2026-10-21T07:00:58Z",
    "admin-shell-io/submodel-templates#341@2026-10-22T14:08:26Z",
+   "admin-shell-io/submodel-templates#341@2026-10-29T11:37:21Z",
    "admin-shell-io/submodel-templates#342@2026-10-22T14:08:44Z",
    "admin-shell-io/submodel-templates#343@2026-10-22T14:08:54Z",
    "admin-shell-io/submodel-templates#344@2026-10-23T10:26:21Z",
+   "admin-shell-io/submodel-templates#345@2026-10-29T11:37:12Z",
+   "admin-shell-io/submodel-templates#346@2026-10-29T11:37:26Z",
+   "admin-shell-io/submodel-templates#347@2026-10-29T11:37:24Z",
+   "admin-shell-io/submodel-templates#349@2026-10-29T11:35:43Z",
    "admin-shell-io/submodel-templates#58@2026-09-25T14:30:26Z",
+   "admin-shell-io/submodel-templates#75@2026-10-29T10:32:41Z",
+   "admin-shell-io/submodel-templates#77@2026-10-29T11:05:49Z",
    "admin-shell-io/submodel-templates#95@2026-09-15T09:10:11Z"
   ]
  },
  "iirds-models-issues": {
-  "checked": "2026-10-28T13:01:13Z",
+  "checked": "2026-10-29T13:08:38Z",
   "seen": []
  },
  "iirds-models-releases": {
-  "checked": "2026-10-28T13:01:13Z",
+  "checked": "2026-10-29T13:08:38Z",
   "seen": [
    "129019841",
    "54592848"
   ]
  },
  "iirds-news": {
-  "checked": "2026-10-28T13:01:13Z",
+  "checked": "2026-10-29T13:08:38Z",
   "hash": "f0bddb4db517c050938f291b7424b74d5643351147de17a27f42e3a1bb75e3a8"
  },
  "iirds-spec-issues": {
-  "checked": "2026-10-28T13:01:13Z",
+  "checked": "2026-10-29T13:08:38Z",
   "seen": [
    "iirds-consortium/specification#25@2026-08-24T08:52:12Z",
    "iirds-consortium/specification#26@2026-08-24T08:52:11Z",
@@ -1477,7 +1723,7 @@
   ]
  },
  "iirds-spec-releases": {
-  "checked": "2026-10-28T13:01:13Z",
+  "checked": "2026-10-29T13:08:38Z",
   "seen": [
    "129021069",
    "260543540",
@@ -1485,19 +1731,19 @@
   ]
  },
  "ipk-dpp-page": {
-  "checked": "2026-10-28T13:01:13Z",
-  "hash": "e33f81a72a76b021a9f08475b196499397ff275d8573bd3efb8f6aad7a0e9698"
+  "checked": "2026-10-29T13:08:38Z",
+  "hash": "bd1ebc7203666f1fdc44be0e1476f5fcf96bf0bc86ebe3af599f83a17fe5361f"
  },
  "ipk-dpp-standards-release": {
-  "checked": "2026-10-28T13:01:13Z",
-  "hash": "c39e0f981e169888625c89f5cf2a2eb544324b373ed801b968033e279b61bf95"
+  "checked": "2026-10-29T13:08:38Z",
+  "hash": "70a8ec634613d55adb4089e47422559a0066515955683fbe3653753d7fa3b16d"
  },
  "nlnet-calls": {
-  "checked": "2026-10-28T13:01:13Z",
-  "hash": "0dd34285bc68b9e39cf2fc64b962a58addf2b6c85bb274787d68288daf2de909"
+  "checked": "2026-10-29T13:08:38Z",
+  "hash": "e966c2c2b4db4f07eec7b722ca98090dc37ffad5205c9112cae703dcd3bb1a57"
  },
  "vdi2770-issues": {
-  "checked": "2026-10-28T13:01:13Z",
+  "checked": "2026-10-29T13:08:38Z",
   "seen": []
  },
  "vdi2770-programme": {
@@ -1505,7 +1751,7 @@
   "hash": "1c7dc73f2086483cace1d6bb1278c3325892f5abb17553a6fff90dc072858a4c"
  },
  "vdi2770-releases": {
-  "checked": "2026-10-28T13:01:13Z",
+  "checked": "2026-10-29T13:08:38Z",
   "seen": [
    "137851639",
    "57780092",
