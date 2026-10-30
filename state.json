@@ -1,6 +1,54 @@
 {
  "_events": [
   {
+   "date": "2026-10-30T13:01:24Z",
+   "source": "IDTA submodel templates (published)",
+   "title": "new template: Interface Connector",
+   "url": "https://github.com/admin-shell-io/submodel-templates/tree/main/published/Interface%20Connector"
+  },
+  {
+   "date": "2026-10-30T13:01:24Z",
+   "source": "NLnet open calls page",
+   "title": "page changed \u2014 worth a look",
+   "url": "https://nlnet.nl/propose/"
+  },
+  {
+   "date": "2026-10-30T13:01:24Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#352 Interface Connector 1.0: remove Battery Passport text from PDF",
+   "url": "https://github.com/admin-shell-io/submodel-templates/pull/352"
+  },
+  {
+   "date": "2026-10-30T13:01:24Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#351 Interface Connector 1.0: remove AsciiDoc submodel from template",
+   "url": "https://github.com/admin-shell-io/submodel-templates/pull/351"
+  },
+  {
+   "date": "2026-10-30T13:01:24Z",
+   "source": "IDTA submodel template issue activity",
+   "title": "submodel-templates#350 Smt/interface connector v1.0",
+   "url": "https://github.com/admin-shell-io/submodel-templates/pull/350"
+  },
+  {
+   "date": "2026-10-30T13:01:24Z",
+   "source": "Digital Data Chain Consortium news",
+   "title": "page changed \u2014 worth a look",
+   "url": "https://digitaldatachain.com/news/"
+  },
+  {
+   "date": "2026-10-30T13:01:24Z",
+   "source": "Fraunhofer IPK Digital Product Passport page (carries no repository link today)",
+   "title": "page changed \u2014 worth a look",
+   "url": "https://www.ipk.fraunhofer.de/en/expertise-and-technologies/industry-trends/circular-economy/digital-product-passport-dpp.html"
+  },
+  {
+   "date": "2026-10-30T13:01:24Z",
+   "source": "Fraunhofer IPK release, 2026-06-01, announcing an open-source DPP test system",
+   "title": "page changed \u2014 worth a look",
+   "url": "https://www.ipk.fraunhofer.de/en/media/media-information/20260601-die-standards-fuer-den-digitalen-produktpass-sind-da.html"
+  },
+  {
    "date": "2026-10-29T13:08:38Z",
    "source": "NLnet open calls page",
    "title": "page changed \u2014 worth a look",
@@ -1520,11 +1568,11 @@
   }
  ],
  "aas-test-engines": {
-  "checked": "2026-10-29T13:08:38Z",
+  "checked": "2026-10-30T13:01:24Z",
   "seen": []
  },
  "basyx-python": {
-  "checked": "2026-10-29T13:08:38Z",
+  "checked": "2026-10-30T13:01:24Z",
   "seen": [
    "131507958",
    "190143295",
@@ -1538,19 +1586,19 @@
   ]
  },
  "ddcc-news": {
-  "checked": "2026-10-29T13:08:38Z",
-  "hash": "a0afa531d2144be9859dafc3dff84c063aa3f253fd261173a850309c33fb7229"
+  "checked": "2026-10-30T13:01:24Z",
+  "hash": "3ac573a8bca1bf1d8fa5d7160d67a54ef7370456b7c0652009f4b1fd6cb0d50f"
  },
  "eclipse-dpp": {
-  "checked": "2026-10-29T13:08:38Z",
+  "checked": "2026-10-30T13:01:24Z",
   "hash": "f5defc498f5bfa8c72d537dc9ed1f4cae52eed989bba80f6df2c3ea63c8b73ff"
  },
  "gefeg-batterypass-ready": {
-  "checked": "2026-10-29T13:08:38Z",
+  "checked": "2026-10-30T13:01:24Z",
   "hash": "bbdbf2c368260ef2a710e831b6df14dc5907722667ba970b5ca059bd04213cc6"
  },
  "idta-templates": {
-  "checked": "2026-10-29T13:08:38Z",
+  "checked": "2026-10-30T13:01:24Z",
   "seen": [
    "Artificial Intelligence Dataset",
    "Artificial Intelligence Deployment",
@@ -1579,6 +1627,7 @@
    "Hierarchical Structures enabling Bills of Material",
    "Inspection Documents of Steel Products",
    "Intelligent Information  for Use",
+   "Interface Connector",
    "MTP",
    "Maintenance Instructions",
    "Material Data for Plastic Waste",
@@ -1610,7 +1659,7 @@
   ]
  },
  "idta-templates-issues": {
-  "checked": "2026-10-29T13:08:38Z",
+  "checked": "2026-10-30T13:01:24Z",
   "seen": [
    "admin-shell-io/submodel-templates#120@2026-10-29T10:32:44Z",
    "admin-shell-io/submodel-templates#124@2026-09-02T19:26:01Z",
@@ -1687,6 +1736,9 @@
    "admin-shell-io/submodel-templates#346@2026-10-29T11:37:26Z",
    "admin-shell-io/submodel-templates#347@2026-10-29T11:37:24Z",
    "admin-shell-io/submodel-templates#349@2026-10-29T11:35:43Z",
+   "admin-shell-io/submodel-templates#350@2026-10-29T14:15:25Z",
+   "admin-shell-io/submodel-templates#351@2026-10-29T14:39:51Z",
+   "admin-shell-io/submodel-templates#352@2026-10-29T14:51:10Z",
    "admin-shell-io/submodel-templates#58@2026-09-25T14:30:26Z",
    "admin-shell-io/submodel-templates#75@2026-10-29T10:32:41Z",
    "admin-shell-io/submodel-templates#77@2026-10-29T11:05:49Z",
@@ -1694,22 +1746,22 @@
   ]
  },
  "iirds-models-issues": {
-  "checked": "2026-10-29T13:08:38Z",
+  "checked": "2026-10-30T13:01:24Z",
   "seen": []
  },
  "iirds-models-releases": {
-  "checked": "2026-10-29T13:08:38Z",
+  "checked": "2026-10-30T13:01:24Z",
   "seen": [
    "129019841",
    "54592848"
   ]
  },
  "iirds-news": {
-  "checked": "2026-10-29T13:08:38Z",
+  "checked": "2026-10-30T13:01:24Z",
   "hash": "f0bddb4db517c050938f291b7424b74d5643351147de17a27f42e3a1bb75e3a8"
  },
  "iirds-spec-issues": {
-  "checked": "2026-10-29T13:08:38Z",
+  "checked": "2026-10-30T13:01:24Z",
   "seen": [
    "iirds-consortium/specification#25@2026-08-24T08:52:12Z",
    "iirds-consortium/specification#26@2026-08-24T08:52:11Z",
@@ -1723,7 +1775,7 @@
   ]
  },
  "iirds-spec-releases": {
-  "checked": "2026-10-29T13:08:38Z",
+  "checked": "2026-10-30T13:01:24Z",
   "seen": [
    "129021069",
    "260543540",
@@ -1731,27 +1783,27 @@
   ]
  },
  "ipk-dpp-page": {
-  "checked": "2026-10-29T13:08:38Z",
-  "hash": "bd1ebc7203666f1fdc44be0e1476f5fcf96bf0bc86ebe3af599f83a17fe5361f"
+  "checked": "2026-10-30T13:01:24Z",
+  "hash": "4e176c8293037ccec29f0400e31c0f37717832a35f255e6b998d64b675c752eb"
  },
  "ipk-dpp-standards-release": {
-  "checked": "2026-10-29T13:08:38Z",
-  "hash": "70a8ec634613d55adb4089e47422559a0066515955683fbe3653753d7fa3b16d"
+  "checked": "2026-10-30T13:01:24Z",
+  "hash": "00a34c5e0e24cc3f19385673b7d193dcc6ba5f5829bd611c2bdb213d02e3212f"
  },
  "nlnet-calls": {
-  "checked": "2026-10-29T13:08:38Z",
-  "hash": "e966c2c2b4db4f07eec7b722ca98090dc37ffad5205c9112cae703dcd3bb1a57"
+  "checked": "2026-10-30T13:01:24Z",
+  "hash": "946ec2c0e3d2b16347b4b1891e7a94b5a7605528cdde9b376bd789b81e7a6e52"
  },
  "vdi2770-issues": {
-  "checked": "2026-10-29T13:08:38Z",
+  "checked": "2026-10-30T13:01:24Z",
   "seen": []
  },
  "vdi2770-programme": {
-  "checked": "2026-10-26T13:10:09Z",
+  "checked": "2026-10-30T13:01:24Z",
   "hash": "1c7dc73f2086483cace1d6bb1278c3325892f5abb17553a6fff90dc072858a4c"
  },
  "vdi2770-releases": {
-  "checked": "2026-10-29T13:08:38Z",
+  "checked": "2026-10-30T13:01:24Z",
   "seen": [
    "137851639",
    "57780092",
@@ -1764,7 +1816,7 @@
   ]
  },
  "vdi2770-schema-file": {
-  "checked": "2026-10-26T13:10:09Z",
+  "checked": "2026-10-30T13:01:24Z",
   "hash": "f7a704fe4bba095eaa4e95be0b9853205412301ad09c4bcffb4c5f0f666cb805"
  }
 }
