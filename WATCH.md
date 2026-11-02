@@ -5,6 +5,10 @@ Subscribe via [feed.xml](feed.xml) in any RSS reader.
 
 ## Latest
 
+- **2026-11-02** · [submodel-templates#353 \[SMT 02017 \| AID 1.2\] Clarify bacv\_hasValueMap item cardinality and correct cardinality qualifier spelling](https://github.com/admin-shell-io/submodel-templates/issues/353) · IDTA submodel template issue activity
+- **2026-11-02** · [page changed — worth a look](https://www.ipk.fraunhofer.de/en/expertise-and-technologies/industry-trends/circular-economy/digital-product-passport-dpp.html) · Fraunhofer IPK Digital Product Passport page \(carries no repository link today\)
+- **2026-11-02** · [page changed — worth a look](https://www.ipk.fraunhofer.de/en/media/media-information/20260601-die-standards-fuer-den-digitalen-produktpass-sind-da.html) · Fraunhofer IPK release, 2026-06-01, announcing an open-source DPP test system
+- **2026-11-02** · [page changed — worth a look](https://www.vdi.de/richtlinien/programme-zu-vdi-richtlinien/vdi-2770) · VDI 2770 guideline programme \(a draft would appear here first\)
 - **2026-10-31** · [page changed — worth a look](https://www.ipk.fraunhofer.de/en/expertise-and-technologies/industry-trends/circular-economy/digital-product-passport-dpp.html) · Fraunhofer IPK Digital Product Passport page \(carries no repository link today\)
 - **2026-10-31** · [page changed — worth a look](https://www.ipk.fraunhofer.de/en/media/media-information/20260601-die-standards-fuer-den-digitalen-produktpass-sind-da.html) · Fraunhofer IPK release, 2026-06-01, announcing an open-source DPP test system
 - **2026-10-31** · [page changed — worth a look](https://batterypass-ready.gefeg.com/) · GEFEG BatteryPass Ready, the test environment that partner names
@@ -41,31 +45,27 @@ Subscribe via [feed.xml](feed.xml) in any RSS reader.
 - **2026-10-29** · [submodel-templates#165 \[IDTA-02002-1-0 Contact Information\] inconsistent example values for enumeration properties like "TypeOfFaxNumber"](https://github.com/admin-shell-io/submodel-templates/issues/165) · IDTA submodel template issue activity
 - **2026-10-29** · [submodel-templates#240 BUG \[Plant Asset Management Specification Sheet V1.0\]](https://github.com/admin-shell-io/submodel-templates/issues/240) · IDTA submodel template issue activity
 - **2026-10-29** · [submodel-templates#239 BUG \[SoftwareNameplate V0.15\] Wrong value Property InstallationPath](https://github.com/admin-shell-io/submodel-templates/issues/239) · IDTA submodel template issue activity
-- **2026-10-29** · [submodel-templates#306 \[Software Nameplate 1.0\] Value type mismatch on \`ConfigurationType\` between JSON template and Submodel specification](https://github.com/admin-shell-io/submodel-templates/issues/306) · IDTA submodel template issue activity
-- **2026-10-29** · [submodel-templates#216 DigitalNameplate V3 – wrong ID for SML Markings in JSON](https://github.com/admin-shell-io/submodel-templates/issues/216) · IDTA submodel template issue activity
-- **2026-10-29** · [submodel-templates#264 \[Carbon Footprint V1.0\] Typos in idShort in pdf.](https://github.com/admin-shell-io/submodel-templates/issues/264) · IDTA submodel template issue activity
-- **2026-10-29** · [submodel-templates#317 BUG \[MTP\] typos in file names](https://github.com/admin-shell-io/submodel-templates/issues/317) · IDTA submodel template issue activity
 
 ## Watched sources
 
 | source | kind | last checked |
 |---|---|---|
-| iiRDS specification releases | gh\_releases | 2026-11-01T13:30 |
-| iiRDS models releases | gh\_releases | 2026-11-01T13:30 |
-| iiRDS spec issue activity | gh\_issues | 2026-11-01T13:30 |
-| iiRDS models issue activity | gh\_issues | 2026-11-01T13:30 |
-| VDI 2770 reference implementation releases | gh\_releases | 2026-11-01T13:30 |
-| IDTA submodel templates \(published\) | gh\_dir | 2026-11-01T13:30 |
-| BaSyx Python SDK releases | gh\_releases | 2026-11-01T13:30 |
-| AAS test engines releases | gh\_releases | 2026-11-01T13:30 |
-| NLnet open calls page | html | 2026-11-01T13:30 |
-| iirds.org news page | html | 2026-11-01T13:30 |
-| VDI 2770 reference implementation issue activity | gh\_issues | 2026-11-01T13:30 |
-| IDTA submodel template issue activity | gh\_issues | 2026-11-01T13:30 |
-| Digital Data Chain Consortium news | html | 2026-11-01T13:30 |
-| VDI 2770 XML schema file \(byte hash of the file itself, not its page\) | html | 2026-11-01T13:30 |
-| Fraunhofer IPK Digital Product Passport page \(carries no repository link today\) | html | 2026-11-01T13:30 |
-| Fraunhofer IPK release, 2026-06-01, announcing an open-source DPP test system | html | 2026-11-01T13:30 |
-| GEFEG BatteryPass Ready, the test environment that partner names | html | 2026-11-01T13:30 |
-| VDI 2770 guideline programme \(a draft would appear here first\) | page | 2026-11-01T13:30 |
-| Eclipse Digital Product Passport project page | html | 2026-11-01T13:30 |
+| iiRDS specification releases | gh\_releases | 2026-11-02T16:03 |
+| iiRDS models releases | gh\_releases | 2026-11-02T16:03 |
+| iiRDS spec issue activity | gh\_issues | 2026-11-02T16:03 |
+| iiRDS models issue activity | gh\_issues | 2026-11-02T16:03 |
+| VDI 2770 reference implementation releases | gh\_releases | 2026-11-02T16:03 |
+| IDTA submodel templates \(published\) | gh\_dir | 2026-11-02T16:03 |
+| BaSyx Python SDK releases | gh\_releases | 2026-11-02T16:03 |
+| AAS test engines releases | gh\_releases | 2026-11-02T16:03 |
+| NLnet open calls page | html | 2026-11-02T16:03 |
+| iirds.org news page | html | 2026-11-02T16:03 |
+| VDI 2770 reference implementation issue activity | gh\_issues | 2026-11-02T16:03 |
+| IDTA submodel template issue activity | gh\_issues | 2026-11-02T16:03 |
+| Digital Data Chain Consortium news | html | 2026-11-02T16:03 |
+| VDI 2770 XML schema file \(byte hash of the file itself, not its page\) | html | 2026-11-02T16:03 |
+| Fraunhofer IPK Digital Product Passport page \(carries no repository link today\) | html | 2026-11-02T16:03 |
+| Fraunhofer IPK release, 2026-06-01, announcing an open-source DPP test system | html | 2026-11-02T16:03 |
+| GEFEG BatteryPass Ready, the test environment that partner names | html | 2026-11-02T16:03 |
+| VDI 2770 guideline programme \(a draft would appear here first\) | page | 2026-11-02T16:03 |
+| Eclipse Digital Product Passport project page | html | 2026-11-02T16:03 |
