@@ -1,6 +1,18 @@
 {
  "_events": [
   {
+   "date": "2026-11-09T16:28:36Z",
+   "source": "Fraunhofer IPK Digital Product Passport page (carries no repository link today)",
+   "title": "page changed \u2014 worth a look",
+   "url": "https://www.ipk.fraunhofer.de/en/expertise-and-technologies/industry-trends/circular-economy/digital-product-passport-dpp.html"
+  },
+  {
+   "date": "2026-11-09T16:28:36Z",
+   "source": "Fraunhofer IPK release, 2026-06-01, announcing an open-source DPP test system",
+   "title": "page changed \u2014 worth a look",
+   "url": "https://www.ipk.fraunhofer.de/en/media/media-information/20260601-die-standards-fuer-den-digitalen-produktpass-sind-da.html"
+  },
+  {
    "date": "2026-11-08T13:30:05Z",
    "source": "Digital Data Chain Consortium news",
    "title": "page changed \u2014 worth a look",
@@ -1754,11 +1766,11 @@
   }
  ],
  "aas-test-engines": {
-  "checked": "2026-11-08T13:30:05Z",
+  "checked": "2026-11-09T16:28:36Z",
   "seen": []
  },
  "basyx-python": {
-  "checked": "2026-11-08T13:30:05Z",
+  "checked": "2026-11-09T16:28:36Z",
   "seen": [
    "131507958",
    "190143295",
@@ -1772,19 +1784,19 @@
   ]
  },
  "ddcc-news": {
-  "checked": "2026-11-08T13:30:05Z",
+  "checked": "2026-11-09T16:28:36Z",
   "hash": "3f71b507951afc4475d7a44a41ce8b4e83435356a1438c7a63ab4b53d38d25ea"
  },
  "eclipse-dpp": {
-  "checked": "2026-11-08T13:30:05Z",
+  "checked": "2026-11-09T16:28:36Z",
   "hash": "0957819a61fe0dfb40ac0d96494c102a693483b882ea69a7520c111c2bbf4f5c"
  },
  "gefeg-batterypass-ready": {
-  "checked": "2026-11-08T13:30:05Z",
+  "checked": "2026-11-09T16:28:36Z",
   "hash": "84bd1bb9e19fcae4e9d27e78d4055ae8281112974abe0c5ba83640939d9c1a52"
  },
  "idta-templates": {
-  "checked": "2026-11-08T13:30:05Z",
+  "checked": "2026-11-09T16:28:36Z",
   "seen": [
    "Artificial Intelligence Dataset",
    "Artificial Intelligence Deployment",
@@ -1845,7 +1857,7 @@
   ]
  },
  "idta-templates-issues": {
-  "checked": "2026-11-08T13:30:05Z",
+  "checked": "2026-11-09T16:28:36Z",
   "seen": [
    "admin-shell-io/submodel-templates#120@2026-10-29T10:32:44Z",
    "admin-shell-io/submodel-templates#124@2026-09-02T19:26:01Z",
@@ -1939,22 +1951,22 @@
   ]
  },
  "iirds-models-issues": {
-  "checked": "2026-11-08T13:30:05Z",
+  "checked": "2026-11-09T16:28:36Z",
   "seen": []
  },
  "iirds-models-releases": {
-  "checked": "2026-11-08T13:30:05Z",
+  "checked": "2026-11-09T16:28:36Z",
   "seen": [
    "129019841",
    "54592848"
   ]
  },
  "iirds-news": {
-  "checked": "2026-11-08T13:30:05Z",
+  "checked": "2026-11-09T16:28:36Z",
   "hash": "f0bddb4db517c050938f291b7424b74d5643351147de17a27f42e3a1bb75e3a8"
  },
  "iirds-spec-issues": {
-  "checked": "2026-11-08T13:30:05Z",
+  "checked": "2026-11-09T16:28:36Z",
   "seen": [
    "iirds-consortium/specification#25@2026-08-24T08:52:12Z",
    "iirds-consortium/specification#26@2026-08-24T08:52:11Z",
@@ -1968,7 +1980,7 @@
   ]
  },
  "iirds-spec-releases": {
-  "checked": "2026-11-08T13:30:05Z",
+  "checked": "2026-11-09T16:28:36Z",
   "seen": [
    "129021069",
    "260543540",
@@ -1976,19 +1988,19 @@
   ]
  },
  "ipk-dpp-page": {
-  "checked": "2026-11-08T13:30:05Z",
-  "hash": "17ffb4554015181ee491a93d6863ad4f804a0cacbfabee3e574969a30aa0c2c2"
+  "checked": "2026-11-09T16:28:36Z",
+  "hash": "076b5fc7711469f3ac229a624b0068694d9e1f8919fcb2df5d143cbdab15b932"
  },
  "ipk-dpp-standards-release": {
-  "checked": "2026-11-08T13:30:05Z",
-  "hash": "d446f419c01632aadb95f8388e165d6d4fcc48a519aafd5527201bdb7053dca4"
+  "checked": "2026-11-09T16:28:36Z",
+  "hash": "475e08801539a240eeb306f42fc0cf93f604729c990f03cfe3dfe2b6ccaf4517"
  },
  "nlnet-calls": {
-  "checked": "2026-11-08T13:30:05Z",
+  "checked": "2026-11-09T16:28:36Z",
   "hash": "0d2d49d0267f28483fd86e46754b741c439aa22680fb3ec91d1bfac5a8cac595"
  },
  "vdi2770-issues": {
-  "checked": "2026-11-08T13:30:05Z",
+  "checked": "2026-11-09T16:28:36Z",
   "seen": []
  },
  "vdi2770-programme": {
@@ -1996,7 +2008,7 @@
   "hash": "905bd2a139e31bed7002c9768138d174f3eeed3e6cb2cfcbd082fd968a05dab3"
  },
  "vdi2770-releases": {
-  "checked": "2026-11-08T13:30:05Z",
+  "checked": "2026-11-09T16:28:36Z",
   "seen": [
    "137851639",
    "57780092",
