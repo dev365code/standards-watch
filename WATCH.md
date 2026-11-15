@@ -50,22 +50,22 @@ Subscribe via [feed.xml](feed.xml) in any RSS reader.
 
 | source | kind | last checked |
 |---|---|---|
-| iiRDS specification releases | gh\_releases | 2026-11-14T13:36 |
-| iiRDS models releases | gh\_releases | 2026-11-14T13:36 |
-| iiRDS spec issue activity | gh\_issues | 2026-11-14T13:36 |
-| iiRDS models issue activity | gh\_issues | 2026-11-14T13:36 |
-| VDI 2770 reference implementation releases | gh\_releases | 2026-11-14T13:36 |
-| IDTA submodel templates \(published\) | gh\_dir | 2026-11-14T13:36 |
-| BaSyx Python SDK releases | gh\_releases | 2026-11-14T13:36 |
-| AAS test engines releases | gh\_releases | 2026-11-14T13:36 |
-| NLnet open calls page | html | 2026-11-14T13:36 |
-| iirds.org news page | html | 2026-11-14T13:36 |
-| VDI 2770 reference implementation issue activity | gh\_issues | 2026-11-14T13:36 |
-| IDTA submodel template issue activity | gh\_issues | 2026-11-14T13:36 |
-| Digital Data Chain Consortium news | html | 2026-11-14T13:36 |
+| iiRDS specification releases | gh\_releases | 2026-11-15T13:59 |
+| iiRDS models releases | gh\_releases | 2026-11-15T13:59 |
+| iiRDS spec issue activity | gh\_issues | 2026-11-15T13:59 |
+| iiRDS models issue activity | gh\_issues | 2026-11-15T13:59 |
+| VDI 2770 reference implementation releases | gh\_releases | 2026-11-15T13:59 |
+| IDTA submodel templates \(published\) | gh\_dir | 2026-11-15T13:59 |
+| BaSyx Python SDK releases | gh\_releases | 2026-11-15T13:59 |
+| AAS test engines releases | gh\_releases | 2026-11-15T13:59 |
+| NLnet open calls page | html | 2026-11-15T13:59 |
+| iirds.org news page | html | 2026-11-15T13:59 |
+| VDI 2770 reference implementation issue activity | gh\_issues | 2026-11-15T13:59 |
+| IDTA submodel template issue activity | gh\_issues | 2026-11-15T13:59 |
+| Digital Data Chain Consortium news | html | 2026-11-15T13:59 |
 | VDI 2770 XML schema file \(byte hash of the file itself, not its page\) | html | 2026-11-14T13:36 |
-| Fraunhofer IPK Digital Product Passport page \(carries no repository link today\) | html | 2026-11-14T13:36 |
-| Fraunhofer IPK release, 2026-06-01, announcing an open-source DPP test system | html | 2026-11-14T13:36 |
-| GEFEG BatteryPass Ready, the test environment that partner names | html | 2026-11-14T13:36 |
+| Fraunhofer IPK Digital Product Passport page \(carries no repository link today\) | html | 2026-11-15T13:59 |
+| Fraunhofer IPK release, 2026-06-01, announcing an open-source DPP test system | html | 2026-11-15T13:59 |
+| GEFEG BatteryPass Ready, the test environment that partner names | html | 2026-11-15T13:59 |
 | VDI 2770 guideline programme \(a draft would appear here first\) | page | 2026-11-14T13:36 |
-| Eclipse Digital Product Passport project page | html | 2026-11-14T13:36 |
+| Eclipse Digital Product Passport project page | html | 2026-11-15T13:59 |
