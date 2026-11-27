@@ -5,6 +5,9 @@ Subscribe via [feed.xml](feed.xml) in any RSS reader.
 
 ## Latest
 
+- **2026-11-27** · [page changed — worth a look](https://www.ipk.fraunhofer.de/en/expertise-and-technologies/industry-trends/circular-economy/digital-product-passport-dpp.html) · Fraunhofer IPK Digital Product Passport page \(carries no repository link today\)
+- **2026-11-27** · [page changed — worth a look](https://www.ipk.fraunhofer.de/en/media/media-information/20260601-die-standards-fuer-den-digitalen-produktpass-sind-da.html) · Fraunhofer IPK release, 2026-06-01, announcing an open-source DPP test system
+- **2026-11-27** · [page changed — worth a look](https://batterypass-ready.gefeg.com/) · GEFEG BatteryPass Ready, the test environment that partner names
 - **2026-11-26** · [page changed — worth a look](https://nlnet.nl/propose/) · NLnet open calls page
 - **2026-11-26** · [page changed — worth a look](https://www.iirds.org/news/) · iirds.org news page
 - **2026-11-26** · [page changed — worth a look](https://www.ipk.fraunhofer.de/en/expertise-and-technologies/industry-trends/circular-economy/digital-product-passport-dpp.html) · Fraunhofer IPK Digital Product Passport page \(carries no repository link today\)
@@ -42,30 +45,27 @@ Subscribe via [feed.xml](feed.xml) in any RSS reader.
 - **2026-11-19** · [submodel-templates#361 \[IDTA 02036 PCN V1.0\] Manufacturer address \(\`PhysicalAddress\_\_0\_\_\` / \`PhysicalAddress\_\_1\_\_\`\) makes the template unusable for validating instances](https://github.com/admin-shell-io/submodel-templates/issues/361) · IDTA submodel template issue activity
 - **2026-11-19** · [submodel-templates#359 \[Maintenance Instructions\] Several tools/consumables/spare parts per step, but one quantity](https://github.com/admin-shell-io/submodel-templates/issues/359) · IDTA submodel template issue activity
 - **2026-11-19** · [submodel-templates#360 Inconsistend definitions for Manufacturer Order Code in Technical Data, Nameplate and PCN](https://github.com/admin-shell-io/submodel-templates/issues/360) · IDTA submodel template issue activity
-- **2026-11-19** · [submodel-templates#308 \[TechnicalData\]: Adding commercial properties](https://github.com/admin-shell-io/submodel-templates/issues/308) · IDTA submodel template issue activity
-- **2026-11-19** · [page changed — worth a look](https://www.ipk.fraunhofer.de/en/expertise-and-technologies/industry-trends/circular-economy/digital-product-passport-dpp.html) · Fraunhofer IPK Digital Product Passport page \(carries no repository link today\)
-- **2026-11-19** · [page changed — worth a look](https://www.ipk.fraunhofer.de/en/media/media-information/20260601-die-standards-fuer-den-digitalen-produktpass-sind-da.html) · Fraunhofer IPK release, 2026-06-01, announcing an open-source DPP test system
 
 ## Watched sources
 
 | source | kind | last checked |
 |---|---|---|
-| iiRDS specification releases | gh\_releases | 2026-11-26T16:58 |
-| iiRDS models releases | gh\_releases | 2026-11-26T16:58 |
-| iiRDS spec issue activity | gh\_issues | 2026-11-26T16:58 |
-| iiRDS models issue activity | gh\_issues | 2026-11-26T16:58 |
-| VDI 2770 reference implementation releases | gh\_releases | 2026-11-26T16:58 |
-| IDTA submodel templates \(published\) | gh\_dir | 2026-11-26T16:58 |
-| BaSyx Python SDK releases | gh\_releases | 2026-11-26T16:58 |
-| AAS test engines releases | gh\_releases | 2026-11-26T16:58 |
-| NLnet open calls page | html | 2026-11-26T16:58 |
-| iirds.org news page | html | 2026-11-26T16:58 |
-| VDI 2770 reference implementation issue activity | gh\_issues | 2026-11-26T16:58 |
-| IDTA submodel template issue activity | gh\_issues | 2026-11-26T16:58 |
-| Digital Data Chain Consortium news | html | 2026-11-26T16:58 |
-| VDI 2770 XML schema file \(byte hash of the file itself, not its page\) | html | 2026-11-26T16:58 |
-| Fraunhofer IPK Digital Product Passport page \(carries no repository link today\) | html | 2026-11-26T16:58 |
-| Fraunhofer IPK release, 2026-06-01, announcing an open-source DPP test system | html | 2026-11-26T16:58 |
-| GEFEG BatteryPass Ready, the test environment that partner names | html | 2026-11-26T16:58 |
-| VDI 2770 guideline programme \(a draft would appear here first\) | page | 2026-11-26T16:58 |
-| Eclipse Digital Product Passport project page | html | 2026-11-26T16:58 |
+| iiRDS specification releases | gh\_releases | 2026-11-27T16:44 |
+| iiRDS models releases | gh\_releases | 2026-11-27T16:44 |
+| iiRDS spec issue activity | gh\_issues | 2026-11-27T16:44 |
+| iiRDS models issue activity | gh\_issues | 2026-11-27T16:44 |
+| VDI 2770 reference implementation releases | gh\_releases | 2026-11-27T16:44 |
+| IDTA submodel templates \(published\) | gh\_dir | 2026-11-27T16:44 |
+| BaSyx Python SDK releases | gh\_releases | 2026-11-27T16:44 |
+| AAS test engines releases | gh\_releases | 2026-11-27T16:44 |
+| NLnet open calls page | html | 2026-11-27T16:44 |
+| iirds.org news page | html | 2026-11-27T16:44 |
+| VDI 2770 reference implementation issue activity | gh\_issues | 2026-11-27T16:44 |
+| IDTA submodel template issue activity | gh\_issues | 2026-11-27T16:44 |
+| Digital Data Chain Consortium news | html | 2026-11-27T16:44 |
+| VDI 2770 XML schema file \(byte hash of the file itself, not its page\) | html | 2026-11-27T16:44 |
+| Fraunhofer IPK Digital Product Passport page \(carries no repository link today\) | html | 2026-11-27T16:44 |
+| Fraunhofer IPK release, 2026-06-01, announcing an open-source DPP test system | html | 2026-11-27T16:44 |
+| GEFEG BatteryPass Ready, the test environment that partner names | html | 2026-11-27T16:44 |
+| VDI 2770 guideline programme \(a draft would appear here first\) | page | 2026-11-27T16:44 |
+| Eclipse Digital Product Passport project page | html | 2026-11-27T16:44 |
